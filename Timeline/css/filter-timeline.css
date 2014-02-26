@@ -1,0 +1,15 @@
+﻿.clsHeadline {
+    font-family:Arial; 
+    font-weight:bold;
+    color:#64AF00;
+}
+.clsText {
+    font-family:Arial;
+    color:#558510;
+}
+.ErrorMessage { 
+    font-weight:bold; 
+    font-family:Arial; 
+    color:Red; 
+    text-align:center; 
+}

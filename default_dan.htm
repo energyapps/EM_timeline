@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta charset="utf-8">
+    
+    <title>EM History Timeline</title>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script> 
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js" type="text/javascript"></script>
+    <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/south-street/jquery-ui.css" rel="stylesheet" /> 
+
+    <style type="text/css">
+        .vco-storyjs{font-family:'Pontano Sans',sans-serif;}.vco-storyjs .twitter,.vco-storyjs .vcard,.vco-storyjs .messege,.vco-storyjs .credit,.vco-storyjs .caption,.vco-storyjs .zoom-in,.vco-storyjs .zoom-out,.vco-storyjs .back-home,.vco-storyjs .time-interval div,.vco-storyjs .time-interval-major div,.vco-storyjs .nav-container{font-family:'Pontano Sans',sans-serif !important;}
+.vco-storyjs .vco-feature h1.date,.vco-storyjs .vco-feature h2.date,.vco-storyjs .vco-feature h3.date,.vco-storyjs .vco-feature h4.date,.vco-storyjs .vco-feature h5.date,.vco-storyjs .vco-feature h6.date{font-family:'Pontano Sans',sans-serif !important;}
+.vco-storyjs .timenav h1,.vco-storyjs .flag-content h1,.vco-storyjs .era h1,.vco-storyjs .timenav h2,.vco-storyjs .flag-content h2,.vco-storyjs .era h2,.vco-storyjs .timenav h3,.vco-storyjs .flag-content h3,.vco-storyjs .era h3,.vco-storyjs .timenav h4,.vco-storyjs .flag-content h4,.vco-storyjs .era h4,.vco-storyjs .timenav h5,.vco-storyjs .flag-content h5,.vco-storyjs .era h5,.vco-storyjs .timenav h6,.vco-storyjs .flag-content h6,.vco-storyjs .era h6{font-family:'Pontano Sans',sans-serif !important;}
+.vco-storyjs p,.vco-storyjs blockquote,.vco-storyjs blockquote p,.vco-storyjs .twitter blockquote p{font-family:'Pontano Sans',sans-serif !important;}
+.vco-storyjs .vco-feature h1,.vco-storyjs .vco-feature h2,.vco-storyjs .vco-feature h3,.vco-storyjs .vco-feature h4,.vco-storyjs .vco-feature h5,.vco-storyjs .vco-feature h6{font-family:'Bevan',serif;}
+.timeline-tooltip{font-family:'Pontano Sans',sans-serif;}
+
+
+.clsHeadline {
+    font-family:Arial; 
+    font-weight:bold;
+    color:#64AF00;
+}
+.clsText {
+    font-family:Arial;
+    color:#558510;
+}
+.ErrorMessage { 
+    font-weight:bold; 
+    font-family:Arial; 
+    color:Red; 
+    text-align:center; 
+}
+
+    </style>
+
+    <!-- <script src="Timeline/js/en.js" type="text/javascript"></script>
+    // <script src="Timeline/js/storyjs-embed.js" type="text/javascript"></script>
+    // <script src="Timeline/js/filter-timeline-min.js" type="text/javascript"></script> -->
+
+<script type="text/javascript">
+
+/* English LANGUAGE 
+================================================== */typeof VMM!="undefined"&&(VMM.Language={lang:"en",api:{wikipedia:"en"},date:{month:["January","February","March","April","May","June","July","August","September","October","November","December"],month_abbr:["Jan.","Feb.","March","April","May","June","July","Aug.","Sept.","Oct.","Nov.","Dec."],day:["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],day_abbr:["Sun.","Mon.","Tues.","Wed.","Thurs.","Fri.","Sat."]},dateformats:{year:"yyyy",month_short:"mmm",month:"mmmm yyyy",full_short:"mmm d",full:"mmmm d',' yyyy",time_no_seconds_short:"h:MM TT",time_no_seconds_small_date:"h:MM TT'<br/><small>'mmmm d',' yyyy'</small>'",full_long:"mmm d',' yyyy 'at' h:MM TT",full_long_small_date:"h:MM TT'<br/><small>mmm d',' yyyy'</small>'"},messages:{loading_timeline:"Loading Timeline... ",return_to_title:"Return to Title",expand_timeline:"Expand Timeline",contract_timeline:"Contract Timeline",wikipedia:"From Wikipedia, the free encyclopedia",loading_content:"Loading Content",loading:"Loading"}});
+
+/*!
+    StoryJS
+    Designed and built by Zach Wise at VéritéCo
+
+    This Source Code Form is subject to the terms of the Mozilla Public
+    License, v. 2.0. If a copy of the MPL was not distributed with this
+    file, You can obtain one at http://mozilla.org/MPL/2.0/.
+*//* **********************************************
+     Begin LazyLoad.js
+********************************************** *//*jslint browser: true, eqeqeq: true, bitwise: true, newcap: true, immed: true, regexp: false *//*
+LazyLoad makes it easy and painless to lazily load one or more external
+JavaScript or CSS files on demand either during or after the rendering of a web
+page.
+
+Supported browsers include Firefox 2+, IE6+, Safari 3+ (including Mobile
+Safari), Google Chrome, and Opera 9+. Other browsers may or may not work and
+are not officially supported.
+
+Visit https://github.com/rgrove/lazyload/ for more info.
+
+Copyright (c) 2011 Ryan Grove <ryan@wonko.com>
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the 'Software'), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+@module lazyload
+@class LazyLoad
+@static
+@version 2.0.3 (git)
+*/function getEmbedScriptPath(e){var t=document.getElementsByTagName("script"),n="",r="";for(var i=0;i<t.length;i++)t[i].src.match(e)&&(n=t[i].src);n!=""&&(r="/");return n.split("?")[0].split("/").slice(0,-1).join("/")+r}function createStoryJS(e,t){function g(){LoadLib.js(h.js,y)}function y(){l.js=!0;h.lang!="en"?LazyLoad.js(c.locale,b):l.language=!0;x()}function b(){l.language=!0;x()}function w(){l.css=!0;x()}function E(){l.font.css=!0;x()}function S(){l.font.js=!0;x()}function x(){if(l.checks>40)return;l.checks++;if(l.js&&l.css&&l.font.css&&l.font.js&&l.language){if(!l.finished){l.finished=!0;N()}}else l.timeout=setTimeout("onloaded_check_again();",250)}function T(){var e="storyjs-embed";r=document.createElement("div");h.embed_id!=""?i=document.getElementById(h.embed_id):i=document.getElementById("timeline-embed");i.appendChild(r);r.setAttribute("id",h.id);if(h.width.toString().match("%"))i.style.width=h.width.split("%")[0]+"%";else{h.width=h.width-2;i.style.width=h.width+"px"}if(h.height.toString().match("%")){i.style.height=h.height;e+=" full-embed";i.style.height=h.height.split("%")[0]+"%"}else if(h.width.toString().match("%")){e+=" full-embed";h.height=h.height-16;i.style.height=h.height+"px"}else{e+=" sized-embed";h.height=h.height-16;i.style.height=h.height+"px"}i.setAttribute("class",e);i.setAttribute("className",e);r.style.position="relative"}function N(){VMM.debug=h.debug;n=new VMM.Timeline(h.id);n.init(h);o&&VMM.bindEvent(global,onHeadline,"HEADLINE")}var n,r,i,s,o=!1,u="2.24",a="1.7.1",f="",l={timeout:"",checks:0,finished:!1,js:!1,css:!1,jquery:!1,has_jquery:!1,language:!1,font:{css:!1,js:!1}},c={base:embed_path,css:embed_path+"css/",js:embed_path+"js/",locale:embed_path+"js/locale/",jquery:"https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",font:{google:!1,css:embed_path+"css/themes/font/",js:"https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"}},h={version:u,debug:!1,type:"timeline",id:"storyjs",embed_id:"timeline-embed",embed:!0,width:"100%",height:"100%",source:"https://docs.google.com/spreadsheet/pub?key=0Agl_Dv6iEbDadFYzRjJPUGktY0NkWXFUWkVIZDNGRHc&output=html",lang:"en",font:"default",css:c.css+"timeline.css?"+u,js:"",api_keys:{google:"",flickr:"",twitter:""},gmap_key:""},p=[{name:"Merriweather-NewsCycle",google:["News+Cycle:400,700:latin","Merriweather:400,700,900:latin"]},{name:"NewsCycle-Merriweather",google:["News+Cycle:400,700:latin","Merriweather:300,400,700:latin"]},{name:"PoiretOne-Molengo",google:["Poiret+One::latin","Molengo::latin"]},{name:"Arvo-PTSans",google:["Arvo:400,700,400italic:latin","PT+Sans:400,700,400italic:latin"]},{name:"PTSerif-PTSans",google:["PT+Sans:400,700,400italic:latin","PT+Serif:400,700,400italic:latin"]},{name:"PT",google:["PT+Sans+Narrow:400,700:latin","PT+Sans:400,700,400italic:latin","PT+Serif:400,700,400italic:latin"]},{name:"DroidSerif-DroidSans",google:["Droid+Sans:400,700:latin","Droid+Serif:400,700,400italic:latin"]},{name:"Lekton-Molengo",google:["Lekton:400,700,400italic:latin","Molengo::latin"]},{name:"NixieOne-Ledger",google:["Nixie+One::latin","Ledger::latin"]},{name:"AbrilFatface-Average",google:["Average::latin","Abril+Fatface::latin"]},{name:"PlayfairDisplay-Muli",google:["Playfair+Display:400,400italic:latin","Muli:300,400,300italic,400italic:latin"]},{name:"Rancho-Gudea",google:["Rancho::latin","Gudea:400,700,400italic:latin"]},{name:"Bevan-PotanoSans",google:["Bevan::latin","Pontano+Sans::latin"]},{name:"BreeSerif-OpenSans",google:["Bree+Serif::latin","Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800:latin"]},{name:"SansitaOne-Kameron",google:["Sansita+One::latin","Kameron:400,700:latin"]},{name:"Lora-Istok",google:["Lora:400,700,400italic,700italic:latin","Istok+Web:400,700,400italic,700italic:latin"]},{name:"Pacifico-Arimo",google:["Pacifico::latin","Arimo:400,700,400italic,700italic:latin"]}];if(typeof e=="object")for(s in e)Object.prototype.hasOwnProperty.call(e,s)&&(h[s]=e[s]);typeof t!="undefined"&&(h.source=t);if(typeof url_config=="object"){o=!0;h.source.match("docs.google.com")||h.source.match("json")||h.source.match("storify")||(h.source="https://docs.google.com/spreadsheet/pub?key="+h.source+"&output=html")}if(h.js.match("locale")){h.lang=h.js.split("locale/")[1].replace(".js","");h.js=c.js+"timeline-min.js?"+u}if(!h.js.match("/")){h.css=c.css+h.type+".css?"+u;h.js=c.js+h.type;h.debug?h.js+=".js?"+u:h.js+="-min.js?"+u;h.id="storyjs-"+h.type}h.lang.match("/")?c.locale=h.lang:c.locale=c.locale+h.lang+".js?"+u;T();LoadLib.css(h.css,w);if(h.font=="default"){l.font.js=!0;l.font.css=!0}else{var d;if(h.font.match("/")){d=h.font.split(".css")[0].split("/");c.font.name=d[d.length-1];c.font.css=h.font}else{c.font.name=h.font;c.font.css=c.font.css+h.font+".css?"+u}LoadLib.css(c.font.css,E);for(var v=0;v<p.length;v++)if(c.font.name==p[v].name){c.font.google=!0;WebFontConfig={google:{families:p[v].google}}}c.font.google?LoadLib.js(c.font.js,S):l.font.js=!0}try{l.has_jquery=jQuery;l.has_jquery=!0;if(l.has_jquery){var f=parseFloat(jQuery.fn.jquery);f<parseFloat(a)?l.jquery=!1:l.jquery=!0}}catch(m){l.jquery=!1}l.jquery?g():LoadLib.js(c.jquery,g);this.onloaded_check_again=function(){x()}}LazyLoad=function(e){function u(t,n){var r=e.createElement(t),i;for(i in n)n.hasOwnProperty(i)&&r.setAttribute(i,n[i]);return r}function a(e){var t=r[e],n,o;if(t){n=t.callback;o=t.urls;o.shift();i=0;if(!o.length){n&&n.call(t.context,t.obj);r[e]=null;s[e].length&&l(e)}}}function f(){var n=navigator.userAgent;t={async:e.createElement("script").async===!0};(t.webkit=/AppleWebKit\//.test(n))||(t.ie=/MSIE/.test(n))||(t.opera=/Opera/.test(n))||(t.gecko=/Gecko\//.test(n))||(t.unknown=!0)}function l(i,o,l,p,d){var v=function(){a(i)},m=i==="css",g=[],y,b,w,E,S,x;t||f();if(o){o=typeof o=="string"?[o]:o.concat();if(m||t.async||t.gecko||t.opera)s[i].push({urls:o,callback:l,obj:p,context:d});else for(y=0,b=o.length;y<b;++y)s[i].push({urls:[o[y]],callback:y===b-1?l:null,obj:p,context:d})}if(r[i]||!(E=r[i]=s[i].shift()))return;n||(n=e.head||e.getElementsByTagName("head")[0]);S=E.urls;for(y=0,b=S.length;y<b;++y){x=S[y];if(m)w=t.gecko?u("style"):u("link",{href:x,rel:"stylesheet"});else{w=u("script",{src:x});w.async=!1}w.className="lazyload";w.setAttribute("charset","utf-8");if(t.ie&&!m)w.onreadystatechange=function(){if(/loaded|complete/.test(w.readyState)){w.onreadystatechange=null;v()}};else if(m&&(t.gecko||t.webkit))if(t.webkit){E.urls[y]=w.href;h()}else{w.innerHTML='@import "'+x+'";';c(w)}else w.onload=w.onerror=v;g.push(w)}for(y=0,b=g.length;y<b;++y)n.appendChild(g[y])}function c(e){var t;try{t=!!e.sheet.cssRules}catch(n){i+=1;i<200?setTimeout(function(){c(e)},50):t&&a("css");return}a("css")}function h(){var e=r.css,t;if(e){t=o.length;while(--t>=0)if(o[t].href===e.urls[0]){a("css");break}i+=1;e&&(i<200?setTimeout(h,50):a("css"))}}var t,n,r={},i=0,s={css:[],js:[]},o=e.styleSheets;return{css:function(e,t,n,r){l("css",e,t,n,r)},js:function(e,t,n,r){l("js",e,t,n,r)}}}(this.document);LoadLib=function(e){function n(e){var n=0,r=!1;for(n=0;n<t.length;n++)t[n]==e&&(r=!0);if(r)return!0;t.push(e);return!1}var t=[];return{css:function(e,t,r,i){n(e)||LazyLoad.css(e,t,r,i)},js:function(e,t,r,i){n(e)||LazyLoad.js(e,t,r,i)}}}(this.document);var WebFontConfig;if(typeof embed_path=="undefined"||typeof embed_path=="undefined")var embed_path=getEmbedScriptPath("storyjs-embed.js").split("js/")[0];(function(){typeof url_config=="object"?createStoryJS(url_config):typeof timeline_config=="object"?createStoryJS(timeline_config):typeof storyjs_config=="object"?createStoryJS(storyjs_config):typeof config=="object"&&createStoryJS(config)})();
+
+var ss;var myTimeline={timeline:{headline:"<div class='clsHeadline'>The Office of Environmental Management (EM) Timeline</div>",type:"default",startDate:"2013",text:"<div class='clsText'>Use the Filter Options drop-down menu at the top of the screen to sort and display information by Site and by Cleanup Mission Area – then press the Update Timeline button to display results. For Cleanup Mission Area definitions, use the link on the Filter drop-down menu.<br /><br />Note: For optimal functionality Internet Explorer 9 (or later), Firefox, Google Chrome, or Safari are required.</div>",asset:{media:"Images/Cover_3final.jpg",credit:"",caption:""},date:[]}};function updateTimeline(){if($("#storyjs-timeline").length!==0){$("#storyjs-timeline").remove()}$.getJSON("/sites/prod/files/data_EM.json",null,function(b){a(b)});function a(d){var c;var b;$(".ErrorMessage").hide();myTimeline.timeline.date.length=0;$.each(d.tlData,function(e,g){c=g.site;c.replace(/\"/g,"");b=g.topic;b.replace(/\"/g,"");if((ss.getItem(c)==="True")&&(ss.getItem(b)==="True")){var f={startDate:g.startDate,headline:g.headline,text:g.text,asset:{media:g.media,credit:g.credit,caption:g.caption}};myTimeline.timeline.date.push(f)}if(g.site==="Cross"&&(ss.getItem(c)==="True")){var f={startDate:g.startDate,headline:g.headline,text:g.text,asset:{media:g.media,credit:g.credit,caption:g.caption}};myTimeline.timeline.date.push(f)}});if(myTimeline.timeline.date.length===0){$(".ErrorMessage").show();return false}else{createStoryJS({width:"100%",height:"600",lang:"en",current_slide:0,start_at_slide:0,source:myTimeline,embed_id:"timeline-embed"});return true}}}$(document).ready(function(){ss=getSessionStorage();if(ss.getItem("Selections")===null){setupDb();setSelections();updateTimeline()}else{setSelections();updateTimeline()}$("#accordion").accordion({active:false,collapsible:true});$("#accordion span").addClass("ui-accordion-header-icon");$("#btnUpdateTimeline").button().click(function(){var a=$.Callbacks();a.add(getSelections());a.fire();a.add(pageRefresh());a.fire()})});function AllSites(){var a=$("#AllSites").prop("checked");$("#BNL").prop("checked",a);$("#ETEC").prop("checked",a);$("#FER").prop("checked",a);$("#HANF").prop("checked",a);$("#INL").prop("checked",a);$("#LLNL").prop("checked",a);$("#LANL").prop("checked",a);$("#MOB").prop("checked",a);$("#MOUND").prop("checked",a);$("#NNSS").prop("checked",a);$("#OR").prop("checked",a);$("#PAD").prop("checked",a);$("#PIN").prop("checked",a);$("#PORT").prop("checked",a);$("#ORP").prop("checked",a);$("#RF").prop("checked",a);$("#SLAC").prop("checked",a);$("#SNL").prop("checked",a);$("#SPRU").prop("checked",a);$("#SRS").prop("checked",a);$("#WIPP").prop("checked",a);$("#WS").prop("checked",a);$("#WV").prop("checked",a);$("#Cross").prop("checked",a)}function AllTopics(){var a=$("#AllTopics").prop("checked");$("#DD").prop("checked",a);$("#GI").prop("checked",a);$("#HLW").prop("checked",a);$("#Closure").prop("checked",a);$("#SNF").prop("checked",a);$("#Soil").prop("checked",a);$("#Disposal").prop("checked",a)}function pageRefresh(){location.reload(false)}function getSessionStorage(){try{if(!!window.sessionStorage){return window.sessionStorage}}catch(a){alert("Session Storage Not Supported")}}function setupDb(){ss.setItem("Selections","true");ss.setItem("AllSites","True");ss.setItem("AllTopics","True");ss.setItem("BNL","True");ss.setItem("ETEC","True");ss.setItem("FER","True");ss.setItem("HANF","True");ss.setItem("INL","True");ss.setItem("LLNL","True");ss.setItem("LANL","True");ss.setItem("MOB","True");ss.setItem("MOUND","True");ss.setItem("NNSS","True");ss.setItem("OR","True");ss.setItem("PAD","True");ss.setItem("PIN","True");ss.setItem("PORT","True");ss.setItem("ORP","True");ss.setItem("RF","True");ss.setItem("SLAC","True");ss.setItem("SNL","True");ss.setItem("SPRU","True");ss.setItem("SRS","True");ss.setItem("WIPP","True");ss.setItem("WS","True");ss.setItem("WV","True");ss.setItem("Cross","True");ss.setItem("DD","True");ss.setItem("GI","True");ss.setItem("HLW","True");ss.setItem("Closure","True");ss.setItem("SNF","True");ss.setItem("Soil","True");ss.setItem("Disposal","True")}function getSelections(){$("input[type=checkbox]").each(function(a,b){if($("#"+b.id).is(":checked")){ss.setItem(b.id,"True")}else{ss.setItem(b.id,"False")}})}function setSelections(){$("input[type=checkbox]").each(function(a,b){if(ss.getItem(b.id)==="True"){$("#"+b.id).prop("checked",true)}})};
+</script>
+
+    <style>
+        #accordion a { padding-left: 20px; }
+    </style>
+    
+</head>
+<body>
+
+    <div id="accordion">
+        <h3><a href="#">Filter Options by Site and Cleanup Mission Area</a></h3>
+        <div>
+            <div id="errorMessageOptions" class="ErrorMessage">No results match selection - please select new filter options</div>
+            <div id="divSites" style="float:left; width:45%">
+                <b>Sites:</b><br />
+                All Sites:<input type="checkbox" id="AllSites" onclick="javascript:AllSites();" /><br />
+                Brookhaven:<input type="checkbox" id="BNL" /><br />
+                Energy Technology Engineering Center:<input type="checkbox" id="ETEC" /><br />
+                Fernald:<input type="checkbox" id="FER" /><br />
+                Hanford:<input type="checkbox" id="HANF" /><br />
+                Idaho National Lab:<input type="checkbox" id="INL" /><br />
+                Lawrence Livermore:<input type="checkbox" id="LLNL" /><br />
+                Los Alamos:<input type="checkbox" id="LANL" /><br />
+                Moab:<input type="checkbox" id="MOB" /><br />
+                Mound:<input type="checkbox" id="MOUND" /><br />
+                Oak Ridge:<input type="checkbox" id="OR" /><br />
+                Nevada National Security Site:<input type="checkbox" id="NNSS" /><br />
+                Paducah:<input type="checkbox" id="PAD" /><br />
+                Pinellas:<input type="checkbox" id="PIN" /><br />
+                Portsmouth:<input type="checkbox" id="PORT" /><br />
+                River Protection:<input type="checkbox" id="ORP" /><br />
+                Rocky Flats:<input type="checkbox" id="RF" /><br />
+                Sandia National Laboratory:<input type="checkbox" id="SNL" /><br />
+                Savannah River:<input type="checkbox" id="SRS" /><br />
+                Separations Process Research Unit:<input type="checkbox" id="SPRU" /><br />
+                SLAC National Accelerator Laboratory:<input type="checkbox" id="SLAC" /><br />
+                Waste Isolation Pilot Plant (WIPP):<input type="checkbox" id="WIPP" /><br />
+                Weldon Spring:<input type="checkbox" id="WS" /><br />
+                West Valley:<input type="checkbox" id="WV" /><br />
+                Cross Site &AMP; Reports:<input type="checkbox" id="Cross" /><br />                
+            </div>
+            <div id="divTopics" style="float:left">           
+                <b>Cleanup Mission Areas:</b><br />
+                All Topics:<input type="checkbox" id="AllTopics" onclick="javascript:AllTopics();" /><br />
+                General Information:<input type="checkbox" id="GI" /><br />
+                Deactivation &AMP; Decommissioning:<input type="checkbox" id="DD" /><br />
+                High Level Waste/Tank Waste:<input type="checkbox" id="HLW" /><br />
+                Site/Area Closure:<input type="checkbox" id="Closure" /><br />
+                Spent Nuclear Fuel/Nuclear Material Disposition:<input type="checkbox" id="SNF" /><br />
+                Soil &AMP; Groundwater Remediation:<input type="checkbox" id="Soil" /><br />
+                Waste Disposal (TRU/LLW/MLLW):<input type="checkbox" id="Disposal" /><br />
+                
+                <br />
+                <br />
+                To read cleanup mission area definitions <a href="/Timeline/pdf/Mission_Areas.pdf" target="blank">click here</a>.
+                <br />
+                <br />
+                <button id="btnUpdateTimeline">Update Timeline</button>
+            </div>            
+        </div>
+    </div>
+
+    <div id="errorMessageBody" class="ErrorMessage">No results match selection - please select new filter options</div>
+    <div id="timeline-embed"></div>
+    <div id="debug-info"></div>
+    
+</body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta charset="utf-8">
+    
+    <title>EM History Timeline</title>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script> 
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js" type="text/javascript"></script>
+    <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/south-street/jquery-ui.css" rel="stylesheet" /> 
+         
+    <link href="Timeline/css/Bevan-PotanoSans.css" rel="stylesheet" type="text/css" />
+    <link href="Timeline/css/filter-timeline.css" rel="stylesheet" type="text/css" />
+
+    <script src="Timeline/js/en.js" type="text/javascript"></script>
+    <script src="Timeline/js/storyjs-embed.js" type="text/javascript"></script>
+    <script src="Timeline/js/filter-timeline-min.js" type="text/javascript"></script>
+  
+    <style>
+        #accordion a { padding-left: 20px; }
+    </style>
+    
+</head>
+<body>
+
+    <div id="accordion">
+        <h3><a href="#">Filter Options by Site and Cleanup Mission Area</a></h3>
+        <div>
+            <div id="errorMessageOptions" class="ErrorMessage">No results match selection - please select new filter options</div>
+            <div id="divSites" style="float:left; width:45%">
+                <b>Sites:</b><br />
+                All Sites:<input type="checkbox" id="AllSites" onclick="javascript:AllSites();" /><br />
+                Brookhaven:<input type="checkbox" id="BNL" /><br />
+                Energy Technology Engineering Center:<input type="checkbox" id="ETEC" /><br />
+                Fernald:<input type="checkbox" id="FER" /><br />
+                Hanford:<input type="checkbox" id="HANF" /><br />
+                Idaho National Lab:<input type="checkbox" id="INL" /><br />
+                Lawrence Livermore:<input type="checkbox" id="LLNL" /><br />
+                Los Alamos:<input type="checkbox" id="LANL" /><br />
+                Moab:<input type="checkbox" id="MOB" /><br />
+                Mound:<input type="checkbox" id="MOUND" /><br />
+                Oak Ridge:<input type="checkbox" id="OR" /><br />
+                Nevada National Security Site:<input type="checkbox" id="NNSS" /><br />
+                Paducah:<input type="checkbox" id="PAD" /><br />
+                Pinellas:<input type="checkbox" id="PIN" /><br />
+                Portsmouth:<input type="checkbox" id="PORT" /><br />
+                River Protection:<input type="checkbox" id="ORP" /><br />
+                Rocky Flats:<input type="checkbox" id="RF" /><br />
+                Sandia National Laboratory:<input type="checkbox" id="SNL" /><br />
+                Savannah River:<input type="checkbox" id="SRS" /><br />
+                Separations Process Research Unit:<input type="checkbox" id="SPRU" /><br />
+                SLAC National Accelerator Laboratory:<input type="checkbox" id="SLAC" /><br />
+                Waste Isolation Pilot Plant (WIPP):<input type="checkbox" id="WIPP" /><br />
+                Weldon Spring:<input type="checkbox" id="WS" /><br />
+                West Valley:<input type="checkbox" id="WV" /><br />
+                Cross Site &AMP; Reports:<input type="checkbox" id="Cross" /><br />                
+            </div>
+            <div id="divTopics" style="float:left">           
+                <b>Cleanup Mission Areas:</b><br />
+                All Topics:<input type="checkbox" id="AllTopics" onclick="javascript:AllTopics();" /><br />
+                General Information:<input type="checkbox" id="GI" /><br />
+                Deactivation &AMP; Decommissioning:<input type="checkbox" id="DD" /><br />
+                High Level Waste/Tank Waste:<input type="checkbox" id="HLW" /><br />
+                Site/Area Closure:<input type="checkbox" id="Closure" /><br />
+                Spent Nuclear Fuel/Nuclear Material Disposition:<input type="checkbox" id="SNF" /><br />
+                Soil &AMP; Groundwater Remediation:<input type="checkbox" id="Soil" /><br />
+                Waste Disposal (TRU/LLW/MLLW):<input type="checkbox" id="Disposal" /><br />
+                
+                <br />
+                <br />
+                To read cleanup mission area definitions <a href="/Timeline/pdf/Mission_Areas.pdf" target="blank">click here</a>.
+                <br />
+                <br />
+                <button id="btnUpdateTimeline">Update Timeline</button>
+            </div>            
+        </div>
+    </div>
+
+    <div id="errorMessageBody" class="ErrorMessage">No results match selection - please select new filter options</div>
+    <div id="timeline-embed"></div>
+    <div id="debug-info"></div>
+    
+</body>
+</html>
