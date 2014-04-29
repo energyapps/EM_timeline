@@ -5,12 +5,12 @@
       "topic":"",
       "startDate":"06/1941",
       "headline":"<div class='clsHeadline'>Overview of the History of the Department of Energy (DOE) and the Office of Environmental Management (EM)</div>",
-      "text":"<div class='clsText'><a target='_blank' href='pdf/EM_Overview_History.pdf'>Click here</a> to read an overview of the history and evolution of DOE and environmental cleanup efforts by EM.  </div>",
+      "text":"<div class='clsText'><a href='http://energy.gov/node/810969'>Click here</a> to read an overview of the history and evolution of DOE and environmental cleanup efforts by EM.  </div>",
       "media":"Images/1941_Logos.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"SNF",
       "startDate":"12/2000",
@@ -20,7 +20,7 @@
       "credit":"",
       "caption":""
     },
-     {
+    {
       "site":"HANF",
       "topic":"DD",
       "startDate":"06/1996",
@@ -35,7 +35,7 @@
       "topic":"",
       "startDate":"01/1997",
       "headline":"<div class='clsHeadline'>Linking Legacies&#58; Connecting the Cold War Nuclear Weapons Production Processes to Their Environmental Consequences </div>",
-      "text":"<div class='clsText'>This report described each step in the cycle of nuclear weapons production and defined for the first time a planned disposition path for all waste streams generated prior to 1992 as a result of weapons production. <br /><br />To read entire report <a target='_blank' href='pdf/Linking_Legacies.pdf'>click here</a>.</div>",
+      "text":"<div class='clsText'>This report described each step in the cycle of nuclear weapons production and defined for the first time a planned disposition path for all waste streams generated prior to 1992 as a result of weapons production. <br /><br />To read entire report <a href='http://energy.gov/node/811534'>click here</a>.</div>",
       "media":"Images/LinkingLegacies.jpg",
       "credit":"",
       "caption":""
@@ -55,7 +55,7 @@
       "topic":"",
       "startDate":"10/2012",
       "headline":"<div class='clsHeadline'>Radioactive Materials and Waste Transportation by EM</div>",
-      "text":"<div class='clsText'>In FY 2012, DOE successfully completed more than 13,000 off-site shipments of hazardous materials totaling 5.8 million miles.  Of that total, EM made the majority (>75%) of those shipments with 9,763 shipments totaling 2.74 million miles safely. Since 2004, EM has successfully completed over 150,000 shipments of radioactive material and waste in a safe and compliant manner.<br /><br />At left, a radioactive waste shipment from the Fernald Cleanup and Closure Project in 2004.</div>",
+      "text":"<div class='clsText'>In FY 2012, DOE successfully completed more than 13,000 off-site shipments of hazardous materials totaling 5.8 million miles.  Of that total, the EM program made the majority of those shipments (9,763 shipments totaling 2.74 million miles). Since 2004, EM has successfully completed over 150,000 shipments of radioactive material and waste in a safe and compliant manner.<br /><br />At left, a radioactive waste shipment from the Fernald Cleanup and Closure Project in 2004.</div>",
       "media":"Images/Truck.jpg",
       "credit":"",
       "caption":""
@@ -115,7 +115,7 @@
       "topic":"",
       "startDate":"05/1943",
       "headline":"<div class='clsHeadline'>The Steps of Weapons Production</div>",
-      "text":"<div class='clsText'>This graphic provides an overview of the steps of weapons production beginning in 1943. The nuclear weapons production complex eventually grew from three sites and seven facilities to more than 107 sites in 31 states at the height of the Cold War.<br /><br /> For a larger version of the document <a target='_blank' href='pdf/WeaponsProductionSteps_Timeline.pdf'>click here</a>.</div>",
+      "text":"<div class='clsText'>This graphic provides an overview of the steps of weapons production beginning in 1943. The nuclear weapons production complex eventually grew from three sites and seven facilities to more than 107 sites in 31 states at the height of the Cold War.<br /><br /> For a larger version of the document <a href='http://energy.gov/node/810974'>click here</a>.</div>",
       "media":"Images/steps_weapons_production.jpg",
       "credit":"",
       "caption":""
@@ -124,8 +124,8 @@
       "site":"Cross",
       "topic":"",
       "startDate":"1991",
-      "headline":"<div class='clsHeadline'>Permanent Shutdown of Weapons Production</div>",
-      "text":"<div class='clsText'>The permanent shutdown of the weapons production complex occurred between 1989 and 1991.<br /><br />At left, the destruction of the Berlin Wall signaled the end of the Cold War. </div>",
+      "headline":"<div class='clsHeadline'>Permanent Shutdown of the DOE Weapons Production Complex</div>",
+      "text":"<div class='clsText'>The permanent shutdown of the DOE weapons production complex occurred between 1989 and 1991, following the end of the Cold War. Growing concerns about safety and environmental problems had caused various parts of the DOE weapons-production complex to be shut down in the mid-to-late-1980s. These shutdowns, at first expected to be temporary, became permanent when the Soviet Union dissolved in 1991.  Many of these sites and facilities had been in continuous operation to support the .nuclear arms race of the Cold War, and came to a halt for the first time since the invention of the atomic bomb.<br /><br />At left, the destruction of the Berlin Wall signaled the end of the Cold War. </div>",
       "media":"Images/End_Cold_War.jpg",
       "credit":"",
       "caption":""
@@ -135,17 +135,17 @@
       "topic":"",
       "startDate":"03/1995",
       "headline":"<div class='clsHeadline'>Baseline Environmental Management Report (BEMR) in 1995 </div>",
-      "text":"<div class='clsText'>The BEMR was DOE&#39;s first top-down life cycle estimate on the full scope and cost of the &#39;Cold War Mortgage&#39;. The BEMR provided a total life cycle cost estimate and anticipated schedule of the projects and activities necessary to carry out the EM mission for environmental remediation, waste management, basic science, technology development, the transition of operational facilities to safe shutdown status, and the safeguarding and security of nuclear material.<br /><br />To read the 1995 BEMR Executive Summary <a target='_blank' href='pdf/BEMR_1995_Executive-Summary.pdf'>click here.</a></div>",
+      "text":"<div class='clsText'>The BEMR was DOE&#39;s first top-down life cycle estimate on the full scope and cost of the &#39;Cold War Mortgage&#39;. The BEMR provided a total life cycle cost estimate and anticipated schedule of the projects and activities necessary to carry out the EM mission for environmental remediation, waste management, basic science, technology development, the transition of operational facilities to safe shutdown status, and the safeguarding and security of nuclear material.<br /><br />To read the 1995 BEMR <a href='http://energy.gov/node/811499'>click here.</a></div>",
       "media":"Images/DOE_EM_BEMR-1995.jpg",
       "credit":"",
       "caption":""
     },
-	 {
+   {
       "site":"Cross",
       "topic":"",
       "startDate":"06/1996",
       "headline":"<div class='clsHeadline'>Baseline Environmental Management Report (BEMR) in 1996</div>",
-      "text":"<div class='clsText'>The second BEMR was an update to DOE&#39;s first top-down life cycle estimate on the full scope and cost of the &#39;Cold War Mortgage&#39;. The BEMR provided a total life cycle cost estimate and anticipated schedule of the projects and activities necessary to carry out the EM mission for environmental remediation, waste management, basic science, technology development, the transition of operational facilities to safe shutdown status, and the safeguarding and security of nuclear material.<br /><br />To read selected sections (Chapters 1 and 7) of the 1996 BEMR, <a target='_blank' href='pdf/BEMR_1996_Volume-I.pdf'>click here.</a></div>",
+      "text":"<div class='clsText'>The second BEMR was an update to DOE&#39;s first top-down life cycle estimate on the full scope and cost of the &#39;Cold War Mortgage&#39;. The BEMR provided a total life cycle cost estimate and anticipated schedule of the projects and activities necessary to carry out the EM mission for environmental remediation, waste management, basic science, technology development, the transition of operational facilities to safe shutdown status, and the safeguarding and security of nuclear material.<br /><br />To read the 1996 BEMR, <a href='http://energy.gov/node/811529'>click here.</a></div>",
       "media":"Images/DOE_EM_BEMR-1996-Volume-1.jpg",
       "credit":"",
       "caption":""
@@ -160,7 +160,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"RF",
       "topic":"Closure",
       "startDate":"10/2005",
@@ -175,8 +175,8 @@
       "topic":"DD",
       "startDate":"08/2006",
       "headline":"<div class='clsHeadline'>K-29 Gaseous Diffusion Plant (GDP) Demolition Completed at Oak Ridge</div>",
-      "text":"<div class='clsText'>Oak Ridge&#39;s EM program begins deactivation, decommissioning, and demolition of the GDP complex at the East Tennessee Technology Park in 2006. In January 2006, EM began demolition of K-29, one of the five large GDPs at the site.  K-29 began operations in 1951 and was shutdown in 1987 and was roughly the size of 6.5 football fields under one roof.  Demolition was completed in August 2006.<br /><br />At left, the K-29 GDP before and during demolition. </div>",
-      "media":"Images/OR_K29_GDP.jpg",
+      "text":"<div class='clsText'>Oak Ridge&#39;s EM program began deactivation, decommissioning, and demolition of the GDP complex at the East Tennessee Technology Park in January 2006. K-29 was one of the five large GDPs at the site used to enrich uranium.  K-29 began operations in 1951 and was shutdown in 1987 and was roughly the size of 6.5 football fields under one roof.  Demolition was completed in August 2006.<br /><br />At left, the K-29 GDP before and during demolition. </div>",
+      "media":"Images/K-29_demolition.jpg",
       "credit":"",
       "caption":""
     },
@@ -235,18 +235,18 @@
       "topic":"Soil",
       "startDate":"04/2011",
       "headline":"<div class='clsHeadline'>Savannah River Site (SRS) Groundwater Remediation Accomplishments</div>",
-      "text":"<div class='clsText'>SRS successfully degraded a chlorinated solvent groundwater plume in T-Area with edible oil injection enhanced attenuation. This resulted in early shutdown of an active pump and treat system thus achieving significant costs savings of approximately $1 million per year in addition to reducing the time for remediation and closure from over 30 years to just 10 years.<br /><br />At left, a typical groundwater pump and treat active remediation system.</div>",
-      "media":"Images/Groundwater_pump.jpg",
+      "text":"<div class='clsText'>SRS successfully reduced the concentration of a chlorinated solvent groundwater plume in T-Area with edible oil injection using common household products such as vegetable and soybean oil. In this cleanup technique, soybean oil was injected into wells to treat the groundwater. The oil is able to capture the hazardous solvents by immobilizing it from the groundwater. It then acts to stimulate the growth and activity of microbes. These microbes are able to consume solvents and break them down into harmless byproducts. This resulted in early shutdown of an active pump and treat system thus achieving significant costs savings of approximately $27 million in addition to reducing the time for remediation and closure from over 30 years to just 10 years.<br /><br />At left, a typical groundwater pump and treat active remediation system, and on the right a typical passive injection and remediation system.</div>",
+      "media":"Images/Groundwater_pump_treatment.jpg",
       "credit":"",
       "caption":""
     },
     {
       "site":"Cross",
       "topic":"",
-      "startDate":"09/2012",
-      "headline":"<div class='clsHeadline'>EM&#39;s Cleanup Mission&#58; 17 Sites in 11 States Remaining</div>",
-      "text":"<div class='clsText'>As of fiscal year 2012, EM completed cleanup and closed 90 sites in 24 states. This included cleanup and closure of 85 smaller sites and five major nuclear sites: Rocky Flats, Fernald, Mound, Pinellas, and Weldon Spring. <br /><br />At left, the map shows EM&#39;s progress and remaining work, as of 2012, in cleaning up and closing sites. To see a complete list of small sites closed, <a target='_blank' href='pdf/85_small_site_closure_list.pdf'>click here</a>.</div>",
-      "media":"Images/Sites_closure.jpg",
+      "startDate":"09/2013",
+      "headline":"<div class='clsHeadline'>EM&#39;s Cleanup Mission&#58; 16 Sites in 11 States Remaining</div>",
+      "text":"<div class='clsText'>As the end of fiscal year 2013, EM completed cleanup and closed 90 sites in 28 states. This included cleanup and closure of 85 smaller sites and five major nuclear sites: Rocky Flats, Fernald, Mound, Pinellas, and Weldon Spring. <br /><br />At left, the map shows EM&#39;s progress and remaining work, as of 2013, in cleaning up and closing sites. To see a complete list of small sites closed, <a href='http://energy.gov/node/811839'>click here</a>.</div>",
+      "media":"Images/side-by-side-maps-with-metrics.jpg",
       "credit":"",
       "caption":""
     },
@@ -276,7 +276,7 @@
       "startDate":"01/2008",
       "headline":"<div class='clsHeadline'>The Mound Site Closure</div>",
       "text":"<div class='clsText'>The Mound Laboratories in Miamisburg, Ohio was a nuclear research and weapons parts production site during the Cold War and operated until decommissioning began in 1993. Site remediation included the decontamination and demolition of 164 facilities and addressed the presence of low-level radioactive contamination in soil and volatile organic compounds in the ground water. <br /><br />The site cleanup was completed in 2008 and now houses the Mound Advanced Technology Center, a technology and business park development. <br /><br />At left, before and after Mound cleanup.</div>",
-      "media":"Images/Mound_closure.jpg",
+      "media":"Images/Mound_Before_After.jpg",
       "credit":"",
       "caption":""
     },
@@ -285,8 +285,8 @@
       "topic":"Closure",
       "startDate":"12/1997",
       "headline":"<div class='clsHeadline'>The Pinellas Plant Closure </div>",
-      "text":"<div class='clsText'>The Pinellas Plant in Florida, once a nuclear weapons components production facility, completed cleanup operations in 1997. Cleanup included addressing soil and groundwater contamination in 17 solid waste management units, hazardous waste, and disposition of excess facilities.<br /><br />The site has been transformed into a state of the art manufacturing, research, and development technology park, called the Young-Rainey STAR Center. <br /><br />At left, before and after cleanup of the Pinellas Plant.</div>",
-      "media":"Images/Pinellas_closure2.jpg",
+      "text":"<div class='clsText'>The Pinellas Plant in Florida, once a nuclear weapons components production facility, completed cleanup operations in 1997. Cleanup included addressing soil and groundwater contamination in 17 solid waste management units, hazardous waste, and disposition of excess facilities. The site has been transformed into a state of the art manufacturing, research, and development technology park, called the Young-Rainey STAR Center that houses more than 40 companies. <br /><br />At left, the Pinellas Plant is now a high technology manufacturing park showing just a few logos of their approximately 40 tenants.</div>",
+      "media":"Images/Young_Star_Center_Logos.jpg",
       "credit":"",
       "caption":""
     },
@@ -295,7 +295,7 @@
       "topic":"Closure",
       "startDate":"08/2002",
       "headline":"<div class='clsHeadline'>Weldon Spring Cleanup Disposal Cell and Visitor Center</div>",
-      "text":"<div class='clsText'>The Weldon Spring Site in Missouri has been transformed from a site once used to manufacture explosives and process uranium-ore concentrates to a publicly accessible area for recreation and education. <br /><br />At left, before and after Weldon Spring cleanup.</div>",
+      "text":"<div class='clsText'>The Weldon Spring Site in Missouri has been transformed from a site once used to manufacture explosives and process uranium-ore concentrates to a publicly accessible area for recreation and education. While the Army was responsible for some initial cleanup actions in the early 1980’s, responsibility for the site cleanup was transferred to DOE in 1984 at the direction of the U.S. Office of Management and Budget.  As part of this transfer, the Army was required to pay part of the cleanup costs.  DOE became responsible for cleanup of the Chemical Plant, raffinate pits, and quarry.  The work was completed in phases. DOE began decontamination and dismantlement of 44 buildings in 1988 and completed this activity by the fall of 1994. Removal of bulk waste from the Quarry began in 1993 and was completed in 1995.  Contaminated material and waste was disposed of in a 45-acre disposal cell that DOE constructed in the area formerly occupied by the Chemical Plant production buildings. Approximately 1.48 million cubic yards of waste from the Quarry, the Chemical Plant site, and vicinity properties was placed in the cell.  DOE completed construction of the cell cap in October 2001 and in the Fall of 2002, a viewing platform and informational signs on the top of the 75-foot-high disposal cell were added to allow public access to the cell for area viewing.<br /><br />At left, before and after Weldon Spring cleanup.</div>",
       "media":"Images/Weldon_Spring.jpg",
       "credit":"",
       "caption":""
@@ -304,7 +304,7 @@
       "site":"Cross",
       "topic":"",
       "startDate":"01/1970",
-      "headline":"<div class='clsHeadline'>Early Environmental Regulations</div>",
+      "headline":"<div class='clsHeadline'>Early Environmental Regulations Enacted</div>",
       "text":"<div class='clsText'>After 1970, additional protective environmental regulations were enacted, including the National Environmental Policy Act (NEPA), the Resource Conservation and Recovery Act (RCRA), the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA) and many other environmental laws.</div>",
       "media":"Images/Early_Env_Regulations2.jpg",
       "credit":"",
@@ -335,18 +335,8 @@
       "topic":"",
       "startDate":"11/1993",
       "headline":"<div class='clsHeadline'>High Risk Material Studies</div>",
-      "text":"<div class='clsText'>DOE&#39;s former office of Environment, Safety and Health (the functions of which were integrated into the Office of Health, Safety, and Security (HSS) in 2006) conducted three detailed studies on some of DOE's highest risk materials: the Spent Fuel Working Group Report on Inventory and Storage of the Department&#39;s Spent Nuclear Fuel and Other Reactor Irradiated Nuclear Materials and their Environment, Safety and Health Vulnerabilities in 1993, the Plutonium Working Group Report on Environmental, Safety and Health Vulnerabilities Associated with the Department&#39;s Plutonium Storage in 1994, and the Highly Enriched Uranium Working Group Report on the Environmental, Safety and Health Vulnerabilities Associated with the Department&#39;s Highly Enriched Uranium Storage in 1996. EM was assigned to respond to those studies with corrective actions to stabilize the high-risk materials and address the vulnerabilities identified.</div>",
+      "text":"<div class='clsText'>DOE&#39;s former office of Environment, Safety and Health conducted three detailed studies and issued three reports on some of DOE's highest risk materials: the Spent Nuclear Fuel (SNF) Vulnerability Report in 1993, the Plutonium Vulnerability Report in 1994, and the Highly Enriched Uranium Vulnerability Report in 1996. EM was assigned to respond to those studies with corrective actions to stabilize the high-risk materials and address the vulnerabilities identified. <br /><br /> <a href='http://energy.gov/node/905346'> Click here </a> to read Volume I of the SNF Vulnerability Report</div>",
       "media":"Images/High_Risk_Materials_2.jpg",
-      "credit":"",
-      "caption":""
-    },
-    {
-      "site":"Cross",
-      "topic":"",
-      "startDate":"1998",
-      "headline":"<div class='clsHeadline'>EM&#39;s Goals were Streamlined</div>",
-      "text":"<div class='clsText'>In 1998, EM shifted its paradigm from a long-term cleanup program (estimated to require at least 75 years to complete) to a streamlined and more efficient program with a goal of identifying opportunities to achieve mission completion as rapidly as possible and reduce life cycle costs.<br /><br />At left, demolition at Paducah of the C-410 feed plant. The project shifted to accelerated cleanup.</div>",
-      "media":"Images/C-410_Feed_Plant.jpg",
       "credit":"",
       "caption":""
     },
@@ -355,7 +345,7 @@
       "topic":"",
       "startDate":"02/2002",
       "headline":"<div class='clsHeadline'>A Review of the Environmental Management Program (presented by the Top-to-Bottom Review Team) </div>",
-      "text":"<div class='clsText'>In 2002, at the direction of the Secretary of Energy, EM conducted a self-assessment of the overall status of the program under DOE Order 435.1 Radioactive Waste Management, and found a number of areas that needed improvement, including contract strategies and approaches; risk prioritization; and internal business practices. The results of the self-assessment were summarized in &#39;A Review of the Environmental Management Program&#39; and led to many changes in how EM managed its work.<br /><br />To read entire report <a target='_blank' href='pdf/DOE_EM_ToptoBottom_2002.pdf'>click here</a>.</div>",
+      "text":"<div class='clsText'>In 2002, at the direction of the Secretary of Energy, EM conducted a self-assessment of the overall status of the program under DOE Order 435.1 Radioactive Waste Management, and found a number of areas that needed improvement, including contract strategies and approaches; risk prioritization; and internal business practices. The results of the self-assessment were summarized in &#39;A Review of the Environmental Management Program&#39; and led to many changes in how EM managed its work.<br /><br />To read entire report <a href='http://energy.gov/node/811559'>click here</a>.</div>",
       "media":"Images/Top_to_Bottom.jpg",
       "credit":"",
       "caption":""
@@ -409,7 +399,7 @@
       "media":"Images/Fernald_Groundw_Remediation.jpg",
       "credit":"",
       "caption":""
-	},
+  },
     {
       "site":"INL",
       "topic":"SNF",
@@ -444,8 +434,8 @@
       "site":"LANL",
       "topic":"Disposal",
       "startDate":"06/2012",
-      "headline":"<div class='clsHeadline'>Los Alamos National Laboratory (LANL) Makes 1,000th Shipment of Transuranic (TRU) Waste</div>",
-      "text":"<div class='clsText'>As part of an accelerated waste disposal plan to remove TRU waste from LANL, EM completed the 1000th shipment of TRU waste to the Waste Isolation Pilot Plant (WIPP).</div>",
+      "headline":"<div class='clsHeadline'>Los Alamos National Laboratory (LANL) Makes 1,000<sup>th</sup> Shipment of Transuranic (TRU) Waste</div>",
+      "text":"<div class='clsText'>As part of an accelerated waste disposal plan to remove TRU waste from LANL, EM completed the 1,000<sup>th</sup> shipment of TRU waste from LANL to the Waste Isolation Pilot Plant (WIPP).</div>",
       "media":"Images/LANL_shipment_WIPP.jpg",
       "credit":"",
       "caption":""
@@ -465,7 +455,7 @@
       "topic":"",
       "startDate":"01/1996",
       "headline":"<div class='clsHeadline'>Closing the Circle on the Splitting of the Atom</div>",
-      "text":"<div class='clsText'>This report was the first report published in the new Departmental era of openness that described existing environmental, safety, and health problems throughout the nuclear weapons complex and the cleanup challenges that DOE faced. It also provided initial plans for what DOE was doing to address these problems.<br /><br />To read entire report <a target='_blank' href='pdf/Closing_the_Circle_Report.pdf'>click here</a>.</div>",
+      "text":"<div class='clsText'>This report was the first report published in the new Departmental era of openness that described existing environmental, safety, and health problems throughout the nuclear weapons complex and the cleanup challenges that DOE faced. It also provided initial plans for what DOE was doing to address these problems.<br /><br />To read entire report <a href='http://energy.gov/node/811524'>click here</a>.</div>",
       "media":"Images/Closing_the_Circle.jpg",
       "credit":"",
       "caption":""
@@ -515,8 +505,8 @@
       "topic":"",
       "startDate":"06/1998",
       "headline":"<div class='clsHeadline'>Accelerating Cleanup: Paths to Closure</div>",
-      "text":"<div class='clsText'>This document presented EM&#39;s &#39;projectized&#39; approach to cleanup, which more fully defined the life cycle scope and cost and schedule of the EM program. It also served as a management tool for EM&#39;s projects. Accelerating Cleanup: Paths to Closure provided, for the first time, a site-by-site, project-by-project projection of the technical scope, cost, and schedule required to complete all 353 projects at DOE&#39;s 53 remaining cleanup sites in the United States.</div>",
-      "media":"Images/Accelerating_Cleanup.jpg",
+      "text":"<div class='clsText'>In 1998, EM shifted its paradigm from a long-term cleanup program (estimated to require at least 75 years to complete) to a streamlined and more efficient program with a goal of identifying opportunities to achieve mission completion as rapidly as possible and reduce life cycle costs. This shift was documented in the Accelerating Cleanup: Paths to Closure report. This document presented EM&#39;s &#39;projectized&#39; approach to cleanup, which more fully defined the life cycle scope and cost and schedule of the EM program. It also served as a management tool for EM&#39;s projects. Accelerating Cleanup: Paths to Closure provided, for the first time, a site-by-site, project-by-project projection of the technical scope, cost, and schedule required to complete all 353 projects at DOE&#39;s 53 remaining cleanup sites in the United States.<br /><br />At left, the “Accelerating Cleanup: Paths to Closure” report. At right, demolition at Paducah of the C-410 feed plant. This project shifted to accelerated cleanup.</div>",
+      "media":"Images/Paths_to_Closure_C-140.jpg",
       "credit":"",
       "caption":""
     },
@@ -525,7 +515,7 @@
       "topic":"",
       "startDate":"10/1999",
       "headline":"<div class='clsHeadline'>From Cleanup to Stewardship, a Companion Report to Accelerating Cleanup:  Paths to Closure and Background Information Supporting the Scoping Process Required for the 1998 PEIS Settlement Study</div>",
-      "text":"<div class='clsText'>Long-term stewardship was expected to be needed at more than 100 DOE sites after EM completed cleanup of the waste and contamination resulting from nuclear research and nuclear weapons production over the past 50 years.  From Cleanup to Stewardship provided background information on these long-term stewardship obligations and activities.  This document began to examine the transition from cleanup to long-term stewardship, and it fulfilled the Secretary&#39;s commitment to the President in the 1999 Performance Agreement to provide a companion report to the Department&#39;s Accelerating Cleanup: Paths to Closure report.  It also provided background information for a study on long-term stewardship required by a 1998 Settlement Agreement.<br /><br />To read entire report <a target='_blank' href='pdf/FromCleanuptoStewardship.pdf'>click here</a>.</div>",
+      "text":"<div class='clsText'>Long-term stewardship was expected to be needed at more than 100 DOE sites after EM completed cleanup of the waste and contamination resulting from nuclear research and nuclear weapons production over the past 50 years.  From Cleanup to Stewardship provided background information on these long-term stewardship obligations and activities.  This document began to examine the transition from cleanup to long-term stewardship, and it fulfilled the Secretary&#39;s commitment to the President in the 1999 Performance Agreement to provide a companion report to the Department&#39;s Accelerating Cleanup: Paths to Closure report.  It also provided background information for a study on long-term stewardship required by a 1998 Settlement Agreement.<br /><br />To read entire report <a href='http://energy.gov/node/811549'>click here</a>.</div>",
       "media":"Images/From_Cleanup_to_Stewardship.jpg",
       "credit":"",
       "caption":""
@@ -535,7 +525,7 @@
       "topic":"",
       "startDate":"03/2000",
       "headline":"<div class='clsHeadline'>Status Report on Paths to Closure</div>",
-      "text":"<div class='clsText'>This status report updates EM&#39;s life cycle cost and schedule estimates for completing cleanup, which EM last provided in the 1998 Paths to Closure report.  EM issued this status report to update its life-cycle cost and schedule estimates and to introduce additional analyses that offered insights into the long-term scope of the program.  This status report is based on life-cycle cost and schedule data that EM collected in 1999.  The estimated schedules for completing EM activities (not including long-term stewardship) had been adjusted to be consistent with the FY 2001 budget request. <br /><br />To read entire report <a target='_blank' href='pdf/StatusReportOnPathsToClosure_2000.pdf'>click here</a>.</div>",
+      "text":"<div class='clsText'>This status report updates EM&#39;s life cycle cost and schedule estimates for completing cleanup, which EM last provided in the 1998 Paths to Closure report.  EM issued this status report to update its life-cycle cost and schedule estimates and to introduce additional analyses that offered insights into the long-term scope of the program.  This status report is based on life-cycle cost and schedule data that EM collected in 1999.  The estimated schedules for completing EM activities (not including long-term stewardship) had been adjusted to be consistent with the FY 2001 budget request. <br /><br />To read entire report <a href='http://energy.gov/node/811554'>click here</a>.</div>",
       "media":"Images/Status_Paths_to_Closure.jpg",
       "credit":"",
       "caption":""
@@ -545,7 +535,7 @@
       "topic":"",
       "startDate":"02/2007",
       "headline":"<div class='clsHeadline'>Department of Energy Five Year Plans, FY2007-2011 and FY2008-FY2012</div>",
-      "text":"<div class='clsText'>The purpose of the EM Five Year Plans was to describe EM&#39;s planned strategies, funding and accomplishments over a five year span.  These plans summarized EM progress, presented EM performance measures, discussed assumptions, detailed the EM decision-making process, and provided estimated EM funding over the FY 2007-2011 and the FY 2008-2012 time periods.<br /><br />To read the FY2008-2012 report <a target='_blank' href='pdf/Five_Year_Plan_2008_2012.pdf'>click here</a>. </div>",
+      "text":"<div class='clsText'>The purpose of the EM Five Year Plans was to describe EM&#39;s planned strategies, funding and accomplishments over a five year span.  These plans summarized EM progress, presented EM performance measures, discussed assumptions, detailed the EM decision-making process, and provided estimated EM funding over the FY 2007-2011 and the FY 2008-2012 time periods.<br /><br />To read the FY2008-2012 or the FY2007-2011 report <a href='http://energy.gov/node/811709'>click here</a>.</div>",
       "media":"Images/Five_YR_Plan.jpg",
       "credit":"",
       "caption":""
@@ -555,12 +545,12 @@
       "topic":"",
       "startDate":"06/2012",
       "headline":"<div class='clsHeadline'>The EM Story Brochure</div>",
-      "text":"<div class='clsText'>In 2012, the EM story brochure (and an accompanying video) were released to the public that provided a high-level summary and communicated EM&#39;s history, cleanup, and challenges.<br /><br />To read the brochure <a target='_blank' href='pdf/EM_Story.pdf'>click here</a>.</div>",
+      "text":"<div class='clsText'>In 2012, the EM story brochure (and an accompanying video) were released to the public that provided a high-level summary and communicated EM&#39;s history, cleanup, and challenges.<br /><br />To read the brochure <a href='http://energy.gov/node/811829'>click here</a>.</div>",
       "media":"Images/EM_Brochure.jpg",
       "credit":"",
       "caption":""
     },
-	  {
+    {
       "site":"Cross",
       "topic":"",
       "startDate":"06/2012",
@@ -575,7 +565,7 @@
       "topic":"",
       "startDate":"01/2009",
       "headline":"<div class='clsHeadline'>Status of Environmental Management Initiatives to Accelerate the Reduction of Environmental Risks and Challenges Posed by the Legacy of the Cold War</div>",
-      "text":"<div class='clsText'>This Report to Congress was prepared pursuant to section 3130 of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2008, and summarized the EM program and initiatives to accelerate the reduction of environmental risks and challenges posed by the legacy of the Cold War.  This report discussed the status of initiatives undertaken to accelerate risk reduction after the 2002 Top-to-Bottom Review, and the  2007 report by the National Academy of Public Administration entitled Office of Environmental Management: Managing America&#39;s Defense Nuclear Waste.  The NDAA report described EM&#39;s current regulatory framework and site-specific commitments; discussed EM&#39;s life-cycle cost estimate; and provided an overview of excess facilities and cleanup scope expected to be transferred to EM.<br /><br />To read entire report <a target='_blank' href='pdf/NDAA_Report_to_Congress_2009.pdf'>click here</a>.</div>",
+      "text":"<div class='clsText'>This Report to Congress was prepared pursuant to section 3130 of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2008, and summarized the EM program and initiatives to accelerate the reduction of environmental risks and challenges posed by the legacy of the Cold War.  This report discussed the status of initiatives undertaken to accelerate risk reduction after the 2002 Top-to-Bottom Review, and the  2007 report by the National Academy of Public Administration entitled Office of Environmental Management: Managing America&#39;s Defense Nuclear Waste.  The NDAA report described EM&#39;s current regulatory framework and site-specific commitments; discussed EM&#39;s life-cycle cost estimate; and provided an overview of excess facilities and cleanup scope expected to be transferred to EM.<br /><br />To read entire report <a href='http://energy.gov/node/811714'>click here</a>.</div>",
       "media":"Images/Report_to_Congress.jpg",
       "credit":"",
       "caption":""
@@ -585,7 +575,7 @@
       "topic":"",
       "startDate":"06/2010",
       "headline":"<div class='clsHeadline'>Updated Appendices to the Status of Environmental Management Initiatives to Accelerate the Reduction of Environmental Risks and Challenges Posed by the Legacy of the Cold War Report to Congress</div>",
-      "text":"<div class='clsText'>Responding to the requirements in the FY 2010 Energy and Water Development Appropriations Report (H.R. 111-203) EM updated Appendices A and B of the prior year&#39;s National Defense Authorization Act (NDAA) Report.  Appendix A  provided updated information on each Enforceable Agreement Milestone  and Appendix B provided an update of the life-cycle cost of the EM program.<br /><br />To read entire report <a target='_blank' href='pdf/Report_to_Congress_NDAA_2010.pdf'>click here</a>. </div>",
+      "text":"<div class='clsText'>Responding to the requirements in the FY 2010 Energy and Water Development Appropriations Report (H.R. 111-203) EM updated Appendices A and B of the prior year&#39;s National Defense Authorization Act (NDAA) Report.  Appendix A  provided updated information on each Enforceable Agreement Milestone  and Appendix B provided an update of the life-cycle cost of the EM program.<br /><br />To read entire report <a href='http://energy.gov/node/811799'>click here</a>. </div>",
       "media":"Images/Report_to_Congress_Update.jpg",
       "credit":"",
       "caption":""
@@ -595,7 +585,7 @@
       "topic":"",
       "startDate":"12/2010",
       "headline":"<div class='clsHeadline'>Roadmap&#58; EM Journey to Excellence</div>",
-      "text":"<div class='clsText'>This report described EM&#39;s priority goals, including footprint reduction, development of modeling and simulation tools, introduced novel methods for liquid waste processing, and provided other initiatives to move the EM cleanup mission forward.<br /><br />To read entire report <a target='_blank' href='pdf/Roadmap_Journey_to_Excellence_2010.pdf'>click here</a>.</div>",
+      "text":"<div class='clsText'>This report described EM&#39;s priority goals, including footprint reduction, development of modeling and simulation tools, introduced novel methods for liquid waste processing, and provided other initiatives to move the EM cleanup mission forward.<br /><br />To read entire report <a href='http://energy.gov/node/811804'>click here</a>.</div>",
       "media":"Images/Roadmap.jpg",
       "credit":"",
       "caption":""
@@ -730,17 +720,17 @@
       "credit":"",
       "caption":""
     }, 
-	{
+  {
       "site":"HANF",
       "topic":"Soil",
       "startDate":"08/2012",
       "headline":"<div class='clsHeadline'>Hanford Groundwater Remediation Report</div>",
-      "text":"<div class='clsText'>The Hanford Site Groundwater Remediation Project issued an annual report describing its accomplishments and plans. The 2012 report can be accessed through a web-based interactive viewer allowing users to view narratives and graphics, explore all of the data that supports the annual report, and provide access to links of supporting documents and reference materials.<br /><br />To access the web-based interactive report <a target='_blank' href='http://phoenix.pnnl.gov/AR12/'>click here</a>.</div>",
+      "text":"<div class='clsText'>The Hanford Site Groundwater Remediation Project issued an annual report describing its accomplishments and plans. The 2012 report can be accessed through a web-based interactive viewer allowing users to view narratives and graphics, explore all of the data that supports the annual report, and provide access to links of supporting documents and reference materials.<br /><br />To access the web-based interactive report <a href='http://phoenix.pnnl.gov/AR12/'>click here</a>.</div>",
       "media":"Images/GW_Report_12.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"Disposal",
       "startDate":"07/2011",
@@ -750,7 +740,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"RF",
       "topic":"Disposal",
       "startDate":"02/1994",
@@ -760,7 +750,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"RF",
       "topic":"DD",
       "startDate":"08/1996",
@@ -770,7 +760,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"RF",
       "topic":"Closure",
       "startDate":"12/2001",
@@ -780,7 +770,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"SNF",
       "startDate":"05/2009",
@@ -790,17 +780,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WIPP",
       "topic":"GI",
       "startDate":"12/1979",
       "headline":"<div class='clsHeadline'>Congress Passed the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1980 </div>",
-      "text":"<div class='clsText'>Passage of the DOE National Security and Military Applications of Nuclear Energy Authorization Act of 1980 (Public Law 96-164) authorized the construction of the Waste Isolation Pilot Plant (WIPP). <br /><br />At left, the United States Capitol Building in Washington, D.C., where this legislative process took place. </div>",
+      "text":"<div class='clsText'>Passage of the DOE National Security and Military Applications of Nuclear Energy Authorization Act of 1980 (Public Law 96-164) authorized the construction of the Waste Isolation Pilot Plant (WIPP) in southeast New Mexico. <br /><br />At left, the United States Capitol Building in Washington, D.C., where this legislative process took place. </div>",
       "media":"Images/WIPP_Capitol.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"10/1982",
@@ -810,7 +800,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"05/1986",
@@ -820,17 +810,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"05/1998",
-      "headline":"<div class='clsHeadline'>U.S. Environmental Protection Agency (EPA) Certifies the Waste Isolation Pilot Plant (WIPP) </div>",
-      "text":"<div class='clsText'>In May 1998, the EPA certified that WIPP could meet the standards in 40 CFR 191, which meant WIPP could safely isolate transuranic waste and protect human health and the environment. <br /><br />At left, workers continue mining of WIPP storage areas.</div>",
+      "headline":"<div class='clsHeadline'>U.S. Environmental Protection Agency (EPA) Certified the Waste Isolation Pilot Plant (WIPP) </div>",
+      "text":"<div class='clsText'>In May 1998, the EPA issued its Final Certification Decision for WIPP.  That decision stated 'The EPA has determined that WIPP can safely contain transuranic waste and that it will comply with the Agency’s radioactive waste disposal standards.' EPA’s decision allowed DOE to begin disposing radioactive waste in the WIPP once all other applicable health and safety standards had been met <br /><br />At left, workers continue mining WIPP storage areas.</div>",
       "media":"Images/WIPP_EPASlide.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"03/1999",
@@ -840,17 +830,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"01/2007",
       "headline":"<div class='clsHeadline'>Waste Isolation Pilot Plant (WIPP) Received First Remote-Handled (RH) Transuranic (TRU) Waste Shipment </div>",
-      "text":"<div class='clsText'>Almost eight years after receiving its first contact-handled TRU (CH-TRU) waste shipment, WIPP received its first RH-TRU waste shipment in January 2007. RH-TRU waste has a higher dose rate than CH-TRU.<br /><br />At left, the first RH-TRU waste shipment arrives at WIPP. </div>",
+      "text":"<div class='clsText'>Almost eight years after receiving its first contact-handled TRU (CH-TRU) waste shipment, WIPP received its first RH-TRU waste shipment in January 2007. RH-TRU waste has a higher radiation level than CH-TRU and therefore requires additional worker precautions, shielding, storage, and remote handling of the waste to protect the workers and the environment.<br /><br />At left, the first RH-TRU waste shipment arrives at WIPP. </div>",
       "media":"Images/WIPP_first_RH_shipment.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"06/2010",
@@ -860,7 +850,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"08/2011",
@@ -870,7 +860,7 @@
       "credit":"",
       "caption":""
     },
-		{
+    {
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"11/2012",
@@ -880,17 +870,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"NNSS",
       "topic":"Soil",
       "startDate":"12/2012",
       "headline":"<div class='clsHeadline'>New Interactive Map Makes Nevada National Security Site (NNSS) Data More Accessible to the Public </div>",
-      "text":"<div class='clsText'>With the help of a new computer map and database known as the NNSS Remediation Sites map, interested members of the public can literally open the book on thousands of sites located on the NNSS and surrounding Nevada Test and Training Range. <br /><br />At left, a screenshot of the interactive map, which makes NNSS data more accessible to the public. <br /><br />To access the web-based interactive map <a target='_blank' href='http://nnssremediation.dri.edu/'>click here</a>. </div>",
+      "text":"<div class='clsText'>With the help of a new computer map and database known as the NNSS Remediation Sites map, interested members of the public can literally open the book on thousands of sites located on the NNSS and surrounding Nevada Test and Training Range. <br /><br />At left, a screenshot of the interactive map, which makes NNSS data more accessible to the public. <br /><br />To access the web-based interactive map <a href='http://nnssremediation.dri.edu/'>click here</a>. </div>",
       "media":"Images/NNSS_Remediation_Sites_Web_Tool.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"NNSS",
       "topic":"Disposal",
       "startDate":"01/2004",
@@ -900,7 +890,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"NNSS",
       "topic":"Disposal",
       "startDate":"07/2009",
@@ -910,17 +900,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"NNSS",
       "topic":"GI",
       "startDate":"1958",
       "headline":"<div class='clsHeadline'>Nuclear Rocket Development Station at the Nevada Test Site (NTS) </div>",
-      "text":"<div class='clsText'>During the 1950s, the United States launched a nuclear rocket program called Project Rover. This program proved that a nuclear reactor could be used to heat liquid hydrogen for spacecraft propulsion, being twice as efficient as a chemical rocket. <br /><br />At left, President Kennedy (second from left) departs the Rocket Development Station at the NTS after viewing a full-scale mock-up of a NERVA (Nuclear Engine for Rocket Vehicle Application) engine on December 8, 1962.<br /><br /> To read the entire report <a target='_blank' href='pdf/NNSS Rocket 2013.pdf'>click here</a>.</div>",
+      "text":"<div class='clsText'>During the 1950s, the United States launched a nuclear rocket program called Project Rover. This program proved that a nuclear reactor could be used to heat liquid hydrogen for spacecraft propulsion, being twice as efficient as a chemical rocket. <br /><br />At left, President Kennedy (second from left) departs the Rocket Development Station at the NTS after viewing a full-scale mock-up of a NERVA (Nuclear Engine for Rocket Vehicle Application) engine on December 8, 1962.<br /><br /> To read the entire report <a href='http://energy.gov/node/811129'>click here</a>.</div>",
       "media":"Images/NNNS_JK.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"NNSS",
       "topic":"DD",
       "startDate":"03/2010",
@@ -930,7 +920,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"NNSS",
       "topic":"Disposal",
       "startDate":"07/1961",
@@ -940,17 +930,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"NNSS",
       "topic":"Disposal",
       "startDate":"1976",
       "headline":"<div class='clsHeadline'>Nevada Test Site (NTS) Began Disposing of Waste from Other Sites </div>",
       "text":"<div class='clsText'>In 1976, NTS began receiving and disposing of waste generated at other DOE sites, including Mound (1976) and eventually many other DOE defense sites and laboratories like Lawrence Livermore National Laboratory. <br /><br /></div>",
-      "media":"Images/NNSS_Disposal.jpg",
+      "media":"http://www.youtube.com/watch?v=ekqDp5y9lio&feature=youtu.be",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"NNSS",
       "topic":"DD",
       "startDate":"07/2010",
@@ -960,7 +950,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"NNSS",
       "topic":"GI",
       "startDate":"08/2010",
@@ -970,7 +960,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"GI",
       "startDate":"05/1989",
@@ -980,7 +970,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"DD",
       "startDate":"09/1998",
@@ -990,7 +980,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"Disposal",
       "startDate":"07/2000",
@@ -1000,7 +990,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"DD",
       "startDate":"09/2002",
@@ -1010,7 +1000,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"DD",
       "startDate":"09/2003",
@@ -1020,7 +1010,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"DD",
       "startDate":"09/2004",
@@ -1030,7 +1020,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"DD",
       "startDate":"10/2005",
@@ -1040,7 +1030,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"DD",
       "startDate":"08/2008",
@@ -1050,7 +1040,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"SNF",
       "startDate":"09/2009",
@@ -1060,7 +1050,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"Closure",
       "startDate":"12/2010",
@@ -1070,7 +1060,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"Soil",
       "startDate":"09/2011",
@@ -1080,7 +1070,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"DD",
       "startDate":"06/2012",
@@ -1090,7 +1080,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"Closure",
       "startDate":"09/2012",
@@ -1100,7 +1090,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"Disposal",
       "startDate":"07/2013",
@@ -1110,7 +1100,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"Cross",
       "topic":"",
       "startDate":"11/1989",
@@ -1120,7 +1110,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"Disposal",
       "startDate":"1991",
@@ -1130,17 +1120,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"GI",
       "startDate":"01/1992",
       "headline":"<div class='clsHeadline'>Federal Facility Agreement (FFA) Signed at Oak Ridge </div>",
-      "text":"<div class='clsText'>The Oak Ridge Reservation FFA was implemented on January 1, 1992. It is a CERCLA-required agreement among DOE, the United States Environmental Protection Agency, and the Tennessee Department of Environment and Conservation to promote cooperation and participation to clean and remediate the Oak Ridge Reservation. <br /><br />To read the original FFA agreement that was signed in 1991 and implemented in 1992 <a target='_blank' href='pdf/Oak_Ridge_FFA.pdf'>click here</a>.</div>",
+      "text":"<div class='clsText'>The Oak Ridge Reservation FFA was implemented on January 1, 1992. It is a CERCLA-required agreement among DOE, the United States Environmental Protection Agency, and the Tennessee Department of Environment and Conservation to promote cooperation and participation to clean and remediate the Oak Ridge Reservation. <br /><br />To read the original FFA agreement that was signed in 1991 and implemented in 1992 <a href='http://energy.gov/node/811489'>click here</a>.</div>",
       "media":"Images/oak_ridge_FFA.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"GI",
       "startDate":"1995",
@@ -1150,7 +1140,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"Disposal",
       "startDate":"05/2002",
@@ -1160,7 +1150,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"Closure",
       "startDate":"09/2006",
@@ -1170,7 +1160,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"SNF",
       "startDate":"12/2006",
@@ -1180,7 +1170,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"Disposal",
       "startDate":"06/2007",
@@ -1190,7 +1180,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"DD",
       "startDate":"03/2007",
@@ -1200,7 +1190,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"DD",
       "startDate":"12/2008",
@@ -1210,17 +1200,7 @@
       "credit":"",
       "caption":""
     },
-	{
-      "site":"OR",
-      "topic":"GI",
-      "startDate":"03/2009",
-      "headline":"<div class='clsHeadline'>The EM Program Received Recovery Act Funds </div>",
-      "text":"<div class='clsText'>The EM program received $6 billion from the American Recovery and Reinvestment Act. It provided crucial funding for cleanup projects across the EM complex that allowed for acceleration of current cleanup plans and reduction of the active EM cleanup footprint. </div>",
-      "media":"Images/2009_Recovery_Act.jpg",
-      "credit":"",
-      "caption":""
-    },
-	{
+  {
       "site":"OR",
       "topic":"Disposal",
       "startDate":"12/2009",
@@ -1230,7 +1210,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"DD",
       "startDate":"09/2011",
@@ -1240,7 +1220,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"Closure",
       "startDate":"06/2011",
@@ -1250,7 +1230,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"DD",
       "startDate":"10/2012",
@@ -1260,7 +1240,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"Soil",
       "startDate":"01/2012",
@@ -1270,7 +1250,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"GI",
       "startDate":"08/2012",
@@ -1280,7 +1260,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"Soil",
       "startDate":"03/2013",
@@ -1290,7 +1270,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PAD",
       "topic":"Soil",
       "startDate":"1983",
@@ -1300,7 +1280,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PAD",
       "topic":"Disposal",
       "startDate":"1986",
@@ -1310,7 +1290,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PAD",
       "topic":"Soil",
       "startDate":"1988",
@@ -1320,7 +1300,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PAD",
       "topic":"Soil",
       "startDate":"06/1991",
@@ -1330,7 +1310,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PAD",
       "topic":"Soil",
       "startDate":"07/1993",
@@ -1340,7 +1320,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PORT",
       "topic":"Soil",
       "startDate":"1996",
@@ -1350,7 +1330,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PORT",
       "topic":"Disposal",
       "startDate":"2005",
@@ -1360,7 +1340,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PAD",
       "topic":"Disposal",
       "startDate":"02/2007",
@@ -1370,7 +1350,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PAD",
       "topic":"Disposal",
       "startDate":"09/2009",
@@ -1380,7 +1360,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PAD",
       "topic":"DD",
       "startDate":"09/2010",
@@ -1390,7 +1370,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PAD",
       "topic":"SNF",
       "startDate":"09/2010",
@@ -1400,7 +1380,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PORT",
       "topic":"SNF",
       "startDate":"05/2010",
@@ -1410,7 +1390,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PORT",
       "topic":"DD",
       "startDate":"09/2012",
@@ -1420,7 +1400,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PAD",
       "topic":"DD",
       "startDate":"02/2013",
@@ -1428,9 +1408,9 @@
       "text":"<div class='clsText'>The C-340 Metals Plant was a Cold War era facility used to manufacture uranium metal. Two thousand asbestos panels, weighing up to 170 lbs. each, were manually removed from as high as 120 feet prior to demolition in 2013 (ahead of schedule thanks to ARRA funding). <br /><br />At left, a time-lapse video of the C-340 Metals Plant demolition. It was one of the most contaminated structures on the Paducah site. </div>",
       "media":"https://www.youtube.com/watch?v=mwt_A5-KiXI",
       "credit":"",
-	  "caption":""
+    "caption":""
     },
-	{
+  {
       "site":"PAD",
       "topic":"Soil",
       "startDate":"03/2013",
@@ -1440,7 +1420,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PORT",
       "topic":"Disposal",
       "startDate":"03/2013",
@@ -1450,7 +1430,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"Disposal",
       "startDate":"12/2002",
@@ -1460,7 +1440,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"Disposal",
       "startDate":"09/2004",
@@ -1470,7 +1450,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"Disposal",
       "startDate":"02/2006",
@@ -1480,7 +1460,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"GI",
       "startDate":"12/1991",
@@ -1490,17 +1470,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"GI",
       "startDate":"10/1995",
       "headline":"<div class='clsHeadline'>Idaho Settlement Agreement Signed at Idaho National Laboratory </div>",
-      "text":"<div class='clsText'>Idaho Settlement Agreement was signed by DOE and the state of Idaho. It outlined legally binding spent nuclear fuel and waste removal milestones that must be accomplished by 2035. <br /><br />To read entire report <a target='_blank' href='pdf/Idaho_Site_Agreement_1995.pdf'>click here</a>. <br /><br />At left, a rail shipment of nuclear waste in Idaho. </div>",
+      "text":"<div class='clsText'>Idaho Settlement Agreement was signed by DOE and the state of Idaho. It outlined legally binding spent nuclear fuel and waste removal milestones that must be accomplished by 2035. <br /><br />To read entire report <a href='http://energy.gov/node/811519'>click here</a>. <br /><br />At left, a rail shipment of nuclear waste in Idaho. </div>",
       "media":"Images/Idaho_Settlement.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"GI",
       "startDate":"10/2009",
@@ -1510,7 +1490,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"Disposal",
       "startDate":"01/2005",
@@ -1520,7 +1500,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"Disposal",
       "startDate":"01/2005",
@@ -1530,7 +1510,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"DD",
       "startDate":"10/2007",
@@ -1540,7 +1520,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"DD",
       "startDate":"10/2007",
@@ -1550,7 +1530,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"Disposal",
       "startDate":"08/2011",
@@ -1560,7 +1540,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"DD",
       "startDate":"11/2012",
@@ -1570,7 +1550,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"DD",
       "startDate":"12/2011",
@@ -1580,7 +1560,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"FER",
       "topic":"GI",
       "startDate":"10/2007",
@@ -1590,7 +1570,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"ORP",
       "topic":"HLW",
       "startDate":"1978",
@@ -1600,27 +1580,27 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"ORP",
       "topic":"GI",
       "startDate":"12/1998",
       "headline":"<div class='clsHeadline'>Office of River Protection (ORP) Established </div>",
-      "text":"<div class='clsText'>The Office of River Protection was  established by Congressional Act to ensure focus and management attention was placed on a massive DOE construction project to treat 56 million gallons of High Level Liquid Waste in 177 underground storage tanks at the Hanford Site.  This liquid waste was a by&#45;product of nearly 60 years of plutonium production at the nine Hanford plutonium reactors. <br /><br />At left, the U.S. Capitol. </div>",
+      "text":"<div class='clsText'>The Office of River Protection was  established by Congressional Act to ensure focus and management attention was placed on a massive DOE construction project to treat 56 million gallons of High Level Liquid Waste in 177 underground storage tanks at the Hanford Site in Washington state.  This liquid waste was a by&#45;product of nearly 60 years of plutonium production at the nine Hanford plutonium reactors. <br /><br />At left, the U.S. Capitol. </div>",
       "media":"Images/1999_ORP.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"ORP",
       "topic":"HLW",
       "startDate":"12/2003",
       "headline":"<div class='clsHeadline'>First C Farm Single-Shell Tank was Emptied at Office of River Protection </div>",
-      "text":"<div class='clsText'>In 2003, the first single-shell tank in C Farm was emptied. Removing solid waste (saltcake) from a single-shell tank is a challenging environmental restoration project. There are numerous physical restrictions including the fact that the tanks are buried underground beneath seven-to-10 feet of soil; have limited access via pipes that extend from the top of the tank to the ground surface; contain lethal radioactive and chemical waste, requiring all work to be performed remotely; and contain a variety of waste requiring multiple retrieval technologies. A tank is considered emptied (or retrieved) upon removal of as much of the liquid and solid waste as practical from each tank. <br /><br />At left, a saltcake, or solid waste, that is left in each tank following interim stabilization (liquid removal). </div>",
+      "text":"<div class='clsText'>In 2003, the first single-shell tank in C Farm was emptied. Removing solid waste (saltcake) from a single-shell tank is a challenging environmental restoration project. There are numerous physical restrictions including the fact that the tanks are buried underground beneath seven-to-10 feet of soil; have limited access via pipes that extend from the top of the tank to the ground surface; contain lethal radioactive and chemical waste, requiring all work to be performed remotely; and contain a variety of waste requiring multiple retrieval technologies. A tank is considered emptied (or retrieved) upon removal of as much of the liquid and solid waste as practical from each tank. The Hanford Tri-Party Agreement defines tank retrievals as “…retrieving as much tank waste as is possible. Tank waste residues shall not exceed 360 cubic feet in each of the large tanks, 30 cubic feet in each of the smaller tanks, or the limit of waste retrieval technology capability, whichever is less.” 360 cubic feet of residue in a large tank equates to about an inch of sludge if spread evenly over the bottom of the 530,000-gallon tank.<br /><br />At left, saltcake, or solid waste, that is left in each tank following interim stabilization (liquid removal) and before tank retrieval. </div>",
       "media":"Images/2003_singleshell_tank_emptied.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"ORP",
       "topic":"HLW",
       "startDate":"06/2004",
@@ -1630,7 +1610,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"ORP",
       "topic":"HLW",
       "startDate":"12/2012",
@@ -1640,7 +1620,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"ORP",
       "topic":"HLW",
       "startDate":"03/2013",
@@ -1650,7 +1630,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"HLW",
       "startDate":"04/2012",
@@ -1660,7 +1640,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"NNSS",
       "topic":"GI",
       "startDate":"06/2013",
@@ -1670,7 +1650,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"GI",
       "startDate":"09/2013",
@@ -1680,67 +1660,67 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"Cross",
       "topic":"",
-      "startDate":"10/2012",
+      "startDate":"10/2013",
       "headline":"<div class='clsHeadline'>Facility Deactivation and Decommissioning (D&D) </div>",
-      "text":"<div class='clsText'>One of the six EM cleanup missions is D&D of facilities no longer needed to support weapons production.  During the Cold War, tens of thousands of industrial, radiological and nuclear facilities were built ranging from large production reactors to complex nuclear chemical processing facilities, massive uranium enrichment plants, and highly hazardous and highly contaminated labs, support and disposal facilities.  Many facilities were no longer needed, have far exceeded their safe design lives, and require significant upkeep and maintenance to ensure safe containment of radioactive and hazardous contamination inside while awaiting demolition. EM has been using an aggressive and technically innovative program to D&D facilities no longer needed to support ongoing missions including a range of D&D options ranging from in-situ (in-place) decommissioning, to complete demolition and removal of all facilities. <br /><br />At left, performance metrics used to track EM progress in the D&D cleanup area (as of October 2012).</div>",
-      "media":"Images/Cross_def_Facility_DD.jpg",
+      "text":"<div class='clsText'>One of the six EM cleanup missions is D&D of facilities no longer needed to support weapons production. During the Cold War, tens of thousands of industrial, radiological and nuclear facilities were built ranging from large production reactors to complex nuclear chemical processing facilities, massive uranium enrichment plants, and highly hazardous and highly contaminated labs, support and disposal facilities.  Many facilities were no longer needed, have far exceeded their safe design lives, and require significant upkeep and maintenance to ensure safe containment of radioactive and hazardous contamination inside while awaiting demolition. EM has been using an aggressive and technically innovative program to D&D facilities no longer needed to support ongoing missions including a range of D&D options ranging from in-situ (in-place) decommissioning, to complete demolition and removal of all facilities. <br /><br />At left, performance metrics used to track EM progress in the D&D cleanup area (as of October 2013).</div>",
+      "media":"Images/Facility_DD.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"Cross",
       "topic":"",
-      "startDate":"10/2012",
+      "startDate":"10/2013",
       "headline":"<div class='clsHeadline'>Site/Area Closures </div>",
-      "text":"<div class='clsText'>By October 2012, EM had made significant progress in cleaning up and closing 90 sites.  Five sites with significant contributions to nuclear weapons production had been cleaned and closed with regulatory approval including Rocky Flats, Fernald, Mound, Pinellas, and Weldon Spring.  The 85 smaller sites had been cleaned up, closed, and transferred to DOE Office of Legacy Management or another federal or state agency for long term stewardship and monitoring of groundwater, air and soil on and around the site and around any closed waste disposal cells.<br /><br />At left, performance metrics used to track EM progress in the Site/Area Closures cleanup area (as of October 2012). </div>",
-      "media":"Images/cross_def_site_closures.jpg",
+      "text":"<div class='clsText'>By October 2013, EM had made significant progress in cleaning up and closing 90 sites.  Five sites with significant contributions to nuclear weapons production had been cleaned and closed with regulatory approval including Rocky Flats, Fernald, Mound, Pinellas, and Weldon Spring.  The 85 smaller sites had been cleaned up, closed, and transferred to DOE Office of Legacy Management or another federal or state agency for long term stewardship and monitoring of groundwater, air and soil on and around the site and around any closed waste disposal cells.<br /><br />At left, performance metrics used to track EM progress in the Site/Area Closures cleanup area (as of October 2013). </div>",
+      "media":"Images/Site_Closures.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"Cross",
       "topic":"",
-      "startDate":"10/2012",
+      "startDate":"10/2013",
       "headline":"<div class='clsHeadline'>Soil and Groundwater Remediation </div>",
-      "text":"<div class='clsText'>Soil and Groundwater Remediation is one of the six mission cleanup areas for EM. Sixty years of weapons production  during the Manhattan Project and the Cold War resulted in significant environmental discharges and releases of radioactive and contaminated liquids and solids into the soil and groundwater.  EM has made significant  progress in remediation and cleanup of soils and groundwater across the country thorough removal of the source of contamination and then removal of the surrounding contaminated soil or by various pump and treat options to clean up contaminated groundwater. <br /><br />At left, performance metrics used to track EM progress in the soil and groundwater remediation cleanup area (as of October 2012).</div>",
-      "media":"Images/cross_def_Soil_and_Groundwater.jpg",
+      "text":"<div class='clsText'>Soil and Groundwater Remediation is one of the six mission cleanup areas for EM. Sixty years of weapons production  during the Manhattan Project and the Cold War resulted in significant environmental discharges and releases of radioactive and contaminated liquids and solids into the soil and groundwater.  EM has made significant  progress in remediation and cleanup of soils and groundwater across the country thorough removal of the source of contamination and then removal of the surrounding contaminated soil or by various pump and treat options to clean up contaminated groundwater. <br /><br />At left, performance metrics used to track EM progress in the soil and groundwater remediation cleanup area (as of October 2013).</div>",
+      "media":"Images/Soil_Groundwater_Remediation.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"Cross",
       "topic":"",
-      "startDate":"10/2012",
+      "startDate":"10/2013",
       "headline":"<div class='clsHeadline'>Process Liquid Tank Waste and High Level Waste (HLW) </div>",
-      "text":"<div class='clsText'>Processing Liquid Tank Waste and HLW is another of the six EM mission cleanup areas. DOE generated roughly 92 million gallons of liquid radioactive waste as a byproduct of processing spent nuclear fuel (SNF) to produce nuclear weapons. This work represents some of the most hazardous, challenging and expensive work across the entire EM complex to stabilize this liquid waste so it may be safely stored and permanently dispositioned. While SRS has started vitrifying its liquid tank waste at the Defense Waste Processing Facility (DWPF), the Hanford site still has 56 million gallons of liquid tank waste to treat once the Waste Treatment Plant  (WTP) is completed and operational.  Following emptying, these large underground storage tanks must be cleaned and closed with regulatory approval. <br /><br />At left, performance metrics used to track EM progress in the liquid tank waste and HLW remediation cleanup area (as of October 2012). </div>",
-      "media":"Images/cross_def_Liquid_tank_Waste.jpg",
+      "text":"<div class='clsText'>Processing Liquid Tank Waste and HLW is another of the six EM mission cleanup areas. DOE generated roughly 92 million gallons of liquid radioactive waste as a byproduct of processing spent nuclear fuel (SNF) to produce nuclear weapons. This work represents some of the most hazardous, challenging and expensive work across the entire EM complex to stabilize this liquid waste so it may be safely stored and permanently dispositioned. While SRS has started vitrifying its liquid tank waste at the Defense Waste Processing Facility (DWPF), the Hanford site still has 56 million gallons of liquid tank waste to treat once the Waste Treatment Plant (WTP) is completed and operational. Following emptying, these large underground storage tanks must be cleaned and closed with regulatory approval. <br /><br />At left, performance metrics used to track EM progress in the liquid tank waste and HLW remediation cleanup area (as of October 2013). </div>",
+      "media":"Images/Liquid_Tank_Waste.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"Cross",
       "topic":"",
-      "startDate":"10/2012",
+      "startDate":"10/2013",
       "headline":"<div class='clsHeadline'>Stabilize Spent Nuclear Fuel/Special Nuclear Materials (SNF/SNM) </div>",
-      "text":"<div class='clsText'>SNF/SNM stabilization is another of the six EM cleanup mission areas.  Surplus  weapons materials including plutonium, uranium and SNF  have historically been used and stored across the DOE complex.  Following the abrupt shutdown of much of the nuclear production complex at the end of the Cold War, thousands of metric tons of nuclear materials were left mid-process in aging and poorly maintained facilities not meeting current safety or security requirements. EM is stabilizing, through treatment, and safely repackaging nuclear materials into containers designed for safe and secure long-term storage awaiting ultimate disposition.  Significant progress has been made in this cleanup area. <br /><br />At left, performance metrics used to track EM progress in the SNF/SNM stabilization cleanup area (as of October 2012).</div>",
-      "media":"Images/cross_def_SNF.jpg",
+      "text":"<div class='clsText'>SNF/SNM stabilization is another of the six EM cleanup mission areas. Surplus weapons materials including plutonium, uranium and SNF  have historically been used and stored across the DOE complex.  Following the abrupt shutdown of much of the nuclear production complex at the end of the Cold War, thousands of metric tons of nuclear materials were left mid-process in aging and poorly maintained facilities not meeting current safety or security requirements. EM is stabilizing, through treatment, and safely repackaging nuclear materials into containers designed for safe and secure long-term storage awaiting ultimate disposition. Significant progress has been made in this cleanup area. <br /><br />At left, performance metrics used to track EM progress in the SNF/SNM stabilization cleanup area (as of October 2013).</div>",
+      "media":"Images/SNF-SNM_Stabilized.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"Cross",
       "topic":"",
-      "startDate":"10/2012",
+      "startDate":"10/2013",
       "headline":"<div class='clsHeadline'>Transuranic waste (TRU), low level waste (LLW) and mixed low level waste (MLLW) Disposition </div>",
-      "text":"<div class='clsText'>Another cleanup mission area for EM is disposition of millions of  pounds of radioactive waste.  The production of nuclear weapons resulted in the radioactive contamination of items such as liquids, clothing, tools, rags, process equipment, soil and groundwater.  Waste also includes newly generated waste from the demolition of excess nuclear facilities.  EM&#39;s goal is to develop and implement safe, compliant, and cost effective disposition paths for all stored and newly generated radioactive wastes.   While much progress has been made in disposal of LLW/MLLW, there is much work to be done to complete the waste mission.  With the opening of the Waste Isolation Pilot Plant in 1999, TRU waste now has a final disposition path and EM is now aggressively pursuing disposal of TRU waste at WIPP.<br /><br />At left, performance metrics used to track EM progress in the TRU/LLW/MLLW Disposal cleanup area (as of October 2012). </div>",
-      "media":"Images/Cross_def_TRU_and_LLW.jpg",
+      "text":"<div class='clsText'>Another cleanup mission area for EM is disposition of millions of cubic meters of radioactive waste. The production of nuclear weapons resulted in the radioactive contamination of items such as liquids, clothing, tools, rags, process equipment, soil and groundwater.  Waste also includes newly generated waste from the demolition of excess nuclear facilities.  EM&#39;s goal is to develop and implement safe, compliant, and cost effective disposition paths for all stored and newly generated radioactive wastes. While much progress has been made in disposal of LLW/MLLW, there is much work to be done to complete the waste mission.  With the opening of the Waste Isolation Pilot Plant in 1999, TRU waste now has a final disposition path and EM is now aggressively pursuing disposal of TRU waste at WIPP.<br /><br />At left, performance metrics used to track EM progress in the TRU/LLW/MLLW Disposal cleanup area (as of October 2013). </div>",
+      "media":"Images/TRUandLLW-MLLW.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"GI",
       "startDate":"10/1950",
@@ -1750,7 +1730,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"SNF",
       "startDate":"11/1954",
@@ -1760,7 +1740,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"GI",
       "startDate":"1971",
@@ -1770,7 +1750,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"GI",
       "startDate":"05/1972",
@@ -1780,7 +1760,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"HLW",
       "startDate":"1983",
@@ -1790,7 +1770,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"Soil",
       "startDate":"10/1988",
@@ -1800,17 +1780,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"GI",
       "startDate":"05/2004",
       "headline":"<div class='clsHeadline'>Savannah River Technology Center (SRTC) Designated as a National Laboratory </div>",
-      "text":"<div class='clsText'>In 2004, the Secretary of Energy designated SRTC as a national laboratory based on its contributions and important role it has played in both energy and defense programs of the United States. The lab was also renamed the Savannah River National Laboratory (SRNL). In 2006, it was also designated as EM&#39;s Corporate Laboratory. <br /><br />To read the entire certificate of designation <a target='_blank' href='pdf/SRNL_CertificateofDesignation.pdf'>click here</a>.</div>",
+      "text":"<div class='clsText'>In 2004, the Secretary of Energy designated SRTC as a national laboratory based on its contributions and important role it has played in both energy and defense programs of the United States. The lab was also renamed the Savannah River National Laboratory (SRNL). In 2006, it was also designated as EM&#39;s Corporate Laboratory. <br /><br />To read the entire certificate of designation <a href='http://energy.gov/node/811569'>click here</a>.</div>",
       "media":"Images/SRNL_technology_center.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"MOB",
       "topic":"Soil",
       "startDate":"10/2001",
@@ -1820,7 +1800,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"MOB",
       "topic":"Disposal",
       "startDate":"09/2005",
@@ -1830,7 +1810,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"MOB",
       "topic":"Disposal",
       "startDate":"04/2009",
@@ -1840,7 +1820,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"MOB",
       "topic":"Disposal",
       "startDate":"06/2013",
@@ -1850,7 +1830,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"GI",
       "startDate":"10/1980",
@@ -1860,7 +1840,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"DD",
       "startDate":"1981",
@@ -1870,7 +1850,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"HLW",
       "startDate":"1984",
@@ -1880,7 +1860,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"HLW",
       "startDate":"1985",
@@ -1890,7 +1870,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"Disposal",
       "startDate":"05/1988",
@@ -1900,7 +1880,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"HLW",
       "startDate":"1990",
@@ -1910,7 +1890,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"HLW",
       "startDate":"06/1996",
@@ -1920,7 +1900,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"Disposal",
       "startDate":"02/1997",
@@ -1930,7 +1910,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"DD",
       "startDate":"2000",
@@ -1940,7 +1920,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"SNF",
       "startDate":"05/2003",
@@ -1950,7 +1930,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"Disposal",
       "startDate":"06/2004",
@@ -1960,7 +1940,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"DD",
       "startDate":"07/2005",
@@ -1970,7 +1950,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"Soil",
       "startDate":"09/2008",
@@ -1980,7 +1960,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"Soil",
       "startDate":"10/2010",
@@ -1990,7 +1970,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"GI",
       "startDate":"04/2010",
@@ -2000,7 +1980,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"DD",
       "startDate":"06/2013",
@@ -2010,7 +1990,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"HLW",
       "startDate":"12/2013",
@@ -2020,7 +2000,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"SNF",
       "startDate":"09/1944",
@@ -2030,7 +2010,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"SNF",
       "startDate":"09/1963",
@@ -2040,7 +2020,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"SNF",
       "startDate":"07/1963",
@@ -2050,7 +2030,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"Disposal",
       "startDate":"01/1954",
@@ -2060,7 +2040,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"HLW",
       "startDate":"1958",
@@ -2070,7 +2050,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"BNL",
       "topic":"GI",
       "startDate":"08/1950",
@@ -2080,17 +2060,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"BNL",
       "topic":"DD",
       "startDate":"09/2012",
       "headline":"<div class='clsHeadline'>Brookhaven National Lab (BNL) Decommissioned the Graphite Research Reactor (BGRR) </div>",
-      "text":"<div class='clsText'>In September 2012, EM reached a major milestone by decommissioning this reactor, ending EM's active cleanup activities at the site. <br /><br />At left, the Brookhaven Graphite Research Reactor. At right, after the 4,760-ton bioshield and 700-ton reactor core were decommissioned. </div>",
+      "text":"<div class='clsText'>In September 2012, EM reached a major milestone by decommissioning the BGRR at Brookhaven. This reactor was the first reactor built in the U.S. for peacetime atomic research in 1950. <br /><br />At left, the Brookhaven Graphite Research Reactor. At right, after the 4,760-ton bioshield and 700-ton reactor core were decommissioned. </div>",
       "media":"Images/BNL_Before_After_Reactor.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"MOB",
       "topic":"GI",
       "startDate":"1984",
@@ -2100,7 +2080,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"GI",
       "startDate":"1958",
@@ -2110,7 +2090,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"GI",
       "startDate":"07/2013",
@@ -2120,7 +2100,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"GI",
       "startDate":"07/2013",
@@ -2130,7 +2110,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PAD",
       "topic":"SNF",
       "startDate":"12/1956",
@@ -2140,7 +2120,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"SNF",
       "startDate":"02/1945",
@@ -2150,7 +2130,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"HLW",
       "startDate":"05/1998",
@@ -2160,7 +2140,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"HLW",
       "startDate":"10/2012",
@@ -2170,7 +2150,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"GI",
       "startDate":"02/1942",
@@ -2180,7 +2160,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"GI",
       "startDate":"1945",
@@ -2190,7 +2170,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"GI",
       "startDate":"11/1943",
@@ -2200,7 +2180,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"Cross",
       "topic":"",
       "startDate":"01/1942",
@@ -2210,7 +2190,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"GI",
       "startDate":"12/1965",
@@ -2220,17 +2200,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"GI",
       "startDate":"03/1942",
       "headline":"<div class='clsHeadline'>Hanford Site Established as Second Manhattan Project Production Site </div>",
-      "text":"<div class='clsText'>In March 1942, Hanford was established as a second production site for the Manhattan Project. By July 1944, some 1,200 buildings had been erected and nearly 51,000 people were living in the construction camp on the Hanford Site. <br /><br />At left, Hanford B Reactor under construction. </div>",
+      "text":"<div class='clsText'>In March 1942, Hanford was established as a second production site for the Manhattan Project in the town of Hanford in south-central Washington. By July 1944, some 1,200 buildings had been erected and nearly 51,000 people were living in the construction camp on the Hanford Site. <br /><br />At left, Hanford B Reactor under construction. </div>",
       "media":"Images/hanford_site_established.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"LANL",
       "topic":"GI",
       "startDate":"07/1945",
@@ -2240,17 +2220,17 @@
       "credit":"",
       "caption":""
     },
-	{
-      "site":"NNSS",
-      "topic":"GI",
-      "startDate":"12/1945",
-      "headline":"<div class='clsHeadline'>Nevada Test Site (NTS), Nuclear Testing and the Cold War </div>",
-      "text":"<div class='clsText'>Following the end of World War II and throughout the subsequent Cold War, the US embarked on a large testing program that included approximately 1,054 nuclear tests between 1945 and 1992. Following the August 5, 1963 Limited Test Ban Treaty, the Nevada Test Site was the sole test site for US underground testing. The Nevada Test Site was the location of 828 underground and 100 atmospheric nuclear tests.<br /><br />(Left) Shot &#34;Baker&#34; of Operation Crossroads (1946) was the first underwater nuclear explosion.  (Middle) The 1962 &#34;Sedan&#34; plowshares shot which displaced 12 million tons of earth and created a crater 320 feet deep and 1,280 feet wide to demonstrate the peaceful uses of nuclear weapons for excavation purposes. (Right) The Yucca Flats area of NTS, showing the subsidence craters from numerous underground tests. </div>",
-      "media":"Images/Nuclear_Testing_Cold_War.jpg",
+  {
+      "site":"Cross",
+      "topic":"",
+      "startDate":"06/1946",
+      "headline":"<div class='clsHeadline'>Nuclear Testing and the Cold War </div>",
+      "text":"<div class='clsText'>Following the end of World War II, the US began a large nuclear testing program on and near Bikini, Christmas, Enewetak, and Johnston islands in the Pacific Ocean.  A total of 106 tests were carried out in the Pacific until November 1962, which accounts for 10% of the 1,054 nuclear tests conducted by the United States between 1945 and 1992.<br /><br />At left, Shot &#34;Baker&#34; of Operation Crossroads (1946) was the first underwater nuclear explosion.</div>",
+      "media":"Images/Crossroads_baker_explosion.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"GI",
       "startDate":"09/2012",
@@ -2260,7 +2240,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"DD",
       "startDate":"01/2011",
@@ -2270,7 +2250,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"OR",
       "topic":"DD",
       "startDate":"12/2013",
@@ -2315,7 +2295,7 @@
       "topic":"GI",
       "startDate":"01/1943",
       "headline":"<div class='clsHeadline'>Los Alamos National Lab (LANL) Established During World War II</div>",
-      "text":"<div class='clsText'>The Los Alamos Scientific Laboratory (later renamed LANL) was established in 1943 as site Y of the Manhattan Project for a single purpose: to design and build an atomic bomb.  It took just 20 months and on July 16, 1945, the world's first atomic bomb was detonated 200 miles south of Los Alamos at Trinity Site on the Alamogordo bombing range. Under the scientific leadership of J. Robert Oppenheimer and the military direction of General Leslie R. Groves, scientists at the Laboratory had successfully weaponized the atom which brought an end to World War II. <br /><br />At left, the LANL Main gate, circa 1940s.</div>",
+      "text":"<div class='clsText'>In 1943, the Los Alamos Scientific Laboratory (later renamed LANL) was established in New Mexico as site Y of the Manhattan Project for a single purpose: to design and build an atomic bomb.  It took just 20 months and on July 16, 1945, the world's first atomic bomb was detonated 200 miles south of Los Alamos at Trinity Site on the Alamogordo bombing range. Under the scientific leadership of J. Robert Oppenheimer and the military direction of General Leslie R. Groves, scientists at the Laboratory had successfully weaponized the atom which brought an end to World War II. <br /><br />At left, the LANL Main gate, circa 1940s.</div>",
       "media":"Images/LANL_gate.jpg",
       "credit":"",
       "caption":""
@@ -2339,7 +2319,7 @@
       "media":"Images/LANL_Cleanup.jpg",
       "credit":"",
       "caption":""
-    },	
+    },  
     {
       "site":"LANL",
       "topic":"DD",
@@ -2350,17 +2330,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"BNL",
       "topic":"GI",
       "startDate":"1947",
       "headline":"<div class='clsHeadline'>Brookhaven National Lab (BNL) Established Following World War II</div>",
-      "text":"<div class='clsText'>BNL was established in 1947 on the eastern end of Long Island at the former site of the U.S. Army&#39;s Camp Upton. The Lab was originally built out of a post-World War II desire to explore the peaceful applications of atomic energy. <br /><br />At left, researchers manipulate an atomic beam apparatus for the determination of nuclear spins of radioactive materials in the 1950s. </div>",
+      "text":"<div class='clsText'>BNL was established in 1947 on the eastern end of Long Island in New York state at the former site of the U.S. Army&#39;s Camp Upton. The Lab was originally built out of a post-World War II desire to explore the peaceful applications of atomic energy. <br /><br />At left, researchers manipulate an atomic beam apparatus for the determination of nuclear spins of radioactive materials in the 1950s. </div>",
       "media":"Images/BNL_established_following_WW2.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"INL",
       "topic":"GI",
       "startDate":"02/1949",
@@ -2370,7 +2350,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PAD",
       "topic":"GI",
       "startDate":"12/1950",
@@ -2380,7 +2360,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PORT",
       "topic":"GI",
       "startDate":"08/1952",
@@ -2390,7 +2370,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WS",
       "topic":"GI",
       "startDate":"1955",
@@ -2400,7 +2380,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"WV",
       "topic":"GI",
       "startDate":"04/1961",
@@ -2410,7 +2390,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"PIN",
       "topic":"GI",
       "startDate":"06/1957",
@@ -2420,7 +2400,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"MOUND",
       "topic":"GI",
       "startDate":"05/1948",
@@ -2440,7 +2420,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"HLW",
       "startDate":"12/2013",
@@ -2449,8 +2429,8 @@
       "media":"Images/grout-pour1_756px.jpg",
       "credit":"",
       "caption":""
-    },	
-	{
+    },  
+  {
       "site":"WV",
       "topic":"Disposal",
       "startDate":"12/2013",
@@ -2459,8 +2439,8 @@
       "media":"Images/2013_WV_LLW_Update.jpg",
       "credit":"",
       "caption":""
-    },	
-	{
+    },  
+  {
       "site":"NNSS",
       "topic":"Disposal",
       "startDate":"07/2009",
@@ -2481,11 +2461,11 @@
       "caption":""
     },
     {
-      "site":"INL",
+      "site":"WIPP",
       "topic":"Disposal",
       "startDate":"09/2011",
-      "headline":"<div class='clsHeadline'>Idaho’s Advanced Mixed Waste Treatment Project  (AMWTP) Sends the 10,000th Shipment of Transuranic (TRU) Waste to the Waste Isolation Pilot Plant (WIPP)</div>",
-      "text":"<div class='clsText'>On Friday, September 23, 2011, crews at the AMWTP sent the 10,000<sup>th</sup> shipment of TRU Waste to WIPP.  AMWTP has proven to be the single most prolific shipper of TRU Waste to the New Mexico facility, accounting for nearly half of all shipments sent there for permanent disposal. <br /><br /> At left, the 10,000<sup>th</sup> shipment leaves the Idaho Site while crews celebrate and pose in front of the shipment.</div>",
+      "headline":"<div class='clsHeadline'>The Waste Isolation Pilot Plant (WIPP) Receives the 10,000<sup>th</sup> Shipment of Transuranic (TRU) Waste </div>",
+      "text":"<div class='clsText'>On Saturday, September 24, 2011, WIPP received the 10,000<sup>th</sup> shipment of TRU Waste for disposal. The 10,000<sup>th</sup> shipment came from the Advanced Mixed Waste Treatment Project (AMWTP) at the Idaho National Lab. AMWTP has proven to be the single most prolific shipper of TRU Waste to the New Mexico facility, accounting for nearly half of all shipments sent there for permanent disposal.  <br /><br /> At left, the WIPP 10,000<sup>th</sup> shipment leaves the Idaho Site while crews celebrate and pose in front of the shipment.</div>",
       "media":"Images/AMWTP_10000th_shipment.jpg",
       "credit":"",
       "caption":""
@@ -2499,8 +2479,8 @@
       "media":"Images/Shipment_from_LANL_to_AMWTP.jpg",
       "credit":"",
       "caption":""
-    },	
-	{
+    },  
+  {
       "site":"INL",
       "topic":"DD",
       "startDate":"10/2007",
@@ -2529,8 +2509,8 @@
       "media":"Images/2014_HAN_Test_Reactor.jpg",
       "credit":"",
       "caption":""
-    },	
-	{
+    },  
+  {
       "site":"SRS",
       "topic":"HLW",
       "startDate":"1990",
@@ -2540,7 +2520,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"HLW",
       "startDate":"03/2007",
@@ -2550,7 +2530,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"HANF",
       "topic":"GI",
       "startDate":"07/1993",
@@ -2560,7 +2540,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"Cross",
       "topic":"",
       "startDate":"04/1994",
@@ -2570,7 +2550,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"RF",
       "topic":"SNF",
       "startDate":"2003",
@@ -2580,17 +2560,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SNL",
       "topic":"GI",
       "startDate":"1945",
       "headline":"<div class='clsHeadline'> Sandia National Laboratory (SNL) Established </div>",
-      "text":"<div class='clsText'>The original site for SNL was established in 1945, at Oxnard Field in Albuquerque, New Mexico. Its original name was ‘Z’ Division and the site functioned as the ordnance design, testing, and assembly arm of Los Alamos National Laboratory during the Manhattan Project. The United States Congress designated Sandia as a National Laboratory in 1979. Today SNL includes facilities in Albuquerque, New Mexico, Livermore, California, Tonopah, Nevada, and Kauai, Hawaii.<br /><br />At left, the front entrance of SNL.</div>",
-      "media":"Images/SNL_Established.jpg",
+      "text":"<div class='clsText'>The original site for SNL was established in 1945, at Oxnard Field in Albuquerque, New Mexico. Its original name was ‘Z’ Division and the site functioned as the ordnance design, testing, and assembly arm of Los Alamos National Laboratory during the Manhattan Project. The United States Congress designated Sandia as a National Laboratory in 1979. Today SNL includes facilities in Albuquerque, New Mexico, Livermore, California, Tonopah, Nevada, and Kauai, Hawaii.<br /><br />At left, an early researcher at SNL works on the Lab’s hypersonic wind tunnel used to support early weapons design work.</div>",
+      "media":"Images/Early_Sandia.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SNL",
       "topic":"Disposal",
       "startDate":"05/2012",
@@ -2600,27 +2580,27 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SLAC",
       "topic":"GI",
       "startDate":"1962",
       "headline":"<div class='clsHeadline'> The SLAC National Accelerator Laboratory was Established</div>",
-      "text":"<div class='clsText'>The SLAC National Accelerator Laboratory, originally named Stanford Linear Accelerator Center, began construction  in 1962 in the hills west of Stanford University. First dubbed Project M, the construction of SLAC would be the longest and straightest structure in the world. SLAC was built to accelerate electrons to nearly the speed of light, while identifying and studying subatomic particles. <br /><br />At left, an aerial view of SLAC.</div>",
+      "text":"<div class='clsText'>The SLAC National Accelerator Laboratory, originally named Stanford Linear Accelerator Center, began construction in 1962 in the hills west of Stanford University in Menlo Park, CA. First dubbed Project M, the construction of SLAC would be the longest and straightest structure in the world. SLAC was built to accelerate electrons to nearly the speed of light, while identifying and studying subatomic particles. <br /><br />At left, an aerial view of SLAC.</div>",
       "media":"Images/SLAC_Established.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SLAC",
       "topic":"Soil",
-      "startDate":"10/2012",
-      "headline":"<div class='clsHeadline'>SLAC National Accelerator Laboratory Cleanup Update</div>",
-      "text":"<div class='clsText'>At SLAC, cleanup activities have included operation of dual phase extraction (DEP) systems. DEP involves the simultaneous extraction and treatment  of chemically-impacted groundwater and soil vapor and is operational at all four major areas within SLAC. Soil removal actions have also resulted in the removal of approximately 35,000 cubic yards of soil that have been impacted by chemicals of potential concern.<br /><br />At left, an excavator moves contaminated soil at SLAC.</div>",
+      "startDate":"09/2011",
+      "headline":"<div class='clsHeadline'>SLAC National Accelerator Laboratory Active Cleanup Completed</div>",
+      "text":"<div class='clsText'>At SLAC, active EM cleanup activities were completed in September 2011 as part of the American Recovery and Reinvestment Act Program. Ongoing long-term stewardship activities include continued operation of the dual phase extraction (DEP) systems. DEP involves the simultaneous extraction and treatment of chemically-impacted groundwater and soil vapor and this action will remain operational at all four major areas within SLAC. Soil removal actions were completed which included the removal of approximately 35,000 cubic yards of soil that had been impacted by chemicals of potential concern. While physical cleanup work has been completed, formal transfer of SLAC to the Office of Science is scheduled for FY 2014. <br /><br />At left, an excavator removed contaminated soil at SLAC.</div>",
       "media":"Images/SLAC_Cleanup.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SPRU",
       "topic":"GI",
       "startDate":"1947",
@@ -2630,7 +2610,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SPRU",
       "topic":"Soil",
       "startDate":"10/2012",
@@ -2640,7 +2620,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"ETEC",
       "topic":"GI",
       "startDate":"1966",
@@ -2650,7 +2630,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"ETEC",
       "topic":"Soil",
       "startDate":"10/2012",
@@ -2660,17 +2640,17 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"Cross",
       "topic":"",
       "startDate":"1992",
       "headline":"<div class='clsHeadline'> The Keystone Dialogue </div>",
-      "text":"<div class='clsText'>The Keystone Dialogue explored citizen involvement in EM cleanup to address such issues as cleanup levels, future use, and safety at the sites.  The dialogues took place in 1992 (with the final report issued in 1996) at the Keystone Center, a non-profit environmental conflict-management group. The Center convened the working dialogue among representatives of federal government agencies; state, Tribal and local governments; and regionally and locally based environmental, community, environmental justice, Native American and labor organizations.  The goal was to develop consensus policy recommendations, aimed at improving the process by which federal facility environmental cleanup decisions were made. <br /><br />To read the final report <a target='_blank' href='pdf/fferdc.pdf'>click here.</a> <br /><br />At left, the Federal Facilities Environmental Restoration Dialogue Committee believes cooperation and trust must permeate the nation's efforts to meet the challenge of cleaning up environmental contamination at federal facilities.</div>",
+      "text":"<div class='clsText'>The Keystone Dialogue explored citizen involvement in EM cleanup to address such issues as cleanup levels, future use, and safety at the sites.  The dialogues took place in 1992 (with the final report issued in 1996) at the Keystone Center, a non-profit environmental conflict-management group. The Center convened the working dialogue among representatives of federal government agencies; state, Tribal and local governments; and regionally and locally based environmental, community, environmental justice, Native American and labor organizations.  The goal was to develop consensus policy recommendations, aimed at improving the process by which federal facility environmental cleanup decisions were made. <br /><br />To read the final report <a href='http://energy.gov/node/811494.pdf'>click here.</a> <br /><br />At left, the Federal Facilities Environmental Restoration Dialogue Committee believes cooperation and trust must permeate the nation's efforts to meet the challenge of cleaning up environmental contamination at federal facilities.</div>",
       "media":"Images/Keystone.jpg",
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"Cross",
       "topic":"",
       "startDate":"04/1994",
@@ -2680,7 +2660,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"Cross",
       "topic":"",
       "startDate":"12/2010",
@@ -2690,18 +2670,18 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"LLNL",
       "topic":"GI",
       "startDate":"09/1952",
       "headline":"<div class='clsHeadline'>Lawrence Livermore National Laboratory (LLNL) Established</div>",
-      "text":"<div class='clsText'>LLNL, then University of California Radiation Laboratory, Livermore Branch, opened September 2, 1952, on the site of the decommissioned Naval Air Station. LLNL was established to spur innovation and provide competition to the nuclear weapon design laboratory at Los Alamos, New Mexico, home of the Manhattan Project that developed the first atomic weapons. From its inception, LLNL focused on innovative weapon design concepts.<br /><br />At left, the Lawrence Livermore Controlled Thermonuclear Reactions Program, Project Sherwood, began with the founding of the Laboratory in 1952</div>",
+      "text":"<div class='clsText'>LLNL, then University of California Radiation Laboratory, Livermore Branch, opened September 2, 1952, on the site of the decommissioned Naval Air Station. LLNL was established to spur innovation and provide competition to the nuclear weapon design laboratory at Los Alamos, New Mexico, home of the Manhattan Project that developed the first atomic weapons. From its inception, LLNL focused on innovative weapon design concepts.<br /><br />At left, the Lawrence Livermore Controlled Thermonuclear Reactions Program, Project Sherwood, began with the founding of the Laboratory in 1952.</div>",
       "media":"Images/LLNL_Established.jpg",
       "credit":"",
       "caption":""
     },
-	{
-      "site":"HANF",
+  {
+      "site":"ORP",
       "topic":"HLW",
       "startDate":"1943",
       "headline":"<div class='clsHeadline'>Construction of Single-Shell Waste Tanks at Hanford Began</div>",
@@ -2710,7 +2690,7 @@
       "credit":"",
       "caption":""
     },
-	{
+  {
       "site":"SRS",
       "topic":"Soil",
       "startDate":"04/1981",
@@ -2720,8 +2700,168 @@
       "credit":"",
       "caption":""
     },
-	{
-      "site":"SRS",
+  {
+      "site":"Cross",
+      "topic":"",
+      "startDate":"04/1984",
+      "headline":"<div class='clsHeadline'>Compliance to Environmental Regulations</div>",
+      "text":"<div class='clsText'>Prior to 1984, DOE had interpreted the Atomic Energy Act (AEA) as providing exemption from compliance to Federal, State and local environmental laws and regulations such as the Clean Water Act, the Federal Water Pollution Control Act, and the Resources Conservation and Recovery Act (RCRA).  As a result of a lawsuit filed in Federal District Court in Tennessee (Legal Environmental Assistance Foundation v. Hodel, 1984) DOE was required to comply with Federal and State environmental regulations.  The Federal district court found that DOE nuclear weapons facilities were not exempt from federal and state environmental regulations and the suit resulted in application of federal and state environmental regulations to all nuclear weapons facilities nationwide.  As a result, DOE entered into a variety of agreements with federal and state regulators to come into compliance with these environmental laws and regulations. </div>",
+      "media":"Images/epa_logo.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"LLNL",
+      "topic":"Disposal",
+      "startDate":"10/2010",
+      "headline":"<div class='clsHeadline'>EM Completed Cleanup of Legacy Transuranic (TRU) Waste at Lawrence Livermore National Lab (LLNL) Site 300</div>",
+      "text":"<div class='clsText'>EM completed the cleanup of legacy TRU waste at Vallecitos Nuclear Center (VNC) and LLNL Site 300 in California. This brought the total number of sites cleared of TRU waste to 17. Recovery Act funding made this possible and the VNC and LLNL cleanups were funded with about $1.6 million in Recovery Act funding.<br /><br />At left, a load of TRU waste is loaded into a TRUPACT shipping container at LLNL Site 300 for shipment to WIPP for disposal.</div>",
+      "media":"Images/LLNL_TRU_Completed.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"RF",
+      "topic":"GI",
+      "startDate":"01/2007",
+      "headline":"<div class='clsHeadline'>Rocky Flats Closure Named 2006 Project of the Year</div>",
+      "text":"<div class='clsText'>The Project Management Institute (PMI) awarded its 2006 Project of the Year to DOE's Rocky Flats Closure Project. This award recognized superior project management and project controls employed during the safe cleanup and closure efforts by DOE and its contractors of the Rocky Flats Site.<br /><br />At left, the project players who made the Rocky Flats closure such a success story. </div>",
+      "media":"Images/RF_PMI.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"ORP",
+      "topic":"HLW",
+      "startDate":"1964",
+      "headline":"<div class='clsHeadline'>Construction of Single-Shell Waste Tanks at Hanford Ended</div>",
+      "text":"<div class='clsText'>In 1964, construction of single-shell tanks ended because a newer tank model was designed. These new tanks, called double-shell tanks, began construction in 1968. <br /><br />At left, construction of single-shell tanks used to hold radioactive waste. </div>",
+      "media":"Images/Single_Shell_Tanks.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"ORP",
+      "topic":"HLW",
+      "startDate":"1968",
+      "headline":"<div class='clsHeadline'>Construction of Double-Shell Tanks at Hanford Began</div>",
+      "text":"<div class='clsText'>Double-shell tanks were designed to be sturdier and safer than the previous single-shell tanks. This new tank design consisted of an inner and outer shell, where the inner shell acted as the container for nuclear waste, while the second shell acted as a safety barrier in case the inner shell failed. In 1968, construction of double-shell tanks began and would continue to be the standard tank design at Hanford until the mid 1980s. <br /><br /> At left, the inner and outer shell of the double-shell tank during construction. </div>",
+      "media":"Images/Double_Shell_Tanks_Layer.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"ORP",
+      "topic":"HLW",
+      "startDate":"1986",
+      "headline":"<div class='clsHeadline'>Construction of Double-Shell Tanks at Hanford Ended</div>",
+      "text":"<div class='clsText'>Between 1968 and 1986, Hanford engineers built 28 double-shell tanks to be used at Hanford. These tanks were made with a second shell of carbon steel and reinforced concrete, that surrounded the steel inner shell containing the waste. Three double-shell tanks are in the 200 West Area, with another 25 found in the 200 East Area.<br /><br />At left, the construction of Double-Shell Tanks.</div>",
+      "media":"Images/Double_Shell_Tanks.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"WIPP",
+      "topic":"Disposal",
+      "startDate":"05/2012",
+      "headline":"<div class='clsHeadline'>EM Completes Cleanup of Legacy Transuranic (TRU) Waste at 22 Sites</div>",
+      "text":"<div class='clsText'>By May 2012, and as a result of the additional funding provided by the American Recovery and Reinvestment Act (ARRA), EM completed legacy TRU waste cleanup at 22 sites. Under ARRA, legacy TRU waste shipments to WIPP were expedited for 8 small quantity sites in support of DOE’s goal to dispose of 90% of legacy TRU waste by 2015.<br /><br />At left, the map shows the 22 sites in which EM has completed cleanup of Legacy TRU Waste.<br /><br />For a larger version of the map <a href='http://energy.gov/node/905366'>click here.</a></div>",
+      "media":"Images/TRU-Legacy-Sites-Cleanup.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"HANF",
+      "topic":"GI",
+      "startDate":"04/2011",
+      "headline":"<div class='clsHeadline'>The Hanford Story: Overview </div>",
+      "text":"<div class='clsText'>This is the Emmy Award-winning first chapter of The Hanford Story, a multimedia presentation that provides an overview of the Hanford Site—its history, today's cleanup activities, and a glimpse into the possibilities of future uses of the 586-square-mile government site in southeast Washington State.</div>",
+      "media":"http://www.youtube.com/watch?v=rbd-xaYd4rs&list=PLA7367A5A9900257F",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"HANF",
+      "topic":"GI",
+      "startDate":"08/2011",
+      "headline":"<div class='clsHeadline'>The Hanford Story: Groundwater</div>",
+      "text":"<div class='clsText'>This second chapter of The Hanford Story explains how more than 100 square miles of groundwater under the Hanford Site became contaminated and what workers are doing to restore groundwater to its highest beneficial use.</div>",
+      "media":"http://www.youtube.com/watch?v=p9vJqAPzvwA&list=PLA7367A5A9900257F",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"HANF",
+      "topic":"GI",
+      "startDate":"10/2011",
+      "headline":"<div class='clsHeadline'>The Hanford Story: Recovery Act</div>",
+      "text":"<div class='clsText'>This is the third chapter of The Hanford Story. This chapter is a tribute to the thousands of workers and representatives of regulatory agencies, neighboring states, Tribes, stakeholders, and surrounding communities who came together to put stimulus funding to work at Hanford. The video describes how the Department of Energy and its contractors turned a nearly $2 billion investment of American Recovery and Reinvestment Act funding in 2009 into nearly $4 billion worth of environmental cleanup work over the past two years. At the same time, Hanford workers have reduced the cleanup footprint of the Hanford Site by more than half (586 square miles to 241 square miles through August - 59 percent).</div>",
+      "media":"http://www.youtube.com/watch?v=wMR1sp6FfeU&list=PLA7367A5A9900257F",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"ORP",
+      "topic":"GI",
+      "startDate":"01/2012",
+      "headline":"<div class='clsHeadline'>The Hanford Story: Tank Waste Cleanup</div>",
+      "text":"<div class='clsText'>This fourth chapter of The Hanford Story explains how the DOE Office of River Protection will use the Waste Treatment Plant (WTP) to treat the 56 million gallons of radioactive waste in the tank farms.</div>",
+      "media":"http://www.youtube.com/watch?v=na8qqyYb5dg&list=PLA7367A5A9900257F",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"HANF",
+      "topic":"GI",
+      "startDate":"03/2012",
+      "headline":"<div class='clsHeadline'>The Hanford Story: Future</div>",
+      "text":"<div class='clsText'>The Future Chapter of the Hanford Story illustrates the potential and possibilities offered by a post-cleanup Hanford. From land use plans and preservation at Hanford to economic development and tourism opportunities, the Future chapter touches on a variety of local economic, cultural and environmental perspectives.</div>",
+      "media":"http://www.youtube.com/watch?v=pVt4g_dvJ90&list=PLA7367A5A9900257F",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"HANF",
+      "topic":"GI",
+      "startDate":"04/2012",
+      "headline":"<div class='clsHeadline'>The Hanford Story: Plutonium Finishing Plant</div>",
+      "text":"<div class='clsText'>Hanford produced nearly two-thirds of the nation's plutonium from the 1940s to the 1980s, and the Plutonium Finishing Plant was a key part of that mission. Today, the plant is Hanford's most hazardous facility and poses a monumental cleanup challenge to the Department of Energy.</div>",
+      "media":"http://www.youtube.com/watch?v=d0_vVczQxr0&list=PLA7367A5A9900257F",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"Cross",
+      "topic":"",
+      "startDate":"02/2009",
+      "headline":"<div class='clsHeadline'>Office of Environmental Management (EM) and The American Recovery and Reinvestment Act (ARRA)</div>",
+      "text":"<div class='clsText'>The American Recovery and Reinvestment Act of 2009 was signed into law by President Barack Obama on February 17, 2009. It was an unprecedented effort to jumpstart the country’s economy, create or save millions of jobs, and put a down payment on addressing long-neglected challenges so our country could thrive in the 21<sup>st</sup> century. The Department of Energy, Office of Environmental Management received $6 billion, allowing EM to perform work at 18 sites, successfully completing 135 projects. Major EM accomplishments included creating over 11,000 full time equivalents, allowed for acceleration of current cleanup plans and reduction of the active EM cleanup footprint, and achieved life cycle cost savings of $7 billion.<br /><br />At left, the map details how the $6 billion in ARRA funds were distributed to the 18 sites.<br /><br /> For a larger version of the map <a href='http://energy.gov/node/905341'>click here</a></div>",
+      "media":"Images/ARRA_map.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"NNSS",
+      "topic":"GI",
+      "startDate":"12/1950",
+      "headline":"<div class='clsHeadline'>Nevada Test Site (NTS) Established</div>",
+      "text":"<div class='clsText'>The need for a continental test site became more urgent in October 1950 as Communist Chinese forces were poised to intervene in the Korean conflict.  This triggered a series of events which led to the establishment of the Nevada Proving Grounds (later renamed Nevada Test Site) on December 18, 1950.  Nearly six weeks later on January 27, 1951, the first nuclear test, Able, was conducted in Area 5.  A total of 828 underground and 100 atmospheric nuclear tests were conducted at the Nevada Test Site until September 1992, after which a moratorium on nuclear testing went into effect.</div>",
+      "media":"http://www.youtube.com/watch?v=ZZj6krRsBi8",
+      "credit":"",
+      "caption":""
+    },
+  {
+      "site":"NNSS",
+      "topic":"GI",
+      "startDate":"08/1963",
+      "headline":"<div class='clsHeadline'>Limited Test Ban Treaty Ends Pacific Island Testing and Nevada Test Site (NTS) Became Sole Testing Location</div>",
+      "text":"<div class='clsText'>Following the August 5, 1963 Limited Test Ban Treaty, the NTS became the sole test site for U.S. nuclear testing. In total, the U.S. completed approximately 1,054 nuclear tests between 1945 and 1992, of which 88&#37; were conducted at NTS (828 underground and 100 atmospheric nuclear tests at NTS). Testing at NTS came to an end in September 1992, following the moratorium on nuclear testing.<br /><br />(Left) The July 1962 'Sedan' plowshares shot which displaced 12 million tons of earth and created a crater 320 feet deep and 1,280 feet wide to demonstrate the peaceful uses of nuclear weapons for excavation purposes. (Right) The Yucca Flats area of NTS, showing the subsidence craters from numerous underground tests.</div>",
+      "media":"Images/NTS_Nuclear_Tests.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+    "site":"SRS",
       "topic":"GI",
       "startDate":"12/1953",
       "headline":"<div class='clsHeadline'>Savannah River Plant (SRP) R Reactor Becomes Operational </div>",
