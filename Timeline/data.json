@@ -2231,16 +2231,6 @@
       "caption":""
     },
   {
-      "site":"HANF",
-      "topic":"GI",
-      "startDate":"09/2012",
-      "headline":"<div class='clsHeadline'>Hanford River Corridor Cleanup Update </div>",
-      "text":"<div class='clsText'>As part of the continuing efforts to clean up the Hanford Site River Corridor, six of nine reactors were cocooned and placed into interim safe storage. Soil and groundwater sites were cleaned up and closed, including the complete remediation of the F Reactor Area.  Additional work was ongoing to restore the area of the site that is adjacent to the Columbia River.</div>",
-      "media":"https://www.youtube.com/watch?v=sB0yCt0iEJc&feature=player_embedded",
-      "credit":"",
-      "caption":""
-    },
-  {
       "site":"OR",
       "topic":"DD",
       "startDate":"01/2011",
@@ -2525,7 +2515,7 @@
       "topic":"HLW",
       "startDate":"03/2007",
       "headline":"<div class='clsHeadline'>Savannah River Site Upgraded Saltstone Facility and New Vault Design</div>",
-      "text":"<div class='clsText'>Beginning in the early 2000s, the need to create space in the SRS High Level Waste (HLW) Tank Farms, and issues with pretreatment and sporadic Saltstone operations led to a series of projects that would fundamentally redesign the grout production facilities at Saltstone to allow for treatment of waste streams with higher radioactive content. The physical modifications were coupled with several significant regulatory changes, and by early 2007 the Saltstone Facility initiated regular operations processing higher curie content wastes.  The vault designs were also significantly modified from the original rectangular vaults built in the 1990s and there are 6 circular vaults with up to 58 more to be built at the site.  A third generation of vault has been designed and will also be a cylindrical concrete tank (similar to the second generation circular vaults), but the new design will be 10 times larger than the others holding approximately 30 million gallons of grouted salt solution per vault. <br /><br />A left, the original rectangular saltstone vaults in the background, and in the foreground, two of the second generation circular vaults under construction. At right, a view of six completed second generation vaults.</div>",
+      "text":"<div class='clsText'>Beginning in the early 2000s, the need to create space in the SRS High Level Waste (HLW) Tank Farms, and issues with pretreatment and sporadic Saltstone operations led to a series of projects that would fundamentally redesign the grout production facilities at Saltstone to allow for treatment of waste streams with higher radioactive content. The physical modifications were coupled with several significant regulatory changes, and by early 2007 the Saltstone Facility initiated regular operations processing higher curie content wastes.  The vault designs were also significantly modified from the original rectangular vaults built in the 1990s and there are 6 circular vaults with up to 58 more to be built at the site.  A third generation of vault has been designed and will also be a cylindrical concrete disposal unit (similar to the second generation circular vaults), but the new design will be 10 times larger than the others holding approximately 30 million gallons of grouted salt solution per vault. <br /><br />A left, the original rectangular saltstone vaults in the background, and in the foreground, two of the second generation circular vaults under construction. At right, a view of six completed second generation vaults.</div>",
       "media":"Images/SRS_Salstone_Facilities.jpg",
       "credit":"",
       "caption":""
@@ -2867,6 +2857,126 @@
       "headline":"<div class='clsHeadline'>Savannah River Plant (SRP) R Reactor Becomes Operational </div>",
       "text":"<div class='clsText'>In December 1953, R Reactor became SRP&#39;s first production reactor when it was &#34;taken to critical&#34; (meaning that full operation resulted in a sustained nuclear chain reaction). The R Reactor served as a prototype for the four other SRP reactors: P, L, K, and C. <br /><br />At left, the SRP R Reactor. </div>",
       "media":"Images/r-nuclear-reactor.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+    "site":"SPRU",
+      "topic":"Disposal",
+      "startDate":"02/2014",
+      "headline":"<div class='clsHeadline'>Separations Process Research Unit (SPRU) Celebrated Waste Removal Success </div>",
+      "text":"<div class='clsText'>Environmental Management’s SPRU removed 9,700 gallons of contaminated sludge and transported 14 shipments of the waste off-site for permanent disposal. These shipments contained the majority of radioactive material from the site. The project was completed over the course of 3 years and 1.1 million work hours, without a lost-time accident or injury. The contaminated sludge originated from historic research into the chemical separation of plutonium, which SPRU discontinued in 1953. <br /><br />At left, members of the EM and SPRU Project Team gathered to celebrate the last shipment of solidified sludge liners. </div>",
+      "media":"Images/SPRU_waste_success.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+    "site":"Cross",
+      "topic":"",
+      "startDate":"03/2014",
+      "headline":"<div class='clsHeadline'>EM Celebrated Successful Completion of Recovery Act Program </div>",
+      "text":"<div class='clsText'>DOE officials marked a historic landmark in EM’s mission as they celebrated the close of the $6 billion funding program provided by the American Recovery and Reinvestment  Act (ARRA). A ceremony was held recognizing federal project directors and their teams for their Recovery Act contributions. Teams were presented gold, silver, and bronze awards in different categories such as project management excellence, innovation, and best lessons learned. EM supported the Recovery Act’s central goals to stimulate the economy and provide meaningful employment to workers impacted by the recession. EM’s Recovery Act success included the creation of over 11,000 jobs, $7.2 billion in life-cycle cost savings, and more than $2 billion in contracts to small businesses. <br /><br />At left, DOE employees gathered for an awards ceremony recognizing EM’s Recovery Act Team. </div>",
+      "media":"Images/ARRA_Celebration.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+    "site":"SRS",
+      "topic":"HLW",
+      "startDate":"02/2014",
+      "headline":"<div class='clsHeadline'>EM Completed Salt Waste Disposal Units $8 Million under Budget at Savannah River Site (SRS) </div>",
+      "text":"<div class='clsText'>The EM program at SRS completed the construction of two more low-level salt waste disposal units seven months ahead of schedule and for $8 million less than the anticipated amount of $76.5 million. When waste tanks are emptied, 90% of the content are low-level salt waste. The salt waste is combined with cement, forming grout, and  then permanently disposed of in the disposal units. Additionally, the construction of the first of nine next generation units are in process, and will each be able to hold 10 times the capacity of the recently built units. These larger disposal units will result in substantial cost savings as well as less space requirements. <br /><br />At left, the construction of the first of nine next generation salt waste disposal units. </div>",
+      "media":"Images/SRS_Saltwaste_Disposal.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+    "site":"PAD",
+      "topic":"SNF",
+      "startDate":"01/2014",
+      "headline":"<div class='clsHeadline'>DUF6 Project Continues on Success Track at Paducah </div>",
+      "text":"<div class='clsText'>After more than doubling production in fiscal year 2013, the Depleted Uranium Hexafluoride (DUF6) Conversion Project has began moving from start-up mode to full production mode. The DUF6 project’s mission is to convert the nations 800,000-metric-ton inventory of DUF6 to more benign forms. In fiscal year 2013, Paducah and Portsmouth plants totaled 13,679 metric tons, doubling the production of 6,170 tons converted in fiscal year 2012. In November of 2013, the Portsmouth plant reached five years of operations without a lost-time accident, and the Paducah plant marked one year without a lost-time accident. <br /><br />At left, the 1000th cylinder processed at the Paducah plant. </div>",
+      "media":"Images/DUF6_Success _Track.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+    "site":"PORT",
+      "topic":"SNF",
+      "startDate":"01/2014",
+      "headline":"<div class='clsHeadline'>DUF6 Project Continues on Success Track at Portsmouth </div>",
+      "text":"<div class='clsText'>After more than doubling production in fiscal year 2013, the Depleted Uranium Hexafluoride (DUF6) Conversion Project has began moving from start-up mode to full production mode. The DUF6 project’s mission is to convert the nations 800,000-metric-ton inventory of DUF6 to more benign forms. In fiscal year 2013, Paducah and Portsmouth plants totaled 13,679 metric tons, doubling the production of 6,170 tons converted in fiscal year 2012. In November of 2013, the Portsmouth plant reached five years of operations without a lost-time accident, and the Paducah plant marked one year without a lost-time accident. <br /><br />At left, the DUF6 facility located at the Portsmouth Gaseous Diffusion Site in Piketon, Ohio. </div>",
+      "media":"Images/PortsmouthDUF6plant.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+    "site":"PORT",
+      "topic":"DD",
+      "startDate":"02/2014",
+      "headline":"<div class='clsHeadline'>First Shipment of Compressors Left Portsmouth </div>",
+      "text":"<div class='clsText'>EM transported the first shipment of compressors from Portsmouth to a federally approved offsite disposal facility.  Employees loaded and shipped four 7,700-pound compressors, which are the first of more than 2,300 compressors to be disposed of. By starting with a small number of the compressors, valuable lessons can be learned and applied to future shipments. Shipping the compressors requires strict compliance with rigorous criteria to ensure safety throughout the transportation cycle. The components were once part of a process gas system built in the 1950’s to enrich uranium. <br /><br />At left, workers securing the compressors for transportation. </div>",
+      "media":"Images/Portsmouth_Compressors.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+    "site":"MOB",
+      "topic":"Disposal",
+      "startDate":"03/2014",
+      "headline":"<div class='clsHeadline'>Moab Project Safely Logged 2 Million Work Hours </div>",
+      "text":"<div class='clsText'>The Moab Project completed 1,584 days without a work-related, lost-time injury or illness. Over the 4 year period, from November 2009 to February 2014, employees logged more than 2 million safe work hours. The Moab Project has relocated more than 41 percent of the mill tailings pile at Moab to a U.S. Nuclear Regulatory Commission-approved disposal cell near Crescent Junction, Utah, 30 miles away from the Colorado River. <br /><br />At left, containers on haul trucks being loaded with mill tailings. </div>",
+      "media":"Images/Moab_2MHours.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+    "site":"PAD",
+      "topic":"GI",
+      "startDate":"04/2014",
+      "headline":"<div class='clsHeadline'>Paducah Site Exceeded 2.5 Million Hours Without Lost Workdays </div>",
+      "text":"<div class='clsText'>Paducah celebrated surpassing 2.5 million work hours over the course of 3.5 years, without lost workdays resulting from job-related injury or illness. Key accomplishments include demolishing a seven-story inactive facility, building and operating a system to remove the degreasing agent trichloroethene from the ground near a building used to clean equipment, and also drilling and testing for contamination within one of the plant’s old burial grounds as part of determining a cleanup remedy. <br /><br />At left, employees celebrate surpassing 2.5 million hours without lost workday cases. </div>",
+      "media":"Images/Paducah_2MHours.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+    "site":"OR",
+      "topic":"DD",
+      "startDate":"05/2014",
+      "headline":"<div class='clsHeadline'>Transite Panel Removal Began on K-31 Gaseous Diffusion Plant (GDP) at Oak Ridge </div>",
+      "text":"<div class='clsText'>Workers began removing transite paneling from the outside of the K-31 GDP at East Tennessee Technology Park (ETTP), in preparation for demolition that will occur later in 2014. The 1.49 million square foot former GDP was once used to produce enriched uranium for defense and commercial purposes. It has been permanently shut down since 1987. When K-31 is demolished, only one GDP out of the five located at Oak Ridge will be left standing (K-27). K-29, K-33, and K-25 have already been demolished. <br /><br />At left, workers removing Transite Panels. </div>",
+      "media":"Images/Oak_Ridge_Transite_Panels.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+    "site":"SRS",
+      "topic":"GI",
+      "startDate":"04/2014",
+      "headline":"<div class='clsHeadline'>Savannah River National Laboratory (SRNL) Celebrated More than 60 Years of Innovation </div>",
+      "text":"<div class='clsText'>Environmental Management&#39;s SRNL celebrated its first 10 years as a national laboratory and over 60 years of dedicated service to the country. SNRL was designed to lead the Savannah River Site&#39;s support of the nuclear defense program. The laboratory now focuses on national security, environmental stewardship, and clean energy. SRNL is DOE’s only designated EM laboratory, touching more than 50 countries, engaged with over 90 private companies and universities, and supporting more than 20 different federal agencies. <br /><br />At left, DOE Deputy Under Secretary for Management and Performance David Klaus. More than 900 employees and special guests gathered on the grounds of SRNL in April to mark this important milestone. </div>",
+      "media":"Images/SRS_60years.jpg",
+      "credit":"",
+      "caption":""
+    },
+  {
+    "site":"HANF",
+      "topic":"GI",
+      "startDate":"06/2012",
+      "headline":"<div class='clsHeadline'>The Hanford Story&#58; River Corridor </div>",
+      "text":"<div class='clsText'>This is the seventh chapter of The Hanford Story, a multimedia presentation that provides an overview of the Hanford Site—its history, today's cleanup activities, and a glimpse into the possibilities of future uses of the 586-square-mile government site in southeast Washington State. </div>",
+      "media":"http://www.youtube.com/watch?v=sB0yCt0iEJc&list=PLA7367A5A9900257F&feature=share&index=7",
+      "credit":"",
+      "caption":""
+    },
+  {
+    "site":"HANF",
+      "topic":"GI",
+      "startDate":"01/2012",
+      "headline":"<div class='clsHeadline'> The Hanford Story&#58; Tank Waste Cleanup </div>",
+      "text":"<div class='clsText'>This fourth chapter of The Hanford Story explains how the DOE Office of River Protection will use the Waste Treatment Plant to treat the 56 million gallons of radioactive waste in the Tank Farms. </div>",
+      "media":"http://www.youtube.com/watch?v=na8qqyYb5dg&list=PLA7367A5A9900257F",
       "credit":"",
       "caption":""
     }
