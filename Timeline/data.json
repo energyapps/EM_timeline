@@ -1,4 +1,4 @@
-{
+﻿{
   "tlData" : [
     {
       "site":"Cross",
@@ -10,7 +10,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"SNF",
       "startDate":"12/2000",
@@ -140,7 +140,7 @@
       "credit":"",
       "caption":""
     },
-   {
+	 {
       "site":"Cross",
       "topic":"",
       "startDate":"06/1996",
@@ -160,7 +160,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"RF",
       "topic":"Closure",
       "startDate":"10/2005",
@@ -243,9 +243,9 @@
     {
       "site":"Cross",
       "topic":"",
-      "startDate":"09/2013",
+      "startDate":"10/2014",
       "headline":"<div class='clsHeadline'>EM&#39;s Cleanup Mission&#58; 16 Sites in 11 States Remaining</div>",
-      "text":"<div class='clsText'>As the end of fiscal year 2013, EM completed cleanup and closed 90 sites in 28 states. This included cleanup and closure of 85 smaller sites and five major nuclear sites: Rocky Flats, Fernald, Mound, Pinellas, and Weldon Spring. <br /><br />At left, the map shows EM&#39;s progress and remaining work, as of 2013, in cleaning up and closing sites. To see a complete list of small sites closed, <a href='http://energy.gov/node/811839' target='blank'>click here</a>.</div>",
+      "text":"<div class='clsText'>As the end of fiscal year 2014, EM completed cleanup and closed 91 sites in 28 states. This included cleanup and closure of 85 smaller sites and five major nuclear sites: Rocky Flats, Fernald, Mound, Pinellas, and Weldon Spring. <br /><br />At left, the map shows EM&#39;s progress and remaining work, as of 2014, in cleaning up and closing sites. To see a complete list of small sites closed, <a href='http://energy.gov/node/811839' target='blank'>click here</a>.</div>",
       "media":"Images/side-by-side-maps-with-metrics.jpg",
       "credit":"",
       "caption":""
@@ -399,7 +399,7 @@
       "media":"Images/Fernald_Groundw_Remediation.jpg",
       "credit":"",
       "caption":""
-  },
+	},
     {
       "site":"INL",
       "topic":"SNF",
@@ -550,7 +550,7 @@
       "credit":"",
       "caption":""
     },
-    {
+	  {
       "site":"Cross",
       "topic":"",
       "startDate":"06/2012",
@@ -720,17 +720,17 @@
       "credit":"",
       "caption":""
     }, 
-  {
+	{
       "site":"HANF",
       "topic":"Soil",
       "startDate":"08/2012",
       "headline":"<div class='clsHeadline'>Hanford Groundwater Remediation Report</div>",
-      "text":"<div class='clsText'>The Hanford Site Groundwater Remediation Project issued an annual report describing its accomplishments and plans. The 2012 report can be accessed through a web-based interactive viewer allowing users to view narratives and graphics, explore all of the data that supports the annual report, and provide access to links of supporting documents and reference materials.<br /><br />To access the web-based interactive report <a href='http://phoenix.pnnl.gov/AR12/'>click here</a>.</div>",
+      "text":"<div class='clsText'>The Hanford Site Groundwater Remediation Project issued an annual report describing its accomplishments and plans. The 2012 report can be accessed through a web-based interactive viewer allowing users to view narratives and graphics, explore all of the data that supports the annual report, and provide access to links of supporting documents and reference materials.<br /><br />To access the web-based interactive report <a href='http://phoenix.pnnl.gov/AR12/'> target='blank'>click here</a>.</div>",
       "media":"Images/GW_Report_12.jpg",
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"Disposal",
       "startDate":"07/2011",
@@ -740,7 +740,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"RF",
       "topic":"Disposal",
       "startDate":"02/1994",
@@ -750,7 +750,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"RF",
       "topic":"DD",
       "startDate":"08/1996",
@@ -760,7 +760,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"RF",
       "topic":"Closure",
       "startDate":"12/2001",
@@ -770,7 +770,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"SNF",
       "startDate":"05/2009",
@@ -780,7 +780,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WIPP",
       "topic":"GI",
       "startDate":"12/1979",
@@ -790,7 +790,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"10/1982",
@@ -800,7 +800,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"05/1986",
@@ -810,7 +810,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"05/1998",
@@ -820,7 +820,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"03/1999",
@@ -830,7 +830,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"01/2007",
@@ -840,7 +840,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"06/2010",
@@ -850,7 +850,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"08/2011",
@@ -860,7 +860,7 @@
       "credit":"",
       "caption":""
     },
-    {
+		{
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"11/2012",
@@ -870,17 +870,17 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"NNSS",
       "topic":"Soil",
       "startDate":"12/2012",
       "headline":"<div class='clsHeadline'>New Interactive Map Makes Nevada National Security Site (NNSS) Data More Accessible to the Public </div>",
-      "text":"<div class='clsText'>With the help of a new computer map and database known as the NNSS Remediation Sites map, interested members of the public can literally open the book on thousands of sites located on the NNSS and surrounding Nevada Test and Training Range. <br /><br />At left, a screenshot of the interactive map, which makes NNSS data more accessible to the public. <br /><br />To access the web-based interactive map <a href='http://nnssremediation.dri.edu/'>click here</a>. </div>",
+      "text":"<div class='clsText'>With the help of a new computer map and database known as the NNSS Remediation Sites map, interested members of the public can literally open the book on thousands of sites located on the NNSS and surrounding Nevada Test and Training Range. <br /><br />At left, a screenshot of the interactive map, which makes NNSS data more accessible to the public. <br /><br />To access the web-based interactive map <a href='http://nnssremediation.dri.edu/' target='blank'>click here</a>. </div>",
       "media":"Images/NNSS_Remediation_Sites_Web_Tool.jpg",
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"NNSS",
       "topic":"Disposal",
       "startDate":"01/2004",
@@ -890,7 +890,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"NNSS",
       "topic":"Disposal",
       "startDate":"07/2009",
@@ -900,7 +900,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"NNSS",
       "topic":"GI",
       "startDate":"1958",
@@ -910,7 +910,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"NNSS",
       "topic":"DD",
       "startDate":"03/2010",
@@ -920,7 +920,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"NNSS",
       "topic":"Disposal",
       "startDate":"07/1961",
@@ -930,7 +930,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"NNSS",
       "topic":"Disposal",
       "startDate":"1976",
@@ -940,7 +940,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"NNSS",
       "topic":"DD",
       "startDate":"07/2010",
@@ -950,7 +950,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"NNSS",
       "topic":"GI",
       "startDate":"08/2010",
@@ -960,7 +960,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"GI",
       "startDate":"05/1989",
@@ -970,7 +970,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"DD",
       "startDate":"09/1998",
@@ -980,7 +980,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"Disposal",
       "startDate":"07/2000",
@@ -990,7 +990,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"DD",
       "startDate":"09/2002",
@@ -1000,7 +1000,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"DD",
       "startDate":"09/2003",
@@ -1010,7 +1010,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"DD",
       "startDate":"09/2004",
@@ -1020,7 +1020,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"DD",
       "startDate":"10/2005",
@@ -1030,7 +1030,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"DD",
       "startDate":"08/2008",
@@ -1040,7 +1040,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"SNF",
       "startDate":"09/2009",
@@ -1050,7 +1050,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"Closure",
       "startDate":"12/2010",
@@ -1060,7 +1060,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"Soil",
       "startDate":"09/2011",
@@ -1070,7 +1070,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"DD",
       "startDate":"06/2012",
@@ -1080,7 +1080,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"Closure",
       "startDate":"09/2012",
@@ -1090,7 +1090,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"Disposal",
       "startDate":"07/2013",
@@ -1100,7 +1100,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
       "startDate":"11/1989",
@@ -1110,7 +1110,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"Disposal",
       "startDate":"1991",
@@ -1120,7 +1120,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"GI",
       "startDate":"01/1992",
@@ -1130,17 +1130,17 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"GI",
       "startDate":"1995",
       "headline":"<div class='clsHeadline'>Local Site Specific Advisory Board (SSAB) Established at Oak Ridge </div>",
       "text":"<div class='clsText'>DOE established the Oak Ridge Site Specific Advisory Board (ORSSAB) under the Federal Advisory Committees Act. The board panel consisted of federally appointed citizens, who provide advice and recommendations to DOE&#39;s Oak Ridge EM Program. The board was formed in 1995 and is composed of up to 22 members, chosen to reflect the diversity of gender, race, occupation, views, and interests of persons living near the DOE Oak Ridge Reservation. Members are appointed by DOE and serve on a voluntary basis, without compensation.  In order to provide unbiased evaluation and recommendations on the cleanup efforts related to the Oak Ridge site, the Board seeks opportunities for input through collaborative dialogue with the communities surrounding the Oak Ridge Reservation, governmental regulators, and other stakeholders. </div>",
-      "media":"Images/SSABImagesCA1R1CL1.jpg",
+      "media":"Images/SSABimagesCA1R1CL1.jpg",
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"Disposal",
       "startDate":"05/2002",
@@ -1150,7 +1150,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"Closure",
       "startDate":"09/2006",
@@ -1160,7 +1160,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"SNF",
       "startDate":"12/2006",
@@ -1170,7 +1170,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"Disposal",
       "startDate":"06/2007",
@@ -1180,7 +1180,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"DD",
       "startDate":"03/2007",
@@ -1190,7 +1190,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"DD",
       "startDate":"12/2008",
@@ -1200,7 +1200,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"Disposal",
       "startDate":"12/2009",
@@ -1210,7 +1210,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"DD",
       "startDate":"09/2011",
@@ -1220,7 +1220,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"Closure",
       "startDate":"06/2011",
@@ -1230,7 +1230,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"DD",
       "startDate":"10/2012",
@@ -1240,7 +1240,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"Soil",
       "startDate":"01/2012",
@@ -1250,7 +1250,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"GI",
       "startDate":"08/2012",
@@ -1260,7 +1260,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"Soil",
       "startDate":"03/2013",
@@ -1270,7 +1270,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PAD",
       "topic":"Soil",
       "startDate":"1983",
@@ -1280,7 +1280,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PAD",
       "topic":"Disposal",
       "startDate":"1986",
@@ -1290,7 +1290,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PAD",
       "topic":"Soil",
       "startDate":"1988",
@@ -1300,7 +1300,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PAD",
       "topic":"Soil",
       "startDate":"06/1991",
@@ -1310,7 +1310,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PAD",
       "topic":"Soil",
       "startDate":"07/1993",
@@ -1320,7 +1320,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PORT",
       "topic":"Soil",
       "startDate":"1996",
@@ -1330,7 +1330,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PORT",
       "topic":"Disposal",
       "startDate":"2005",
@@ -1340,7 +1340,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PAD",
       "topic":"Disposal",
       "startDate":"02/2007",
@@ -1350,7 +1350,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PAD",
       "topic":"Disposal",
       "startDate":"09/2009",
@@ -1360,7 +1360,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PAD",
       "topic":"DD",
       "startDate":"09/2010",
@@ -1370,7 +1370,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PAD",
       "topic":"SNF",
       "startDate":"09/2010",
@@ -1380,7 +1380,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PORT",
       "topic":"SNF",
       "startDate":"05/2010",
@@ -1390,7 +1390,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PORT",
       "topic":"DD",
       "startDate":"09/2012",
@@ -1400,7 +1400,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PAD",
       "topic":"DD",
       "startDate":"02/2013",
@@ -1408,9 +1408,9 @@
       "text":"<div class='clsText'>The C-340 Metals Plant was a Cold War era facility used to manufacture uranium metal. Two thousand asbestos panels, weighing up to 170 lbs. each, were manually removed from as high as 120 feet prior to demolition in 2013 (ahead of schedule thanks to ARRA funding). <br /><br />At left, a time-lapse video of the C-340 Metals Plant demolition. It was one of the most contaminated structures on the Paducah site. </div>",
       "media":"https://www.youtube.com/watch?v=mwt_A5-KiXI",
       "credit":"",
-    "caption":""
+	  "caption":""
     },
-  {
+	{
       "site":"PAD",
       "topic":"Soil",
       "startDate":"03/2013",
@@ -1420,7 +1420,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PORT",
       "topic":"Disposal",
       "startDate":"03/2013",
@@ -1430,7 +1430,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"Disposal",
       "startDate":"12/2002",
@@ -1440,7 +1440,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"Disposal",
       "startDate":"09/2004",
@@ -1450,7 +1450,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"Disposal",
       "startDate":"02/2006",
@@ -1460,7 +1460,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"GI",
       "startDate":"12/1991",
@@ -1470,7 +1470,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"GI",
       "startDate":"10/1995",
@@ -1480,7 +1480,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"GI",
       "startDate":"10/2009",
@@ -1490,7 +1490,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"Disposal",
       "startDate":"01/2005",
@@ -1500,7 +1500,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"Disposal",
       "startDate":"01/2005",
@@ -1510,7 +1510,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"DD",
       "startDate":"10/2007",
@@ -1520,7 +1520,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"DD",
       "startDate":"10/2007",
@@ -1530,7 +1530,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"Disposal",
       "startDate":"08/2011",
@@ -1540,7 +1540,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"DD",
       "startDate":"11/2012",
@@ -1550,7 +1550,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"DD",
       "startDate":"12/2011",
@@ -1560,7 +1560,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"FER",
       "topic":"GI",
       "startDate":"10/2007",
@@ -1570,7 +1570,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"ORP",
       "topic":"HLW",
       "startDate":"1978",
@@ -1580,7 +1580,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"ORP",
       "topic":"GI",
       "startDate":"12/1998",
@@ -1590,7 +1590,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"ORP",
       "topic":"HLW",
       "startDate":"12/2003",
@@ -1600,7 +1600,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"ORP",
       "topic":"HLW",
       "startDate":"06/2004",
@@ -1610,7 +1610,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"ORP",
       "topic":"HLW",
       "startDate":"12/2012",
@@ -1620,7 +1620,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"ORP",
       "topic":"HLW",
       "startDate":"03/2013",
@@ -1630,7 +1630,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"HLW",
       "startDate":"04/2012",
@@ -1640,7 +1640,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"NNSS",
       "topic":"GI",
       "startDate":"06/2013",
@@ -1650,7 +1650,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"GI",
       "startDate":"09/2013",
@@ -1660,67 +1660,67 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
-      "startDate":"10/2013",
+      "startDate":"10/2014",
       "headline":"<div class='clsHeadline'>Facility Deactivation and Decommissioning (D&D) </div>",
-      "text":"<div class='clsText'>One of the six EM cleanup missions is D&D of facilities no longer needed to support weapons production. During the Cold War, tens of thousands of industrial, radiological and nuclear facilities were built ranging from large production reactors to complex nuclear chemical processing facilities, massive uranium enrichment plants, and highly hazardous and highly contaminated labs, support and disposal facilities.  Many facilities were no longer needed, have far exceeded their safe design lives, and require significant upkeep and maintenance to ensure safe containment of radioactive and hazardous contamination inside while awaiting demolition. EM has been using an aggressive and technically innovative program to D&D facilities no longer needed to support ongoing missions including a range of D&D options ranging from in-situ (in-place) decommissioning, to complete demolition and removal of all facilities. <br /><br />At left, performance metrics used to track EM progress in the D&D cleanup area (as of October 2013).</div>",
-      "media":"Images/Facility_DD.jpg",
+      "text":"<div class='clsText'>One of the six EM cleanup missions is D&D of facilities no longer needed to support weapons production. During the Cold War, tens of thousands of industrial, radiological and nuclear facilities were built ranging from large production reactors to complex nuclear chemical processing facilities, massive uranium enrichment plants, and highly hazardous and highly contaminated labs, support and disposal facilities. Many facilities were no longer needed, have far exceeded their safe design lives, and require significant upkeep and maintenance to ensure safe containment of radioactive and hazardous contamination inside while awaiting demolition. EM has been using an aggressive and technically innovative program to D&D facilities no longer needed to support ongoing missions including a range of D&D options ranging from in-situ (in-place) decommissioning, to complete demolition and removal of all facilities. <br /><br />At left, performance metrics used to track EM progress in the D&D cleanup area (as of October 2014). </div>",
+      "media":"Images/2014_Facility_D&D_092115.png",
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
-      "startDate":"10/2013",
+      "startDate":"10/2014",
       "headline":"<div class='clsHeadline'>Site/Area Closures </div>",
-      "text":"<div class='clsText'>By October 2013, EM had made significant progress in cleaning up and closing 90 sites.  Five sites with significant contributions to nuclear weapons production had been cleaned and closed with regulatory approval including Rocky Flats, Fernald, Mound, Pinellas, and Weldon Spring.  The 85 smaller sites had been cleaned up, closed, and transferred to DOE Office of Legacy Management or another federal or state agency for long term stewardship and monitoring of groundwater, air and soil on and around the site and around any closed waste disposal cells.<br /><br />At left, performance metrics used to track EM progress in the Site/Area Closures cleanup area (as of October 2013). </div>",
-      "media":"Images/Site_Closures.jpg",
+      "text":"<div class='clsText'>By October 2014, EM had made significant progress in cleaning up and closing 91 sites. Five sites with significant contributions to nuclear weapons production had been cleaned and closed with regulatory approval including Rocky Flats, Fernald, Mound, Pinellas, and Weldon Spring. The 85 smaller sites had been cleaned up, closed, and transferred to DOE Office of Legacy Management or another federal or state agency for long term stewardship and monitoring of groundwater, air and soil on and around the site and around any closed waste disposal cells. <br /><br />At left, performance metrics used to track EM progress in the Site/Area Closures cleanup area (as of October 2014). </div>",
+      "media":"Images/2014_Site_Closures_092115.png",
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
-      "startDate":"10/2013",
+      "startDate":"10/2014",
       "headline":"<div class='clsHeadline'>Soil and Groundwater Remediation </div>",
-      "text":"<div class='clsText'>Soil and Groundwater Remediation is one of the six mission cleanup areas for EM. Sixty years of weapons production  during the Manhattan Project and the Cold War resulted in significant environmental discharges and releases of radioactive and contaminated liquids and solids into the soil and groundwater.  EM has made significant  progress in remediation and cleanup of soils and groundwater across the country thorough removal of the source of contamination and then removal of the surrounding contaminated soil or by various pump and treat options to clean up contaminated groundwater. <br /><br />At left, performance metrics used to track EM progress in the soil and groundwater remediation cleanup area (as of October 2013).</div>",
-      "media":"Images/Soil_Groundwater_Remediation.jpg",
+      "text":"<div class='clsText'> Soil and Groundwater Remediation is one of the six mission cleanup areas for EM. Sixty years of weapons production  during the Manhattan Project and the Cold War resulted in significant environmental discharges and releases of radioactive and contaminated liquids and solids into the soil and groundwater. EM has made significant  progress in remediation and cleanup of soils and groundwater across the country thorough removal of the source of contamination and then removal of the surrounding contaminated soil or by various pump and treat options to clean up contaminated groundwater. <br /><br />At left, performance metrics used to track EM progress in the soil and groundwater remediation cleanup area (as of October 2014). </div>",
+      "media":"Images/2014_Soil_and_Groundwater_Remediation_092115.png",
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
-      "startDate":"10/2013",
+      "startDate":"10/2014",
       "headline":"<div class='clsHeadline'>Process Liquid Tank Waste and High Level Waste (HLW) </div>",
-      "text":"<div class='clsText'>Processing Liquid Tank Waste and HLW is another of the six EM mission cleanup areas. DOE generated roughly 92 million gallons of liquid radioactive waste as a byproduct of processing spent nuclear fuel (SNF) to produce nuclear weapons. This work represents some of the most hazardous, challenging and expensive work across the entire EM complex to stabilize this liquid waste so it may be safely stored and permanently dispositioned. While SRS has started vitrifying its liquid tank waste at the Defense Waste Processing Facility (DWPF), the Hanford site still has 56 million gallons of liquid tank waste to treat once the Waste Treatment Plant (WTP) is completed and operational. Following emptying, these large underground storage tanks must be cleaned and closed with regulatory approval. <br /><br />At left, performance metrics used to track EM progress in the liquid tank waste and HLW remediation cleanup area (as of October 2013). </div>",
-      "media":"Images/Liquid_Tank_Waste.jpg",
+      "text":"<div class='clsText'>Processing Liquid Tank Waste and HLW is another of the six EM mission cleanup areas. DOE generated roughly 92 million gallons of liquid radioactive waste as a byproduct of processing spent nuclear fuel (SNF) to produce nuclear weapons. This work represents some of the most hazardous, challenging and expensive work across the entire EM complex to stabilize this liquid waste so it may be safely stored and permanently dispositioned. While SRS has started vitrifying its liquid tank waste at the Defense Waste Processing Facility (DWPF), the Hanford site still has 56 million gallons of liquid tank waste to treat once the Waste Treatment Plant (WTP) is completed and operational. Following emptying, these large underground storage tanks must be cleaned and closed with regulatory approval. <br /><br />At left, performance metrics used to track EM progress in the liquid tank waste and HLW remediation cleanup area (as of October 2014). </div>",
+      "media":"Images/2014_Liquid_Tank_Waste_Treated_Immobilized_092115.png",
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
-      "startDate":"10/2013",
+      "startDate":"10/2014",
       "headline":"<div class='clsHeadline'>Stabilize Spent Nuclear Fuel/Special Nuclear Materials (SNF/SNM) </div>",
-      "text":"<div class='clsText'>SNF/SNM stabilization is another of the six EM cleanup mission areas. Surplus weapons materials including plutonium, uranium and SNF  have historically been used and stored across the DOE complex.  Following the abrupt shutdown of much of the nuclear production complex at the end of the Cold War, thousands of metric tons of nuclear materials were left mid-process in aging and poorly maintained facilities not meeting current safety or security requirements. EM is stabilizing, through treatment, and safely repackaging nuclear materials into containers designed for safe and secure long-term storage awaiting ultimate disposition. Significant progress has been made in this cleanup area. <br /><br />At left, performance metrics used to track EM progress in the SNF/SNM stabilization cleanup area (as of October 2013).</div>",
-      "media":"Images/SNF-SNM_Stabilized.jpg",
+      "text":"<div class='clsText'>SNF/SNM stabilization is another of the six EM cleanup mission areas. Surplus weapons materials including plutonium, uranium and SNF have historically been used and stored across the DOE complex. Following the abrupt shutdown of much of the nuclear production complex at the end of the Cold War, thousands of metric tons of nuclear materials were left mid-process in aging and poorly maintained facilities not meeting current safety or security requirements. EM is stabilizing, through treatment, and safely repackaging nuclear materials into containers designed for safe and secure long-term storage awaiting ultimate disposition. Significant progress has been made in this cleanup area. <br /><br />At left, performance metrics used to track EM progress in the SNF/SNM stabilization cleanup area (as of October 2014). </div>",
+      "media":"Images/2014_SNF_SNM_Stabilized_092115.png",
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
-      "startDate":"10/2013",
+      "startDate":"10/2014",
       "headline":"<div class='clsHeadline'>Transuranic waste (TRU), low level waste (LLW) and mixed low level waste (MLLW) Disposition </div>",
-      "text":"<div class='clsText'>Another cleanup mission area for EM is disposition of millions of cubic meters of radioactive waste. The production of nuclear weapons resulted in the radioactive contamination of items such as liquids, clothing, tools, rags, process equipment, soil and groundwater.  Waste also includes newly generated waste from the demolition of excess nuclear facilities.  EM&#39;s goal is to develop and implement safe, compliant, and cost effective disposition paths for all stored and newly generated radioactive wastes. While much progress has been made in disposal of LLW/MLLW, there is much work to be done to complete the waste mission.  With the opening of the Waste Isolation Pilot Plant in 1999, TRU waste now has a final disposition path and EM is now aggressively pursuing disposal of TRU waste at WIPP.<br /><br />At left, performance metrics used to track EM progress in the TRU/LLW/MLLW Disposal cleanup area (as of October 2013). </div>",
-      "media":"Images/TRUandLLW-MLLW.jpg",
+      "text":"<div class='clsText'>Another cleanup mission area for EM is disposition of millions of cubic meters of radioactive waste. The production of nuclear weapons resulted in the radioactive contamination of items such as liquids, clothing, tools, rags, process equipment, soil and groundwater.  Waste also includes newly generated waste from the demolition of excess nuclear facilities.  EM&#39;s goal is to develop and implement safe, compliant, and cost effective disposition paths for all stored and newly generated radioactive wastes. While much progress has been made in disposal of LLW/MLLW, there is much work to be done to complete the waste mission.  With the opening of the Waste Isolation Pilot Plant in 1999, TRU waste now has a final disposition path and EM is now aggressively pursuing disposal of TRU waste at WIPP. <br /><br />At left, performance metrics used to track EM progress in the TRU/LLW/MLLW Disposal cleanup area (as of October 2014). </div>",
+      "media":"Images/2014_TRU_and_LLW_MLLW_Dispositioned_Removed_from_Inventory_092115.png",
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"GI",
       "startDate":"10/1950",
@@ -1730,7 +1730,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"SNF",
       "startDate":"11/1954",
@@ -1740,7 +1740,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"GI",
       "startDate":"1971",
@@ -1750,7 +1750,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"GI",
       "startDate":"05/1972",
@@ -1760,7 +1760,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"HLW",
       "startDate":"1983",
@@ -1770,7 +1770,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"Soil",
       "startDate":"10/1988",
@@ -1780,7 +1780,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"GI",
       "startDate":"05/2004",
@@ -1790,7 +1790,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"MOB",
       "topic":"Soil",
       "startDate":"10/2001",
@@ -1800,7 +1800,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"MOB",
       "topic":"Disposal",
       "startDate":"09/2005",
@@ -1810,7 +1810,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"MOB",
       "topic":"Disposal",
       "startDate":"04/2009",
@@ -1820,7 +1820,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"MOB",
       "topic":"Disposal",
       "startDate":"06/2013",
@@ -1830,7 +1830,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"GI",
       "startDate":"10/1980",
@@ -1840,7 +1840,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"DD",
       "startDate":"1981",
@@ -1850,7 +1850,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"HLW",
       "startDate":"1984",
@@ -1860,7 +1860,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"HLW",
       "startDate":"1985",
@@ -1870,7 +1870,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"Disposal",
       "startDate":"05/1988",
@@ -1880,7 +1880,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"HLW",
       "startDate":"1990",
@@ -1890,7 +1890,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"HLW",
       "startDate":"06/1996",
@@ -1900,7 +1900,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"Disposal",
       "startDate":"02/1997",
@@ -1910,7 +1910,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"DD",
       "startDate":"2000",
@@ -1920,7 +1920,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"SNF",
       "startDate":"05/2003",
@@ -1930,7 +1930,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"Disposal",
       "startDate":"06/2004",
@@ -1940,7 +1940,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"DD",
       "startDate":"07/2005",
@@ -1950,7 +1950,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"Soil",
       "startDate":"09/2008",
@@ -1960,7 +1960,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"Soil",
       "startDate":"10/2010",
@@ -1970,7 +1970,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"GI",
       "startDate":"04/2010",
@@ -1980,7 +1980,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"DD",
       "startDate":"06/2013",
@@ -1990,7 +1990,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"HLW",
       "startDate":"12/2013",
@@ -2000,7 +2000,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"SNF",
       "startDate":"09/1944",
@@ -2010,7 +2010,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"SNF",
       "startDate":"09/1963",
@@ -2020,7 +2020,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"SNF",
       "startDate":"07/1963",
@@ -2030,7 +2030,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"Disposal",
       "startDate":"01/1954",
@@ -2040,7 +2040,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"HLW",
       "startDate":"1958",
@@ -2050,7 +2050,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"BNL",
       "topic":"GI",
       "startDate":"08/1950",
@@ -2060,7 +2060,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"BNL",
       "topic":"DD",
       "startDate":"09/2012",
@@ -2070,7 +2070,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"MOB",
       "topic":"GI",
       "startDate":"1984",
@@ -2080,7 +2080,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"GI",
       "startDate":"1958",
@@ -2090,7 +2090,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"GI",
       "startDate":"07/2013",
@@ -2100,7 +2100,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"GI",
       "startDate":"07/2013",
@@ -2110,7 +2110,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PAD",
       "topic":"SNF",
       "startDate":"12/1956",
@@ -2120,7 +2120,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"SNF",
       "startDate":"02/1945",
@@ -2130,7 +2130,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"HLW",
       "startDate":"05/1998",
@@ -2140,7 +2140,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"HLW",
       "startDate":"10/2012",
@@ -2150,7 +2150,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"GI",
       "startDate":"02/1942",
@@ -2160,7 +2160,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"GI",
       "startDate":"1945",
@@ -2170,7 +2170,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"GI",
       "startDate":"11/1943",
@@ -2180,7 +2180,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
       "startDate":"01/1942",
@@ -2190,7 +2190,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"GI",
       "startDate":"12/1965",
@@ -2200,7 +2200,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"GI",
       "startDate":"03/1942",
@@ -2210,7 +2210,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"LANL",
       "topic":"GI",
       "startDate":"07/1945",
@@ -2220,7 +2220,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
       "startDate":"06/1946",
@@ -2230,7 +2230,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"DD",
       "startDate":"01/2011",
@@ -2240,7 +2240,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"OR",
       "topic":"DD",
       "startDate":"12/2013",
@@ -2309,7 +2309,7 @@
       "media":"Images/LANL_Cleanup.jpg",
       "credit":"",
       "caption":""
-    },  
+    },	
     {
       "site":"LANL",
       "topic":"DD",
@@ -2320,7 +2320,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"BNL",
       "topic":"GI",
       "startDate":"1947",
@@ -2330,7 +2330,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"INL",
       "topic":"GI",
       "startDate":"02/1949",
@@ -2340,7 +2340,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PAD",
       "topic":"GI",
       "startDate":"12/1950",
@@ -2350,7 +2350,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PORT",
       "topic":"GI",
       "startDate":"08/1952",
@@ -2360,7 +2360,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WS",
       "topic":"GI",
       "startDate":"1955",
@@ -2370,7 +2370,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WV",
       "topic":"GI",
       "startDate":"04/1961",
@@ -2380,7 +2380,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"PIN",
       "topic":"GI",
       "startDate":"06/1957",
@@ -2390,7 +2390,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"MOUND",
       "topic":"GI",
       "startDate":"05/1948",
@@ -2410,7 +2410,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"HLW",
       "startDate":"12/2013",
@@ -2419,8 +2419,8 @@
       "media":"Images/grout-pour1_756px.jpg",
       "credit":"",
       "caption":""
-    },  
-  {
+    },	
+	{
       "site":"WV",
       "topic":"Disposal",
       "startDate":"12/2013",
@@ -2429,8 +2429,8 @@
       "media":"Images/2013_WV_LLW_Update.jpg",
       "credit":"",
       "caption":""
-    },  
-  {
+    },	
+	{
       "site":"NNSS",
       "topic":"Disposal",
       "startDate":"07/2009",
@@ -2469,8 +2469,8 @@
       "media":"Images/Shipment_from_LANL_to_AMWTP.jpg",
       "credit":"",
       "caption":""
-    },  
-  {
+    },	
+	{
       "site":"INL",
       "topic":"DD",
       "startDate":"10/2007",
@@ -2499,8 +2499,8 @@
       "media":"Images/2014_HAN_Test_Reactor.jpg",
       "credit":"",
       "caption":""
-    },  
-  {
+    },	
+	{
       "site":"SRS",
       "topic":"HLW",
       "startDate":"1990",
@@ -2510,7 +2510,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"HLW",
       "startDate":"03/2007",
@@ -2520,7 +2520,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"GI",
       "startDate":"07/1993",
@@ -2530,7 +2530,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
       "startDate":"04/1994",
@@ -2540,7 +2540,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"RF",
       "topic":"SNF",
       "startDate":"2003",
@@ -2550,7 +2550,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SNL",
       "topic":"GI",
       "startDate":"1945",
@@ -2560,7 +2560,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SNL",
       "topic":"Disposal",
       "startDate":"05/2012",
@@ -2570,7 +2570,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SLAC",
       "topic":"GI",
       "startDate":"1962",
@@ -2580,7 +2580,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SLAC",
       "topic":"Soil",
       "startDate":"09/2011",
@@ -2590,7 +2590,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SPRU",
       "topic":"GI",
       "startDate":"1947",
@@ -2600,7 +2600,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SPRU",
       "topic":"Soil",
       "startDate":"10/2012",
@@ -2610,7 +2610,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"ETEC",
       "topic":"GI",
       "startDate":"1966",
@@ -2620,7 +2620,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"ETEC",
       "topic":"Soil",
       "startDate":"10/2012",
@@ -2630,7 +2630,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
       "startDate":"1992",
@@ -2640,7 +2640,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
       "startDate":"04/1994",
@@ -2650,7 +2650,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
       "startDate":"12/2010",
@@ -2660,7 +2660,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"LLNL",
       "topic":"GI",
       "startDate":"09/1952",
@@ -2670,7 +2670,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"ORP",
       "topic":"HLW",
       "startDate":"1943",
@@ -2680,7 +2680,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"SRS",
       "topic":"Soil",
       "startDate":"04/1981",
@@ -2690,7 +2690,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
       "startDate":"04/1984",
@@ -2700,7 +2700,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"LLNL",
       "topic":"Disposal",
       "startDate":"10/2010",
@@ -2710,7 +2710,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"RF",
       "topic":"GI",
       "startDate":"01/2007",
@@ -2720,7 +2720,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"ORP",
       "topic":"HLW",
       "startDate":"1964",
@@ -2730,7 +2730,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"ORP",
       "topic":"HLW",
       "startDate":"1968",
@@ -2740,7 +2740,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"ORP",
       "topic":"HLW",
       "startDate":"1986",
@@ -2750,7 +2750,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"WIPP",
       "topic":"Disposal",
       "startDate":"05/2012",
@@ -2760,7 +2760,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"GI",
       "startDate":"04/2011",
@@ -2770,7 +2770,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"GI",
       "startDate":"08/2011",
@@ -2780,7 +2780,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"GI",
       "startDate":"10/2011",
@@ -2790,7 +2790,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"ORP",
       "topic":"GI",
       "startDate":"01/2012",
@@ -2800,7 +2800,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"GI",
       "startDate":"03/2012",
@@ -2810,7 +2810,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"HANF",
       "topic":"GI",
       "startDate":"04/2012",
@@ -2820,7 +2820,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"Cross",
       "topic":"",
       "startDate":"02/2009",
@@ -2830,7 +2830,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"NNSS",
       "topic":"GI",
       "startDate":"12/1950",
@@ -2840,7 +2840,7 @@
       "credit":"",
       "caption":""
     },
-  {
+	{
       "site":"NNSS",
       "topic":"GI",
       "startDate":"08/1963",
@@ -2850,8 +2850,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"SRS",
+	{
+	  "site":"SRS",
       "topic":"GI",
       "startDate":"12/1953",
       "headline":"<div class='clsHeadline'>Savannah River Plant (SRP) R Reactor Becomes Operational </div>",
@@ -2860,8 +2860,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"SPRU",
+	{
+	  "site":"SPRU",
       "topic":"Disposal",
       "startDate":"02/2014",
       "headline":"<div class='clsHeadline'>Separations Process Research Unit (SPRU) Celebrated Waste Removal Success </div>",
@@ -2870,8 +2870,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"Cross",
+	{
+	  "site":"Cross",
       "topic":"",
       "startDate":"03/2014",
       "headline":"<div class='clsHeadline'>EM Celebrated Successful Completion of Recovery Act Program </div>",
@@ -2880,8 +2880,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"SRS",
+	{
+	  "site":"SRS",
       "topic":"HLW",
       "startDate":"02/2014",
       "headline":"<div class='clsHeadline'>EM Completed Salt Waste Disposal Units $8 Million under Budget at Savannah River Site (SRS) </div>",
@@ -2890,8 +2890,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"PAD",
+	{
+	  "site":"PAD",
       "topic":"SNF",
       "startDate":"01/2014",
       "headline":"<div class='clsHeadline'>DUF6 Project Continues on Success Track at Paducah </div>",
@@ -2900,8 +2900,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"PORT",
+	{
+	  "site":"PORT",
       "topic":"SNF",
       "startDate":"01/2014",
       "headline":"<div class='clsHeadline'>DUF6 Project Continues on Success Track at Portsmouth </div>",
@@ -2910,8 +2910,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"PORT",
+	{
+	  "site":"PORT",
       "topic":"DD",
       "startDate":"02/2014",
       "headline":"<div class='clsHeadline'>First Shipment of Compressors Left Portsmouth </div>",
@@ -2920,8 +2920,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"MOB",
+	{
+	  "site":"MOB",
       "topic":"Disposal",
       "startDate":"03/2014",
       "headline":"<div class='clsHeadline'>Moab Project Safely Logged 2 Million Work Hours </div>",
@@ -2930,8 +2930,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"PAD",
+	{
+	  "site":"PAD",
       "topic":"GI",
       "startDate":"04/2014",
       "headline":"<div class='clsHeadline'>Paducah Site Exceeded 2.5 Million Hours Without Lost Workdays </div>",
@@ -2940,8 +2940,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"OR",
+	{
+	  "site":"OR",
       "topic":"DD",
       "startDate":"05/2014",
       "headline":"<div class='clsHeadline'>Transite Panel Removal Began on K-31 Gaseous Diffusion Plant (GDP) at Oak Ridge </div>",
@@ -2950,8 +2950,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"SRS",
+	{
+	  "site":"SRS",
       "topic":"GI",
       "startDate":"04/2014",
       "headline":"<div class='clsHeadline'>Savannah River National Laboratory (SRNL) Celebrated More than 60 Years of Innovation </div>",
@@ -2960,8 +2960,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"HANF",
+	{
+	  "site":"HANF",
       "topic":"GI",
       "startDate":"06/2012",
       "headline":"<div class='clsHeadline'>The Hanford Story&#58; River Corridor </div>",
@@ -2970,8 +2970,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"HANF",
+	{
+	  "site":"HANF",
       "topic":"GI",
       "startDate":"01/2012",
       "headline":"<div class='clsHeadline'> The Hanford Story&#58; Tank Waste Cleanup </div>",
@@ -2980,8 +2980,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"HANF",
+	{
+	  "site":"HANF",
       "topic":"DD",
       "startDate":"08/2014",
       "headline":"<div class='clsHeadline'>Workers Created Demolition Zone at Hanford Site’s Plutonium Finishing Plant (PFP) </div>",
@@ -2990,78 +2990,78 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"HANF",
+	{
+	  "site":"HANF",
       "topic":"DD",
       "startDate":"08/2014",
       "headline":"<div class='clsHeadline'>EM Utilized Safe, Unique Approach to Underground Demolition at Hanford Site </div>",
       "text":"<div class='clsText'>In August 2014, an underground demolition explosion at the Hanford Site was safely completed with a unique approach that protected workers and saved taxpayers $2.5 million. Earlier in 2014, a 1,082 ton Plutonium Recycle Test Reactor was removed from the underground structure, where the demolition would later take place. The structure that supported and shielded the test reactor, was 60 feet below the surface, with walls ranging in thickness from 5 to 13 feet and was covered by a 5-foot-thick main deck. The largest block of reinforced concrete was 18 feet long, 13 feet thick, and 28 feet high. Preparations to remove the underground structure began in January when the reactor was lifted and hauled away. EM drilled approximately 300 holes into the deck, columns, and walls  and loaded them with explosives for detonation. The blast effects were mitigated by a dust barrier placed on top of the structure, and mist to suppress dust. This provided a safer approach than to have the deck dismantled with machinery from above and working down into the structure. <br /><br />At left, a picture of the underground demolition that occurred at the final reactor cleanup site in Hanford’s 300 Area. </div>",
-      "media":"Images/hanf_underground_demolition.jpg",
+      "media":"images/hanf_underground_demolition.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"LANL",
+	{
+	  "site":"LANL",
       "topic":"DD",
       "startDate":"08/2014",
       "headline":"<div class='clsHeadline'>Workers Safely Tore Down Towers at Los Alamos National Laboratory </div>",
       "text":"<div class='clsText'>In August 2014, two water towers were safely demolished by workers in a matter of hours. The towers were located in Technical Area 21 (TA-21), an early site of the Manhattan Project work at the laboratory. It was the location of the world’s first plutonium processing facility and where groundbreaking tritium research took place. The demolition is a continuation of a large-scale environmental cleanup at TA-21 that began in 2009 when cleanup was funded by the American Reinvestment and Recovery Act. Demolishing the 175-foot and 160-foot towers was one of several projects to remove remaining structures at TA-21. <br /><br />At left, workers observe the demolition of the West Water Tower at Los Alamos National Laboratory. </div>",
-      "media":"Images/LANL_water_tower_demo.jpg",
+      "media":"images/LANL_water_tower_demo.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"HANF",
+	{
+	  "site":"HANF",
       "topic":"DD",
       "startDate":"07/2014",
       "headline":"<div class='clsHeadline'>Hanford Site Workers Met Challenging Performance Goal at Plutonium Finishing Plant (PFP) </div>",
       "text":"<div class='clsText'>Workers at the Hanford site’s PFP surpassed goals for removing hazardous tanks once used in the plutonium production process. EM has been performing the work of removing the tanks as part of the D&D project at PFP. The tanks are referred to as “pencil tanks” because of their long, slender shape. Since Oct. 1, 2013, workers have removed 26 pencil tanks, exceeding an annual key performance goal of removing 25 by Sept. 30, 2014. There are 196 pencil tanks total and workers have removed 136 since 2008. The tanks range in size from 3 to 25 feet long and are housed vertically on the walls of a long and tall concrete-reinforced room, or canyon. The canyon is too contaminated to enter for long periods of time, so workers use the buildings original remote-controlled crane to move the tanks from the canyon to a maintenance facility where workers manually cut the tanks up and prepare them from disposal. <br /><br />At left, workers “seal out” a pencil tank that had been cut into smaller segments and prepare it for disposal. </div>",
-      "media":"Images/HANF_Pencil_Tanks.jpg",
+      "media":"images/HANF_Pencil_Tanks.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"HANF",
+	{
+	  "site":"HANF",
       "topic":"Soil",
       "startDate":"06/2014",
       "headline":"<div class='clsHeadline'>Workers Successfully Excavated Mother Lode of Chromium Contamination at Hanford Site </div>",
       "text":"<div class='clsText'>In June 2014, EM removed what is believed to be the primary source of chromium contamination to the Columbia River near Hanford’s D Reactor after workers excavated 2.2 million tons of material from waste sites. Two waste sites near D and DR Reactors, 100-D-104 and 100-D-30, equaled the size of seven football fields at the excavation surface and a single football field in size at the bottom.  Site 100-D-100, was also excavated bringing the total of all three sites to 2.2 million tons of material. The contamination is the result of sodium dichromate leaks during reactor operations from the 1940’s to the 1960’s. <br /><br />At left, a hole near Hanford’s D Reactor is shown at about 70 feet deep. </div>",
-      "media":"Images/Hanford_Motherlode.jpg",
+      "media":"images/Hanford_Motherlode.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"HANF",
+	{
+	  "site":"HANF",
       "topic":"DD",
       "startDate":"07/2014",
       "headline":"<div class='clsHeadline'>Hanford Workers Demolished Reactor Support Facility </div>",
       "text":"<div class='clsText'>EM recently completed the cleanout and demolition of the B Reactor’s Water Filtration Facility, 183B, located at Hanford’s 100 Area. Hanford’s 100 Area is located along the banks of the Columbia River, where nine former plutonium production reactors were built. The nine reactors (B, C, D, DR, F, H, K-East, K-West, and N) were built from 1943 through 1965, and were constructed next to the river because of an abundance of cooling water needed by the reactors during operation. None of Hanford’s nine reactors are in operation today with the last reactor, the N Reactor, being shut down in 1988. Beginning in the 1990’s, workers began the process of “cocooning” the reactors. C, D, DR, F, H, and N Reactors are already cocooned, with K-East and K-West Reactors currently in the process of being cocooned. <br /><br />At left, the site of the former 183-B, an old water treatment facility for the historic B Reactor. </div>",
-      "media":"Images/Hanf_Water_Facility.jpg",
+      "media":"images/Hanf_Water_Facility.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"LANL",
+	{
+	  "site":"LANL",
       "topic":"Soil",
       "startDate":"07/2014",
       "headline":"<div class='clsHeadline'>Los Alamos Prepared to Remove High Explosive Contamination from Groundwater </div>",
       "text":"<div class='clsText'>During the summer of 2014, Los Alamos National Laboratory's Corrective Actions Program addressed high explosive contamination in surface water and groundwater in the forests surrounding the laboratory. A high explosive called RDX was machined at the site beginning in the 1950s as part of the laboratory’s weapons development mission. Over time, machining effluent discharged at the site resulted in RDX contamination in soil and water. Contamination was removed from the soil during past cleanup operations, but levels of legacy RDX still existed in surface water and groundwater. Crews in June began testing to determine how successfully RDX can be removed from groundwater. The test involved pumping water, treating it with activated carbon, and discharging it into the ground. In addition, a technical geophysics study was completed in June to determine the conductivity of the ground around the site. Cables with electrodes were run along the ground throughout the area, which sent current into the ground to measure resistance of the underlying geological strata. This would help Los Alamos experts determine the extent of perched intermediate groundwater in the contamination zone. <br /><br />At left, crews conducted the geophysics study using a machine called the Super Sting to measure the resistivity of the complex underlying geologic strata. </div>",
-      "media":"Images/LANL_Explosives.jpg",
+      "media":"images/LANL_Explosives.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"PAD",
+	{
+	  "site":"PAD",
       "topic":"DD",
       "startDate":"07/2014",
       "headline":"<div class='clsHeadline'>Workers Demolished Significant Inactive Facility at Paducah Site </div>",
       "text":"<div class='clsText'>Heavy equipment operators demolished the last of 32 inactive facilities scheduled to be removed as part of the current cleanup scope at EM’s Paducah Site. The C-410 Feed Plant is expected to be razed to a slab by this fall, ridding the site of a structure contaminated with asbestos and a low-level radioactive chemical compound called uranium hexafluoride (UF6). With an original footprint of almost five acres — roughly equivalent to four football fields — the feed plant operated from 1957 to 1977 to produce UF6 and fluorine. Demolition of the feed plant began May 13 and is about one-third completed. Operators are cutting steel and other debris into smaller pieces to be shipped in heavily lined, covered railcars to a commercial disposal site. <br /><br />At left, a panoramic view of the east end of the C-410 complex. </div>",
-      "media":"Images/PAD_c410.jpg",
+      "media":"images/PAD_c410.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"PAD",
+	{
+	  "site":"PAD",
       "topic":"DD",
       "startDate":"07/2014",
       "headline":"<div class='clsHeadline'>In-Ground Heating Removed Groundwater Contamination at EM’s Paducah Site </div>",
@@ -3070,8 +3070,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"PAD",
+	{
+	  "site":"PAD",
       "topic":"DD",
       "startDate":"10/2014",
       "headline":"<div class='clsHeadline'>Deactivation Project Begins at Paducah Gaseous Diffusion Plant </div>",
@@ -3080,128 +3080,128 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"PAD",
+	{
+	  "site":"PAD",
       "topic":"GI",
       "startDate":"07/1993",
       "headline":"<div class='clsHeadline'> United States Enrichment Corporation Begins Operating Paducah Gaseous Diffusion Plant</div>",
       "text":"<div class='clsText'>In July 1993, the United States Enrichment Corporation assumed responsibility for Paducah, Kentucky, and Portsmouth, Ohio, uranium enrichment plants. DOE  still retained responsibility for environmental restoration and waste management activities resulting from its operations at the site. </div>",
-      "media":"Images/paducah_aerial.jpg",
+      "media":"images/paducah_aerial.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"OR",
+	{
+	  "site":"OR",
       "topic":"GI",
       "startDate":"09/2014",
       "headline":"<div class='clsHeadline'>High Flux Isotope Reactor (HFIR) named Nuclear Historic Landmark at Oak Ridge National Laboratory (ORNL) </div>",
       "text":"<div class='clsText'>HFIR has provided neutrons for research and isotope production for over 48 years, and in September was designated a Nuclear Historic Landmark by the American Nuclear Society (ANS). <br /><br />The designation was proposed by the ANS honors and awards committee and approved on initial ballot by the board of directors. <br /><br />The reactor was conceived in the late 1950s as a production reactor to meet anticipated demand for elements such as plutonium and curium. HFIR today is a DOE Office of Science User Facility and one of the world’s sole sources of the radioisotope californium-252, used in industry and medicine. <br /><br />At left, the HFIR vessel at ORNL resides in a pool of water illuminated by the blue glow of the Cherenkov radiation effect. </div>",
-      "media":"Images/ORNL_Blue_Glow_Overlook.jpg",
+      "media":"images/ORNL_Blue_Glow_Overlook.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"HANF",
+	{
+	  "site":"HANF",
       "topic":"DD",
       "startDate":"01/2015",
       "headline":"<div class='clsHeadline'>Workers Removed Glove Boxes from Ventilation at Hanford’s Plutonium Finishing Plant (PFP) </div>",
       "text":"<div class='clsText'>In January of 2015, workers removed glove boxes from ventilation at Hanford’s PFP. The highly-contaminated glove boxes were once used to make plutonium metal from plutonium solutions for weapons production. <br /><br />This work is performed inside plastic enclosures to limit the spread of contamination. Preparing the glove boxes for removal is a key step toward demolition of the plant, which is about 75 percent ready for demolition. All glove boxes in the facility’s processing area have been cleaned, allowing for their removal from ventilation used to control contamination. <br /><br />At left, an employee at Hanford’s PFP uses a portable band saw to cut the last ventilation duct attached to glove boxes inside the facility’s former processing area. </div>",
-      "media":"Images/Hanford_PFP_Glovebox.jpg",
+      "media":"images/Hanford_PFP_Glovebox.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"LANL",
+	{
+	  "site":"LANL",
       "topic":"Soil",
       "startDate":"11/2014",
       "headline":"<div class='clsHeadline'>Los Alamos National Laboratory (LANL) Drilled to Record-breaking Depths </div>",
       "text":"<div class='clsText'>At LANL, EM pushed the limits of drilling technology with the use of a sonic drill rig to drill coreholes more than 1,100 feet deep in support of a chromium remediation project. The project is an initiative to remediate a chromium plume in the regional aquifer derived from historical laboratory operations at the site’s main power plant in the nearby upper Sandia Canyon. <br /><br />As part of LANL’s Corrective Actions Program (CAP), the team utilized a sonic drill rig, using vibration and rotation, to drill the coreholes. Unlike other rigs, this one drills without additives that could adversely affect the data obtained from the rock core. Experts will use data from the core in at least five coreholes to characterize chromium distribution underground and to develop strategies for plume control and remediation. <br /><br />At left, workers reached a record-breaking depth of 1,100 feet with a sonic drill rig. </div>",
-      "media":"Images/LANL_Drill.jpg",
+      "media":"images/LANL_Drill.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"SRS",
+	{
+	  "site":"SRS",
       "topic":"GI",
       "startDate":"01/2015",
       "headline":"<div class='clsHeadline'>Savannah River Site’s (SRS) Liquid Waste Operations Added a Multi-Functional Laboratory </div>",
       "text":"<div class='clsText'>A new multi-functional laboratory supporting high-level waste processing at SRS gave workers a new and improved place to provide back-up laboratory support and more space for chemical storage. <br /><br />The laboratory became operational in December 2014, replacing one that had been in use since January 1993. The older laboratory was housed in two trailers that were past their service life. The new laboratory will provide a training space and serve as a back-up laboratory for the Effluent Treatment Facility, part of the site’s liquid waste system. <br /><br />The new laboratory is used for a number of activities key to processing waste, including preparing chemical reagents (liquids used for sample analysis) needed in the radiological laboratory at the Defense Waste Processing Facility, testing new processing strategies, and training personnel on non-radioactive equipment. <br /><br />At left, a laboratory technician measures chemicals in the new laboratory at SRS. </div>",
-      "media":"Images/SRS_Liquid_Waste_Operations.jpg",
+      "media":"images/SRS_Liquid_Waste_Operations.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"INL",
+	{
+	  "site":"INL",
       "topic":"Disposal",
       "startDate":"07/2014",
       "headline":"<div class='clsHeadline'>Repackaging of 6,000 Drums of Sludge at Idaho National Laboratory (INL) </div>",
       "text":"<div class='clsText'>In July of 2014, EM completed a 6,000-drum sludge repackaging project at INL. <br /><br />The drums contained inorganic and organic radioactive waste as well as hazardous waste generated at the former Rocky Flats Plant near Denver. They remained stored on a pad and covered with soil at INL for more than 30 years. Workers treated and repackaged the drums, which were opened within a secondary containment area by specially designed excavators. <br /><br />Completed in just over 18 months, the project took place within a soft-sided building constructed over the waste disposal cell known as Pit 9. Using the Pit 9 treatment facility saved EM millions of dollars over the cost of constructing a new storage and treatment building. <br /><br />At left, workers in the process of repackaging the 6,000 drums. </div>",
-      "media":"Images/INL_6000_Drums.jpg",
+      "media":"images/INL_6000_Drums.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"INL",
+	{
+	  "site":"INL",
       "topic":"Disposal",
       "startDate":"07/2014",
       "headline":"<div class='clsHeadline'>Sodium Reactor Coolant Treated Ahead of Schedule and Below Budget at Idaho National Laboratory (INL) </div>",
       "text":"<div class='clsText'>In July 2014, EM completed a technically challenging sodium-treatment project seven weeks ahead of schedule and nearly $1 million under budget. The sodium, a reactive liquid metal, was used as a reactor coolant 20 years ago. <br /><br />Crews used a large tank as a vessel to treat 480 pounds of bulk sodium stored in drums at the Materials and Fuels Complex (MFC). During treatment, sodium was introduced into the tank and an aqueous solution was added to cause the metal to react in a controlled environment. The sodium at MFC was used as coolant for the Experimental Breeder Reactor-II (EBR-II), which operated from 1961 to 1994 and had a power output of 62 megawatts. EBR-II was used for testing materials and design concepts to improve reactor safety, culminating in the successful, historic tests of the inherently safe Integral Fast Reactor concept in 1986. <br /><br />At left, a historical photo of EBR-II that utilized the sodium reactor coolant. </div>",
-      "media":"Images/INL_Sodium_Reactor.jpg",
+      "media":"images/INL_Sodium_Reactor.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"INL",
+	{
+	  "site":"INL",
       "topic":"Disposal",
       "startDate":"11/2014",
       "headline":"<div class='clsHeadline'>Treatment and Shipment of Waste out of Idaho National Laboratory (INL) </div>",
       "text":"<div class='clsText'>In November of 2014, EM completed the successful treatment and shipping of transuranic (TRU) waste from Los Alamos National Laboratory's EM program. The original 25.6-cubic meter volume was compacted to 13.48 cubic meters. The waste was shipped in compliance with terms contained in the Idaho Settlement Agreement and demonstrated the Advanced Mixed Waste Treatment Project's continuing role as DOE’s regional center for processing waste from other sites. <br /><br />At left, shipments of waste leaving INL. </div>",
-      "media":"Images/INL_Shipments.jpg",
+      "media":"images/INL_Shipments.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"INL",
+	{
+	  "site":"INL",
       "topic":"Disposal",
       "startDate":"11/2014",
       "headline":"<div class='clsHeadline'>Idaho National Laboratory (INL) Completed Removal of Buried Transuranic and Hazardous Waste </div>",
       "text":"<div class='clsText'>In November 2014, EM completed removing buried transuranic and hazardous wastes from a combined area of 0.51 acres, 10 months ahead of schedule. Targeted waste from a combined area of 5.69 acres will be removed under a 2008 record of decision between DOE, the Environmental Protection Agency, and the state of Idaho. So far, waste from more than 3.5 acres has been removed and exhumation continues. <br /><br />At left, an inside view of the Accelerated Retrieval Project III enclosure which is part of the 0.51 acres exhumed. </div>",
-      "media":"Images/INL_ARPIII.jpg",
+      "media":"images/INL_ARPIII.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"PAD",
+	{
+	  "site":"PAD",
       "topic":"DD",
       "startDate":"10/2014",
       "headline":"<div class='clsHeadline'>Paducah Gaseous Diffusion Plant (GDP) Deactivation Project Commenced at Paducah Site </div>",
       "text":"<div class='clsText'>In October 2014, EM began operations to deactivate the Paducah GDP that was used for enriching uranium, and has been running continuously since 1952. EM’s scope includes optimizing the site’s utilities and infrastructure to support reduced operations and energy needs, facility surveillance and maintenance, deactivation, and waste management. <br /><br />Deactivation involves removing radioactive and hazardous materials from process equipment, shutting down facility systems, and de-energizing equipment in preparation for future demolition. <br /><br />The electrical distribution system at the plant was designed and built to reliably supply large amounts of power for enrichment operations. Because that capacity is no longer needed, one project is focused on minimizing power costs by ensuring the electrical system is appropriately sized. <br /><br />At left, switchyards at the Paducah GDP that will be optimized to meet future needs at the plant as part of EM’s deactivation activities. </div>",
-      "media":"Images/Paducah_Switchyards.jpg",
+      "media":"images/Paducah_Switchyards.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"LANL",
+	{
+	  "site":"LANL",
       "topic":"Soil",
       "startDate":"12/2014",
       "headline":"<div class='clsHeadline'>Chromium Remediation Project at Los Alamos National Laboratory (LANL) </div>",
       "text":"<div class='clsText'>To begin the process of chromium remediation, LANL installed and used an extraction well to pump groundwater to prevent the plume from migrating off laboratory property. The pumping is an interim measure and the first step in a multi-pronged remediation approach that may include in-situ chemical applications and bioremediation. Chromium in the regional aquifer originated from its use as a corrosion inhibitor at the laboratory’s main power plant between 1956 and 1972. <br /><br />At left, the site for LANL’s chromium remediation project located in a canyon adjacent to pueblo lands. </div>",
-      "media":"Images/LANL_ChromiumRem.jpg",
+      "media":"images/LANL_ChromiumRem.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"OR",
+	{
+	  "site":"OR",
       "topic":"DD",
       "startDate":"10/2014",
       "headline":"<div class='clsHeadline'>EM Began Demolishing K-31 Gaseous Diffusion Plant (GDP) at Oak Ridge National Laboratory (ORNL) </div>",
       "text":"<div class='clsText'>EM's demolition of the K-31 GDP at Oak Ridge’s East Tennessee Technology Park (ETTP) began in early October, marking the removal of the fourth of five GDPs at the former uranium enrichment site. <br /><br />The two-story building covers 750,000 square feet and spans a 17-acre footprint. The K-31 facility began operations in 1951, and it was used to enrich uranium for defense and commercial purposes until it was shut down in 1985. In 2005, EM removed most of the hazardous materials from the building’s interior. EM prepared the K-31 building for demolition this past summer by conducting asbestos abatement, removing the facility’s exterior transite paneling, disconnecting the building’s power sources, and completing pollution prevention efforts, such as filling interior and exterior storm drains. <br /><br />At left, demolition of the K-31 building at ORNL. </div>",
-      "media":"Images/OR_K31.jpg",
+      "media":"images/OR_K31.jpg",
       "credit":"",
       "caption":""
     },
-  {
-    "site":"SRS",
+	{
+	  "site":"SRS",
       "topic":"Soil",
       "startDate":"10/2014",
       "headline":"<div class='clsHeadline'>EM Began Cleanup Challenge at Savannah River Site (SRS): Coal Fired Ash </div>",
@@ -3210,8 +3210,8 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"LANL",
+	{
+	  "site":"LANL",
       "topic":"Soil",
       "startDate":"09/2013",
       "headline":"<div class='clsHeadline'>Quick Response to Flooding at Los Alamos National Laboratory (LANL) </div>",
@@ -3220,15 +3220,595 @@
       "credit":"",
       "caption":""
     },
-  {
-    "site":"",
+	{
+	  "site":"MOB",
+      "topic":"Soil",
+      "startDate":"01/2015",
+      "headline":"<div class='clsHeadline'>Moab Resumed Rail Shipments After Rockslide </div>",
+      "text":"<div class='clsText'>In January of 2015, EM’s Moab Uranium Mill Tailings Remedial Action Project resumed rail shipments after an almost two-month halt due to a major rockslide. An estimated 4,500 cubic yards of rock fell, blocking the portal to a tunnel the track traverses at the south end of the rail bench. <br /><br />The project is working on implementing several mitigation and safety measures in an effort to return to routine operations. Some of these include installing a radar system to monitor future movement on the hillside, building emergency shelters, reconfiguring the south haul road to avoid the area of highest evaluated risk, and installing a berm to act as a rockfall barrier. <br /><br />At left, a view of the hillside above the project rail bench where the rockslide originated. </div>",
+      "media":"Images/Moab_Rockslide.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"NNSS",
+      "topic":"GI",
+      "startDate":"03/2015",
+      "headline":"<div class='clsHeadline'>EM Started New Work Scope at the National Nuclear Security Site (NNSS) </div>",
+      "text":"<div class='clsText'>In March of 2015, EM increased their work scope at NNSS and became responsible for the environmental investigations, characterization, cleanup, and closure of NNSS sites. EM is also now responsible for review and evaluation of low-level and mixed low-level waste streams proposed for disposal at the NNSS. EM will continue the role of leading integration with other laboratories involved with environmental management activities and conducting public involvement and community outreach. <br /><br />At left, a field technician performs groundwater characterization at NNSS. </div>",
+      "media":"Images/NNSS_Em.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"SRS",
+      "topic":"HLW",
+      "startDate":"03/2015",
+      "headline":"<div class='clsHeadline'>Melter at the Savannah River Site (SRS) Poured 10 Millionth Pound of Glass </div>",
+      "text":"<div class='clsText'>In March of 2015, a melter in the Defense Waste Processing Facility (DWPF) poured its 10 millionth pound of glass, filling a total of 2,589 canisters. A melter is a 65-ton, teapot-shaped vessel that treats high-level radioactive waste stored in SRS waste tanks. The waste is blended with a sand-like borosilicate glass, called frit, and is high-heated in the melter at about 2,100 degrees Fahrenheit, forming a molten glass mixture. <br /><br />The melter is now 12 years old and is still working very safely and efficiently. Each canister poured is a reduction in the environmental risk in South Carolina.<br /><br />At left, the DWPF where a melter poured its 10 millionth pound of glass. </div>",
+      "media":"Images/SRS_melter.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"DD",
+      "startDate":"04/2015",
+      "headline":"<div class='clsHeadline'>Workers Removed Last Pencil Tank From Key Area of Hanford's Plutonium Finishing Plant (PFP)</div>",
+      "text":"<div class='clsText'>In April of 2015, more than 50 tank assemblies contaminated with chemical and radiological hazards were removed from Hanford’s PFP. The tanks, called pencil tanks due to their long and narrow shape, reclaimed plutonium from scrap metal during Hanford’s production days. The slender tanks range in size from 3 feet to 22 feet long and were pointed at the end to prevent the buildup of plutonium and a criticality from occurring. Removal of these tanks was a significant step toward demolition of the PFP. EM began removing the pencil tank assemblies in 2008. <br /><br />At left, a view through leaded glass shows empty brackets that once held pencil tanks. </div>",
+      "media":"Images/Hanford_Pencil_Tanks.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"Soil",
+      "startDate":"03/2015",
+      "headline":"<div class='clsHeadline'>Hanford Landfill Reached 17 Million Tons Disposed at Environmental Restoration Disposal Facility (ERDF) </div>",
+      "text":"<div class='clsText'>In March of 2015, EM reached 17 million tons of disposed contaminated material at the ERDF since the facility began operations in 1996. The disposal record is a measure of the tremendous amount of progress being made at the Hanford Site. <br /><br />The majority of cleanup waste at ERDF came from the 220-square-mile River Corridor, located along the banks of the Columbia River. The low-level waste consists mainly of soil contaminated by the effluent of Hanford’s nine plutonium production reactors, which operated from 1943-1987. In addition, ERDF also receives cleanup waste from other Hanford cleanup contractors. <br /><br />At left, workers at ERDF preparing waste for disposal. </div>",
+      "media":"Images/Hanford_ERDF.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"SRS",
+      "topic":"HLW",
+      "startDate":"02/2015",
+      "headline":"<div class='clsHeadline'>Savannah River Site (SRS) Salt Waste Processing Reached 5-Million Gallon Milestone </div>",
+      "text":"<div class='clsText'>In February of 2015, a salt waste processing milestone was reached when the five millionth gallon was processed through the Actinide Removal Process (ARP) and Modular Caustic Side Solvent Extraction Unit (MCU). The ARP and MCU work as an integrated system to remove nearly all of the radioactive isotopes from the salt waste portion of tank waste. Salt waste constitutes about 90 percent of the total waste inventory stored in the two site tank farms, and the removal and processing of the waste is key in SRS achieving its mission to disposition waste and close tanks. <br /><br />At left, SRS tank farms where waste is processed. </div>",
+      "media":"Images/SRS_5_Million.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"SRS",
+      "topic":"HLW",
+      "startDate":"03/2015",
+      "headline":"<div class='clsHeadline'>Savannah River Site (SRS) Mega-Volume Waste Disposal Unit Reached Halfway Construction Mark </div>",
+      "text":"<div class='clsText'>In March of 2015, the Saltstone Disposal Unit 6 (SDU 6) which is the first mega-volume salt waste disposal unit being built at the SRS, reached the halfway point in construction. Construction of the unit began in October of 2013, and will have a 30 million gallon capacity - more than 10 times the size of the current SDUs. Current plans indicate that SDU 6 will begin to receive decontaminated salt solution in May 2017, when the current SDUs 3 and 5 reach capacity. <br /><br />SRS currently has six smaller SDUs in place, each with a 2.9 million gallon capacity. The new mega-unit, sits on a two and a half acre site next to the Saltstone Facilities. <br /><br />At left, the SDU 6 halfway through construction. </div>",
+      "media":"Images/SRS_Mega_Tank.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"WIPP",
+      "topic":"GI",
+      "startDate":"04/2015",
+      "headline":"<div class='clsHeadline'>DOE Issued Waste Isolation Pilot Plant (WIPP) Radiological Release Phase II Investigation Report </div>",
+      "text":"<div class='clsText'>In April of 2015, EM released the Accident Investigation Board (AIB) Phase II Report related to the February 14, 2014, radiological event at WIPP near Carlsbad, New Mexico. <br /><br />The AIB completed an exhaustive investigation at WIPP and Los Alamos National Laboratory (LANL) to examine the cause of the radiological release. Based on post-event chemical, radiological, and fire forensic analyses, the AIB concluded that the release was caused by an exothermic reaction involving the mixture of organic materials and nitrate salts in one drum that was processed at LANL in December 2013. The AIB also concluded that an underground salt haul truck fire that occurred at WIPP on Feb. 5, 2014, did not cause or contribute to the radiological release event. To read the full report, <a href='http://energy.gov/sites/prod/files/2015/04/f21/WIPP%20Rad%20Event%20Report%20Phase%202%2004.16.2015.pdf' target='blank'>click here</a>. <br /><br />At left, the “AIB Phase II Report”. </div>",
+      "media":"Images/WIPP_AIB.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"PAD",
+      "topic":"DD",
+      "startDate":"06/2015",
+      "headline":"<div class='clsHeadline'>EM’s Paducah Site Completed Building Removals </div>",
+      "text":"<div class='clsText'>In June of 2015, EM completed demolition of the last of 32 inactive facilities to be removed as part of the cleanup scope that existed before commercial uranium enrichment operations ended at the Paducah Gaseous Diffusion Plant (PGDP) and the plant facilities were returned to DOE. Since 2004, EM has safely removed 4,700 tons of waste related to the C-410/C-420 buildings complex. <br /><br />Demolition included removal of 2,600 panels of cement asbestos siding and 9,000 feet of pipe. The siding panels are roughly 12 feet long by 3½ feet wide and weigh as much as 175 pounds each. Workers manually removed the panels, and then heavy equipment was used to lower the panels to the ground. Once removed, the remainder of the building was demolished to a slab. The amount of waste generated from decontamination and demolition would be enough to cover one football field to a depth of 15 feet. <br /><br />At left, heavy equipment operators “top-down” shearing to safely remove the remaining structure. </div>",
+      "media":"Images/Paducah_Top_Down.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"LANL",
+      "topic":"Soil",
+      "startDate":"07/2015",
+      "headline":"<div class='clsHeadline'>EM’s Los Alamos Field Office Completed Canyon-Side Cleanup of Mercury-Contaminated Soil </div>",
+      "text":"<div class='clsText'>In July of 2015, EM’s Los Alamos Field Office completed a steep canyon-side cleanup of mercury-contaminated soil on DOE property. The project was finished successfully in about five weeks — approximately three weeks ahead of schedule. Experts used a specialized telescoping crane and spider excavator to remove 160 cubic yards of mercury-contaminated soil from the rugged canyon side. The contaminants derived from Manhattan Project and early Cold War era operations at Solid Waste Management Unit 32-002(b2) at the former Technical Area 32, which was the site of a small medical research facility. <br /><br />At left, a spider excavator extracts mercury-contaminated soil. </div>",
+      "media":"Images/LANL_Mercury.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"PORT",
+      "topic":"DD",
+      "startDate":"07/2015",
+      "headline":"<div class='clsHeadline'>DOE and the Ohio Environmental Protection Agency (Ohio EPA) Approved Portsmouth Gaseous Diffusion Plant Site (GDP) Deactivation and Decommissioning (D&D) Plans </div>",
+      "text":"<div class='clsText'>In July of 2015, the Ohio EPA and DOE agreed to a plan to demolish the massive process buildings and other facilities undergoing D&D at the Portsmouth GDP. A proposed plan for the facilities' demolition was issued in November 2014 and a subsequent four-month public comment period and public meeting were conducted. All of the several hundred comments were reviewed and considered in the Record of Decision (ROD) final language. The formal ROD details DOE’s decision for the D&D of the plant’s three large process buildings (each more than 30 acres under roof) and other facilities. The plant is located on a 3,777-acre reservation near Piketon and was constructed between 1952 and 1956. Uranium enrichment operations spanned from 1954 until 2001 for national defense applications and the commercial nuclear fuel industry. <br /><br />At left, the Portsmouth Site’s large process buildings and other facilities. </div>",
+      "media":"Images/Portsmouth_GDP.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"SRS",
+      "topic":"HLW",
+      "startDate":"06/2015",
+      "headline":"<div class='clsHeadline'>Grouting Began on Savannah River Site (SRS) Waste Tank </div>",
+      "text":"<div class='clsText'>In June of 2015, SRS began the grouting process in Tank 16 which will be the first of the Type II tanks to be closed. Type II tanks are among the oldest at the site, having been constructed between 1955 and 1956. This tank is 85 feet in diameter and has a storage capacity of approximately 1 million gallons. The primary tank sits in a nearly three-foot-thick, reinforced concrete vault with a five-foot-high annulus secondary pan, much like a cup and saucer arrangement. During its use, the annulus was designed to contain any leaks that may have developed in the primary tank wall. <br /><br />These activities are prerequisites leading to regulatory confirmation that the tank was cleaned to the maximum extent practical and ready for closure. Waste tank closure is accomplished through the placement of grout to fill the entire tank and all tank component voids. <br /><br />At left, Cement trucks hauling specially-formulated grout to Tank 16 at SRS. </div>",
+      "media":"Images/SRS_Grouting.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"Cross",
+      "topic":"",
+      "startDate":"08/2015",
+      "headline":"<div class='clsHeadline'>Dr. Monica Regalbuto Confirmed as DOE Assistant Secretary for EM </div>",
+      "text":"<div class='clsText'>In August of 2015, Dr. Monica Regalbuto was confirmed by the Senate as the DOE’s Assistant Secretary for EM. Prior to her Senate confirmation, Dr. Regalbuto served as Associate Principal Deputy Assistant Secretary at EM. There she applied her deep technical expertise to reduce risk and uncertainty in EM’s cleanup mission across the DOE complex. Previously, she served as the Deputy Assistant Secretary of Fuel Cycle Technologies in the Office of Nuclear Energy, overseeing the development of our nation’s nuclear fuel cycle. <br /><br />As Assistant Secretary for EM, Dr. Regalbuto will provide the leadership necessary to continue the safe cleanup of the environmental legacy brought about from six decades of nuclear weapons development and government-sponsored nuclear energy research. She will work closely with communities that have partnered with DOE and its predecessor agencies for many decades. <br /><br />At left, Monica Regalbuto who was confirmed by the Senate in August of 2015 as DOE's Assistant Secretary for Environmental Management. </div>",
+      "media":"Images/EM_Assistant.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"OR",
+      "topic":"DD",
+      "startDate":"08/2015",
+      "headline":"<div class='clsHeadline'>EM Removes Radioactive Components from Former Reactor at Oak Ridge National Laboratory (ORNL) </div>",
+      "text":"<div class='clsText'>In August 2015, employees made significant progress by removing four irradiated components from the Oak Ridge Research Reactor at ORNL. Each of the components weighed approximately 200 pounds and together they accounted for 96 percent of the radiation at ORNL. The items were moved by long-handled tools into a container that was placed in the reactor pool. The container was retrieved and moved by a crane into an 80,000-pound, heavily-shielded shipping cask.  <br /><br />At left, employees gather to watch the transport of the shipment offsite for disposition. </div>",
+      "media":"Images/2015_08_OR_S1_Radioactive_Components.png",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"Soil",
+      "startDate":"09/2015",
+      "headline":"<div class='clsHeadline'>Hanford’s Groundwater Treatment System Expansion </div>",
+      "text":"<div class='clsText'>In September 2015, construction of the expansion 200 West Pump and Treat Facility was completed at Hanford.  Three new ion exchange columns, designed to capture uranium, were added to the facility. These columns were connected to 14,000 linear feet of double-wall, high-density polyethylene pipe. Finally, numerous electrical and infrastructure upgrades were implemented. <br /><br /> The addition of 200 West Pump and Treat Facility will expand the areas treated to include a larger portion of central Hanford. Central Hanford is where plutonium production facilities once operated. <br /><br /> At left, pumps, filters and piping surround a large, white inlet tank at the expanded portion of the 200 West Pump and Treat Facility. </div>",
+      "media":"Images/2015_09_HANF_S2_GW_treat_sys.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"PAD",
+      "topic":"DD",
+      "startDate":"09/2015",
+      "headline":"<div class='clsHeadline'>Reconfiguration of Paducah Site’s Electrical Distribution Provides Efficiency and Savings </div>",
+      "text":"<div class='clsText'> In September 2015, workers completed a project to reconfigure electrical distribution ahead of schedule and under budget at the Paducah Gaseous Diffusion Plant. <br /><br />The project began in July 2014 with consolidating the electrical distribution equipment in a more ideal configuration. In May 2015, the electrical substations, transformers, breakers, and relays were reconfigured and tied into the main electrical grid. Optimization of the site’s utilities provides cost savings that can be invested back into the plant cleanup project. <br /><br />At left, electricians prepare to attach a new power cable to a transformer inside the former Paducah Gaseous Diffusion Plant. </div>",
+      "media":"Images/2015_09_PAD_S3_electr_efficiency.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"INL",
+      "topic":"Disposal",
+      "startDate":"10/2015",
+      "headline":"<div class='clsHeadline'>Cleanup Nears Finish at Idaho Transuranic Waste Storage Facility </div>",
+      "text":"<div class='clsText'>In October 2015, Idaho workers entered the final storage “cell” of the Transuranic Storage Area—Retrieval Enclosure (TSA-RE) at the Advanced Mixed Waste Treatment Project (AMWTP). The workers removed 6,000 drums and 220 boxes of waste from TSA-RE. In the early 1970s, this waste was brought to Idaho, placed on an asphalt pad, stacked several layers high, and arranged in 14 “cells” for safety purposes. The waste was then covered with tarps and soil, which served as a barrier to potential radiological and environmental hazards. In the early 1990s, a huge metal structure was built over the soil berm. <br /><br />Over the past 40 years, many of the containers have significantly degraded.  DOE’s goal is to safely retrieve all waste for repackaging, and disposal. <br /><br />At left, drums and boxes of transuranic waste, circa. 1971. </div>",
+      "media":"Images/2015_10_INL_S4_TRU_Cleanup.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"LANL",
+      "topic":"DD",
+      "startDate":"10/2015",
+      "headline":"<div class='clsHeadline'>Demolition Complete at Historic Los Alamos National Laboratory (LANL) </div>",
+      "text":"<div class='clsText'>Demolition of the former radiologically contaminated warehouse 21-286 became a key milestone in the ongoing work being performed at Technical Area 21 (TA-21), one of the early sites of the Manhattan Project and Cold War work conducted at LANL. TA-21 is where the world’s first plutonium processing facility was located and where groundbreaking tritium research took place. <br /><br />Prior to demolition, the project included extensive building characterization to properly identify hazards. Appropriate controls were implemented to protect workers and the public. The project resulted in an overall footprint reduction of 3,310 square feet. <br /><br />At left, the former radiologically contaminated warehouse 21-286. </div>",
+      "media":"Images/2015_10_LANL_S5_demolition.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"SRS",
+      "topic":"HLW",
+      "startDate":"10/2015",
+      "headline":"<div class='clsHeadline'>Commercial Submersible Mixing Pumps (SMPs) Save DOE Millions of Dollars at Savannah River Site (SRS) </div>",
+      "text":"<div class='clsText'>A decision to buy SMPs off-the-shelf versus through a special order saved DOE $3.6 million. The new pumps are being used for the first time as a pilot program in Tank 26, a high level waste storage tank.  At $300,000, the cost of each new SMP is about a quarter of the cost of an old SMP ($1.2 million). <br /><br />At left, new SMPs are installed in radioactive waste tanks at the SRS. </div>",
+      "media":"Images/2015_10_SRS_S6_mix_pumps.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"WIPP",
+      "topic":"GI",
+      "startDate":"10/2015",
+      "headline":"<div class='clsHeadline'>Deputy Secretary Sherwood-Randall Visits Waste Isolation Pilot Plant (WIPP) </div>",
+      "text":"<div class='clsText'> In October 2015, Dr. Elizabeth Sherwood-Randall visited WIPP for a firsthand look at progress in the recovery of operations at the site and to meet with employees and community leaders. <br /><br />WIPP, closed since February 2014, has made significant progress in recovery. This includes initial closure of portions of the repository known as Panel 6 and Panel 7, Room 7; mine stability and underground habitability, restoration of electrical distribution; and radiological risk reduction. Radiological control personnel have performed thousands of surveys, and more than half of all underground areas have been released as controlled areas. <br /><br /> At left, Deputy Secretary Sherwood-Randall speaks to the WIPP workforce and employees. </div>",
+      "media":"Images/2015_08_WIPP_S7_dep_sec.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"PAD",
+      "topic":"GI",
+      "startDate":"10/2015",
+      "headline":"<div class='clsHeadline'>Package Steam Boilers to Provide Efficiency, Environmental Benefits at Paducah </div>",
+      "text":"<div class='clsText'>Five modern modular steam boilers have replaced three larger coal-fired boilers at EM’s Paducah Gaseous Diffusion Plant. The new boilers will better meet the site’s current and future steam needs, comply with regulatory standards, reduce maintenance costs, and eliminate repair and refurbishing costs associated with the old coal-fired boilers. <br /><br />At left, an aerial view of the package steam boilers, in the foreground, installed in the site’s existing steam system. </div>",
+      "media":"Images/2015_10_PAD_S8_steam_boilers.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"Soil",
+      "startDate":"11/2015",
+      "headline":"<div class='clsHeadline'>Hanford’s 300 Area Sees Significant Progress </div>",
+      "text":"<div class='clsText'>As of November 2015, 209 facilities have been demolished and 312 waste sites have been remediated in Hanford’s 300 Area. Structures demolished include six research reactors, fuel fabrication facilities, and research laboratories. Contaminated buildings and soil from waste sites have been moved away from the area near the river and transported to a permitted landfill near the site’s center. <br /><br />In September 2015, 51 acres of remediated sites in the 300 Area were backfilled and revegetated with native seeds. This marked the on-time completion of a major regulatory milestone. <br /><br />At left, the 300 Area before and after photos (taken in 1982 and 2015 respectively) show significant changes. </div>",
+      "media":"Images/2015_11_HAN_S9_Area_300.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"WV",
+      "topic":"HLW",
+      "startDate":"11/2015",
+      "headline":"<div class='clsHeadline'>History-Making Waste Relocation at West Valley </div>",
+      "text":"<div class='clsText'>In November 2015, for the first time in U.S. history, high-level waste (HLW) was placed in long-term, outdoor storage at the West Valley Demonstration Project (WVDP). <br /><br />The waste was originally liquid but had been immobilized in glass through the vitrification process and stored in the Main Plant Process Building. Relocation of the waste to an interim storage pad will allow pre-demolition activities to begin in Main Plant Process Building. <br /><br />At left, workers load an overpack container into a vertical storage cask. </div>",
+      "media":"Images/2015_11_WV_S10_waste_relocation.png",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"PIN",
+      "topic":"Soil",
+      "startDate":"11/2015",
+      "headline":"<div class='clsHeadline'>Pinellas Site Uses Horizontal Wells for Enhanced Bioremediation </div>",
+      "text":"<div class='clsText'>In November 2015, horizontal well injections of emulsified vegetable oil and bacteria (Dehalococcoides mccartyi or DHM) began at the former Pinellas Plant in Florida, now known as the Young - Rainey Science, Technology, and Research (STAR) Center. Bioremediation is a successful approach to remediating contaminated groundwater plumes. <br /><br />Building 100 of the STAR Center is owned by Pinellas County and fully occupied by tenants. Therefore, remedial action could not be conducted from inside the building. The best option for implementing enhanced bioremediation beneath building 100 was to install injection wells via directional drilling, in a horizontal configuration. In July, August, and September 2015, eight horizontal wells were installed. <br /><br />At left, a directional drilling rig at the STAR Center. </div>",
+      "media":"Images/2015_11_PIN_S11_horizontal_wells.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"Soil",
+      "startDate":"12/2015",
+      "headline":"<div class='clsHeadline'>Contaminated Chemicals Removed from the Columbia River Aquifer </div>",
+      "text":"<div class='clsText'>In FY 2015, an extensive groundwater treatment system at Hanford removed 557 pounds of hexavalent chromium from the Columbia River aquifer.  The system includes five pump-and-treat facilities and a network of more than 2,000 wells to extract, inject, and monitor groundwater. <br /><br />Water from the aquifer is pumped through the wells and piped to the pump-and-treat facilities, where water travels through columns packed with tiny resin beads and contaminants are removed through ion exchange. <br /><br />At left, ion exchange columns in the 100-DX Pump-and-Treat facility. </div>",
+      "media":"Images/2015_12_HANF_S12_horizontal_wells.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"HLW",
+      "startDate":"12/2015",
+      "headline":"<div class='clsHeadline'>Waste Retrieval Completed in Another Hanford Tank </div>",
+      "text":"<div class='clsText'>In December 2015, high level tank waste retrieval activities were completed in tank C-102. This marked the 14th single-shell tank retrieved from Hanford’s underground C tank farm. <br /><br />Crews removed nearly 300,000 gallons of waste from tank C-102. Retrieval activities included lowering an enhanced-reach sluicer into the underground tank to spray liquid, mainly recycled waste, to break up hardened waste deposits. The resulting waste slurry was then pumped out of the top of the tank and sent through a series of pipes to a safer double-shell tank for storage. <br /><br />At left, an internal camera shows the tank after retrieval activities were completed. </div>",
+      "media":"Images/2015_12_HANF_S13_tank_completion.jpg",
+      "credit":"",
+      "caption":""
+    },
+		{
+	  "site":"SPRU",
+      "topic":"Disposal",
+      "startDate":"12/2015",
+      "headline":"<div class='clsHeadline'>EM Celebrates Milestone with Removal of Last Waste Tank at Separations Process Research Unit (SPRU)</div>",
+      "text":"<div class='clsText'>In December 2015, EM marked a notable milestone at SPRU. Workers removed the last of seven large waste storage tanks from a vault and shipped it to an offsite low-level radioactive waste disposal facility. <br /><br />The tanks were used to contain radioactive waste in the 1950s.<br /><br /> At left, the last of seven tanks in the tank vault at SPRU is hoisted for placement in a made-to-order shipping container. </div>",
+      "media":"Images/2015_12_SPRU_S14_tank_removal.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"PAD",
+      "topic":"Disposal",
+      "startDate":"12/2015",
+      "headline":"<div class='clsHeadline'>Innovative Approach Reduces Cost as Workers Complete Project Ahead of Schedule at Paducah Site </div>",
+      "text":"<div class='clsText'>In December 2015, the last of nearly 100,000 gallons of transformer oil and 113,000 gallons of rinsing agent were shipped off-site for disposal, completing the project ahead of schedule.<br /><br />Transformers originally contained non-flammable oil contaminated with polychlorinated biphenyls (PCBs). To avoid spending half a million dollars on a rinsing agent, EM and it’s contractors came up with an innovative idea to rinse the transformers with lube oil also scheduled for disposal. <br /><br />At left, a former transformer. </div>",
+      "media":"Images/2015_12_PAD_S15_oil_removal.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"PORT",
+      "topic":"DD",
+      "startDate":"12/2015",
+      "headline":"<div class='clsHeadline'>Clearing Away Process Gas Equipment Moves D&D Forward at Portsmouth </div>",
+      "text":"<div class='clsText'>In December 2015, the last compressor from the X-326 uranium enrichment process building at the Portsmouth Gaseous Diffusion Plant Site was removed. The equipment removal included cutting and removing more than 7,000 separate contaminated components for off-site disposal. <br /><br /> At left, a crane operator lowers the last compressor to the operations floor in the X-326 uranium enrichment process building. </div>",
+      "media":"Images/2015_12_PORTS_S16_gas_equipment.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"SRS",
+      "topic":"HLW",
+      "startDate":"12/2015",
+      "headline":"<div class='clsHeadline'>Defense Waste Processing Facility (DWPF) at Savannah River Site (SRS) Pours 4,000th Canister of Vitrified Waste</div>",
+      "text":"<div class='clsText'>On December 31, 2015, workers poured the 4,000th canister of radioactive glass, a major milestone for the vitrification facility. If the 4,000 canisters were laid end to end, they would stretch more than 7.5 miles, the same distance of a roundtrip from the Pentagon to the U.S. Capitol. <br /><br />EM’s DWPF converts high-level radioactive liquid waste into a solid glass form. This process is known as vitrification but it is also called glassification. Vitrification uses extremely high temperatures to turn the sludge waste, combined with frit (a sand-like material), into the glass form. The glass form is suitable for safe, long-term disposal in stainless steel canisters. Currently, these canisters are safely stored in an on-site facility until a federal repository is identified. <br /><br />At left, DWPF is the nation’s only operating vitrification facility. </div>",
+      "media":"Images/2015_12_SRS_S17_4000th_canister_virtrified_waste.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"MOB",
+      "topic":"GI",
+      "startDate":"12/2015",
+      "headline":"<div class='clsHeadline'>Moab Project Marks 2.5 Million Safely Worked Hours </div>",
+      "text":"<div class='clsText'>At the end of December 2015, Moab Uranium Mill Tailings Remedial Action Project employees had worked 2.5 million hours without a work-related, lost-time injury or illness, as defined by the Occupational Safety and Health Administration. The last lost-time injury occurred in November 2009. <br /><br />At left, a gantry crane loads a container filled with uranium mill tailings onto a railcar in preparation for transport to the Crescent Junction disposal site. </div>",
+      "media":"Images/2015_12_MOAB_S18_safe_workhours.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"INL",
+      "topic":"Disposal",
+      "startDate":"01/2016",
+      "headline":"<div class='clsHeadline'>EM Employs New Robotic Equipment at Idaho National Lab (INL) </div>",
+      "text":"<div class='clsText'>EM recently obtained new robotic arms to replace aging ones for the treatment of legacy TRU waste at the Advanced Mixed Waste Treatment Project (AMWTP). Over the past 12 years, the robotic arms have examined, sorted, and treated much of the 56,000 cubic meters of legacy waste treated at the AMWTP. The use of these arms means that workers are not exposed to the hazardous materials. <br /><br />At left, a robotic arm sorts contaminated waste in an AMWTP boxline. </div>",
+      "media":"Images/2016_01_INL_S19_robotic_equipment.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"PAD",
+      "topic":"DD",
+      "startDate":"01/2016",
+      "headline":"<div class='clsHeadline'>New Phase of Demolition Ramps Up at Paducah </div>",
+      "text":"<div class='clsText'>In January 2016, heavy equipment operators safely demolished warehouse C-746-B, the first of 12 inactive facilities set for removal as part of EM’s ongoing Paducah cleanup. <br /><br />At left, the demolition of C-746-B warehouse at Paducah. </div>",
+      "media":"Images/2016_01_PAD_S20_demolition.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"MOB",
+      "topic":"Disposal",
+      "startDate":"01/2016",
+      "headline":"<div class='clsHeadline'>Uranium Mill Tailings Remedial Action Project Reaches Halfway Mark at Moab </div>",
+      "text":"<div class='clsText'>As of January 20, 2016, workers have removed 8 million tons of uranium mill tailings from the Moab site in Utah under the Uranium Mill Tailings Remedial Action Project. That is half of the estimated total 16 million tons to be shipped to an engineered disposal cell near Crescent Junction, Utah. <br /><br />At left, workers at the Moab site hold placards marking this major milestone. </div>",
+      "media":"Images/2016_01_Moab_S21_mill_tailings.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"DD",
+      "startDate":"02/2016",
+      "headline":"<div class='clsHeadline'>Highly Contaminated Gloveboxes Removed from the Plutonium Finishing Plant (PFP) at Hanford </div>",
+      "text":"<div class='clsText'>In February 2016, workers finished cutting up and removing two of the most highly contaminated pieces of processing equipment, called glove boxes, from PFP at the Hanford Site in Washington state. <br /><br />The glove boxes were about two stories tall and were heavily contaminated with radiological hazards. Workers cut the glove boxes into pieces and packaged them for eventual permanent disposal.  Removing the glove boxes brings DOE a significant step closer to being ready to start final demolition at PFP. <br /><br />At left, workers cut a two-story tall heavily contaminated glove box.</div>",
+      "media":"Images/2016_02_HANF_S22_glovebox_removed.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"Soil",
+      "startDate":"02/2016",
+      "headline":"<div class='clsHeadline'>Augering Campaign Progresses at Hanford</div>",
+      "text":"<div class='clsText'>DOE has achieved significant progress cleaning up Hanford’s 618-10 Burial Ground.  The 618-10 is a 7.5-acre area where highly radioactive and hazardous waste was disposed of into 94 vertically buried pipes in the early 1960s. <br /><br />The augering cleanup process involves driving steel overcasings into the ground around the pipes. An auger assembly is then used to grind up the waste, piping material, and soil within the overcasing. As of February, 2016, augering was completed for 30 pipes. <br /><br />The next step will be to remove the mixture in the over casing from the ground  and place it into a box, where it will be mixed with grout and prepared for disposal. <br /><br />At left, a video regarding cleanup of Hanford's high hazard 618-10 Burial Ground. </div>",
+      "media":"https://youtu.be/aAp_HxQsJ8o",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"OR",
+      "topic":"DD",
+      "startDate":"02/2016",
+      "headline":"<div class='clsHeadline'>Oak Ridge's K-27 Demolition Officially Begins </div>",
+      "text":"<div class='clsText'>In February 2016, the ceremonial “first bite” signaled the start of the K-27 Building demolition. K-27 is the last of five gaseous diffusion facilities to be torn down at ETTP. Demolition of the four-story, 383,000-square-foot building is one of EM’s highest cleanup priorities. <br /><br />At left, Oak Ridge's EM program kicked off the K-27 Building demolition. </div>",
+      "media":"https://youtu.be/Y0cWYktBLR4",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"PAD",
+      "topic":"Soil",
+      "startDate":"02/2016",
+      "headline":"<div class='clsHeadline'>Paducah Site Modernizes Equipment to Treat Off-Site Groundwater Contamination </div>",
+      "text":"<div class='clsText'>In February 2016, EM  completed upgrades to modernize C-612 Northwest Pump-and-Treat facility, a key facility that reduces off-site groundwater contamination at the former Paducah Gaseous Diffusion Plant. <br /><br />More than 2 billion gallons of water have been treated since operations began at the northwest groundwater contamination plume. An additional 1.5 billion gallons of water have been treated at a separate pump-and-treat facility at the northeast side of the plume. Overall, these operations have removed almost 4,200 gallons of trichloroethylene (TCE).  Pump-and-treat operations, and other efforts to remove contamination sources have reduced the plumes offsite by more than 20 percent. <br /><br />At left, the new groundwater contamination treatment equipment outside the C-612 Northwest Pump-and-Treat facility. </div>",
+      "media":"Images/2016_02_PAD_S25_equipment_gw_treatment.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"WIPP",
+      "topic":"Disposal",
+      "startDate":"02/2016",
+      "headline":"<div class='clsHeadline'>DOE Issues Final Environmental Impact Statement for Disposal of Greater-Than-Class C Waste </div>",
+      "text":"<div class='clsText'>In February 2016, DOE issued a final Environmental Impact Statement (EIS) that evaluates potential environmental impacts associated with the proposed development, operation, and long-term management of one or more disposal facilities for greater-than-class C (GTCC) low-level radioactive waste (LLRW). <br /><br />Of the five alternatives evaluated, DOE’s preferred alternative for disposal is the Department’s Waste Isolation Pilot Plant near Carlsbad, New Mexico, and/or land disposal at generic commercial facilities. <br /><br />At left, a transuranic (TRU) waste shipment makes its way to the Waste Isolation Pilot Plant in Carlsbad, N.M. </div>",
+      "media":"Images/2016_02_WIPP_S26_waste_disposal.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"Soil",
+      "startDate":"02/2016",
+      "headline":"<div class='clsHeadline'>Hanford’s Burial Ground Cleanup Continues </div>",
+      "text":"<div class='clsText'>The cleanup of Hanford’s 618-10 Burial Ground’s waste trenches continues. As of February 2016, workers have removed about 1,600 drums, some of which are concrete-lined and contain high dose rate items. Workers have also removed miscellaneous waste such as glove boxes and process equipment. The 618-10 Burial Ground covers more than seven acres and is one of the most hazardous cleanup sites in the EM complex. <br /><br />At left, the 618-10 Burial Ground. </div>",
+      "media":"Images/2016_02_HANF_S27_burial_ground_cleanup.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"Cross",
+      "topic":"",
+      "startDate":"03/2016",
+      "headline":"<div class='clsHeadline'>EM Exceeds DOE’s 2015 Carbon Footprint Reduction Goal </div>",
+      "text":"<div class='clsText'>In FY2015, EM reduced its carbon footprint by 34 percent, exceeding the Department’s target of 19 percent.  EM’s overall carbon footprint reduction was due in large part to the replacement of coal with biomass at the Savannah River Site (SRS) biomass cogeneration plants. <br /><br />EM’s reductions equate to the greenhouse gas emissions from 62,000 passenger vehicles driven for a year, or the carbon dioxide emissions from the consumption of 33 million gallons of gasoline.<br /><br />At left, spanning 34 acres, the SRS Biomass Cogeneration Facility. </div>",
+      "media":"Images/2016_03_CROSS_S28_Carbon_Footprint_Reduction.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"DD",
+      "startDate":"03/2016",
+      "headline":"<div class='clsHeadline'>Plutonium Finishing Plant (PFP) Demolition Progress at Hanford </div>",
+      "text":"<div class='clsText'>EM has made significant progress towards the completion of a major cleanup project at Hanford’s Central Plateau —demolition of the PFP to slab-on-grade.  More than half of the facility’s 7,100 feet of process vacuum piping, more than 70 percent of filter boxes, almost 90 percent of the plant’s asbestos, all of the 196 pencil tank units, and almost all of the 238 gloveboxes have been removed.<br /><br />At left, Hanford’s Plutonium Finishing Plant. </div>",
+      "media":"Images/2016_03_HANF_S29_PFP_demolition.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"GI",
+      "startDate":"03/2016",
+      "headline":"<div class='clsHeadline'>Columbia River Corridor Cleanup Progress </div>",
+      "text":"<div class='clsText'>EM achieved significant success in cleanup along the Columbia River Corridor at the Hanford Site.  Major accomplishments include placing six out of nine former production reactors in interim safe storage (a process called “cocooning”); preserving the B Reactor for historical purposes; remediating more than 1,200 waste sites; removing more than 500 facilities; and consolidating more than 25 cubic meters of radioactive sludge in containers in Hanford’s K West Basin.<br /><br />At left, the 220-square-mile River Corridor region adjacent to a 50 mile stretch of the Columbia River. </div>",
+      "media":"Images/2016_03_HANF_S30_River_Corridor.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"OR",
+      "topic":"Disposal",
+      "startDate":"03/2016",
+      "headline":"<div class='clsHeadline'>Progress Despite Obstacles at Oak Ridge</div>",
+      "text":"<div class='clsText'>Oak Ridge’s Office of Environmental Management (OREM) found a way to continue processing and storing remote-handled transuranic (RH-TRU) waste until waste disposal operations resume at EM’s Waste Isolation Pilot Plant (WIPP) in New Mexico. <br /><br />OREM and its contractors designed new overpack containers to encase the inner waste package and outer cask package for processed waste. These overpacks add more protection and enable safe and secure temporary storage until shipments resume, allowing OREM to maintain progress towards meeting its cleanup schedule.  <br /><br />At left, EM Principal Deputy Assistant Secretary Mark Whitney observes new overpacks that enable safe storage for processed remote-handled transuranic waste in Oak Ridge. </div>",
+      "media":"Images/2016_03_OR_S31_Progress_Despite_Obstacles.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"HLW",
+      "startDate":"03/2016",
+      "headline":"<div class='clsHeadline'>Hanford Tank Farm Workers Begin Tank Waste Retrieval Ahead of Schedule </div>",
+      "text":"<div class='clsText'>In March 2016, EM’s Office of River Protection (ORP) began retrieving waste from underground double-shell tank AY-102. Prior to retrieval, tank AY-102 contained about 594,000 gallons of supernate, and 151,000 gallons of sludge. In 2012, it was discovered that a small amount of waste could potentially be leaking into the annulus, the space between the inner and outer shells. Sludge retrieval is done using two sluicing nozzles, which spray liquid to break up the sludge so it can be pumped to a newer double-shell tank, AP-102. <br /><br />At left, workers connect the power supply and instrumentation in preparation for waste transfer.</div>",
+      "media":"Images/2016_03_HANF_S32_waste_tank_retrieval.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"INL",
+      "topic":"Disposal",
+      "startDate":"03/2016",
+      "headline":"<div class='clsHeadline'>New Conveyor System Improves Waste Processing Safety and Efficiency at Idaho National Lab (INL) </div>",
+      "text":"<div class='clsText'>Adding a new conveyor to EM’s Advanced Mixed Waste Treatment Project (AMWTP) at INL has improved the safety and efficiency of retrieval operations. <br /><br />Previously, workers would use a forklift to move the containers, survey them for radiation and external contamination, overpack them based on their physical conditions, and move them to an airlock, where they receive tracking labels.  The conveyor system was built to streamline the handling and reduce forklift travel. <br /><br />At left, overpacked drums before entering AMWTP’s new conveyor system. </div>",
+      "media":"Images/2016_03_INL_S33_conveyor_system.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"LBNL",
+      "topic":"DD",
+      "startDate":"03/2016",
+      "headline":"<div class='clsHeadline'>Demolition Progresses at Berkeley Laboratory </div>",
+      "text":"<div class='clsText'>EM demolished three structures at Lawrence Berkeley National Laboratory as it remediates an area of the Northern California campus that played an active role in groundbreaking science following World War II. <br /><br />At left, against the backdrop of San Francisco Bay, a worker sprays water to suppress dust and debris during demolition of Building 5.</div>",
+      "media":"Images/2016_03_LBNL_S34_Demolition_three_structures.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"SRS",
+      "topic":"DD",
+      "startDate":"03/2016",
+      "headline":"<div class='clsHeadline'>Savannah River Site (SRS) Begins Cleanup of Building Used to Produce Fuel for Space Program </div>",
+      "text":"<div class='clsText'>In March 2016, SRS began cleanup of a building containing residual hold-up of plutonium (Pu-238), which was used as a heat source to power deep-space missions. <br /><br />The inactive building, known as 235-F, is a two-story, blast-resistant, windowless, reinforced concrete structure. A section in the building, the former Plutonium Fuel Form (PuFF) Facility, was used to make spheres and pellets out of Pu-238 to electrically power deep space missions. One such mission was the Galileo space probe to Jupiter, launched from the Space Shuttle Atlantis in October 1989. <br /><br />At left, the Shift Operating Base inside the PuFF Facility allowed operators to use remote manipulators to work with Pu-238 inside the cells. </div>",
+      "media":"Images/2016_03_SRS_S35_235_F_Building_cleanup.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"HLW",
+      "startDate":"03/2016",
+      "headline":"<div class='clsHeadline'>EM's Office of River Protection on ‘Quickest Path to Glass’ for Hanford's Tank Waste </div>",
+      "text":"<div class='clsText'>In March 2016, EM Office of River Protection officials provided an update on the Direct-Feed Low-Activity Waste (DFLAW) Initiative. DFLAW is intended to allow EM to begin vitrifying Hanford tank waste as soon as 2022. Vitrification involves combining the tank waste with glass-forming materials and then heating the mixture to 2,100 degrees Fahrenheit. The material is then poured into stainless steel containers, where it cools to a solid glass form facilitating long-term storage. <br /><br />At left, EM Office of River Protection Manager Kevin Smith, provides an update on the DFLAW initiative during a panel session at the Waste Management Conference.</div>",
+      "media":"Images/2016_03_HANF_S36_quickest_path_to_glass.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"SRS",
+      "topic":"Soil",
+      "startDate":"03/2016",
+      "headline":"<div class='clsHeadline'>Savannah River Site (SRS) Contractor Uses Unconventional Treatment to Protect Groundwater and Reduce Cleanup Costs </div>",
+      "text":"<div class='clsText'>Inexpensive, natural measures are being used to clean up contaminated groundwater beneath SRS.  Finely milled silver chloride particles, reduced to about one-quarter-micron in size, are injected into the aquifer, and are extremely effective at capturing iodine-129 contamination.  Through use of this treatment, remedial costs associated with groundwater contaminants near the site’s F Area have been reduced, resulting in a cost avoidance of approximately 90 percent. The price tag has gone from about $1 million a month to $1 million a year.  From 2005 to 2016, DOE saved $100 million. <br /><br />At left, operators monitor the injection of silver chloride into the aquifer beneath F Area SRS. </div>",
+      "media":"Images/2016_03_SRS_S37_GW_cleanup.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"PAD",
+      "topic":"GI",
+      "startDate":"03/2016",
+      "headline":"<div class='clsHeadline'>Paducah Deactivation Project Marks 2 Million Safe Work Hours </div>",
+      "text":"<div class='clsText'>In March 2016, workers performing the remediation, deactivation, and decommissioning at the former Paducah Gaseous Diffusion Plant site reached 2 million hours without a lost-time injury on the job. <br /><br />At left, a maintenance mechanic lifts equipment at the C-337 former uranium enrichment process building at EM’s Paducah Site. </div>",
+      "media":"Images/2016_03_PAD_S38_safe_workhours.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"SRS",
+      "topic":"HLW",
+      "startDate":"03/2016",
+      "headline":"<div class='clsHeadline'>Defense Waste Processing Facility (DWPF) at Savannah River Site (SRS) Celebrates 20 Years of Operation </div>",
+      "text":"<div class='clsText'>March, 2016 marked the 20 year anniversary of the first high-level waste being converted into glass at the SRS. The nation’s only operating vitrification facility, the DWPF, has been the steady and reliable workhorse of liquid waste operations at the SRS. <br /><br />At left, a crane operator controls equipment with a remote control inside the Defense Waste Processing Facility at the SRS. </div>",
+      "media":"Images/2016_03_SRS_S39_DWPF_anniversary.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"HANF",
+      "topic":"Soil",
+      "startDate":"04/2016",
+      "headline":"<div class='clsHeadline'>Waste Removal Begins From Hanford Vertical Pipe Units </div>",
+      "text":"<div class='clsText'>In April, 2016 DOE began removing waste from vertically buried pipes at the Hanford Site in Washington state for the first time. Just two Hanford burial grounds, 618-10 and 618-11, used the disposal method, called vertical pipe units. These two waste sites were the last to be remediated in the river corridor because they were expected to be the most complex and challenging. Work started first on the 618-10 Burial Ground. <br /><br />At left, a vibratory hammer drives overcasings into the ground around vertically buried pipes filled with waste in the 618-10 Burial Ground at Hanford. </div>",
+      "media":"Images/2016_04_HANF_S40_vertical_pipes_waste.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"MOB",
+      "topic":"Soil",
+      "startDate":"04/2016",
+      "headline":"<div class='clsHeadline'>Moab Cleanup Progress </div>",
+      "text":"<div class='clsText'>As part of the cleanup of the Moab Site, DOE must remediate elevated ammonia levels in groundwater discharging to the Colorado River. Uranium is the other main contaminant of concern in the groundwater. <br /><br />To date, almost 228 million gallons of groundwater have been extracted through the interim action system, preventing 862,400 pounds of ammonia and 4,500 pounds of uranium from reaching the river. Groundwater extraction to an evaporation pond on top of the tailings pile ended in September, 2015 in preparation for removal of the pond. <br /><br />In the spring of 2016, the water storage tank and associated piping were relocated away from upcoming tailings pile excavation activities. Extraction of ground water resumed on April 21, 2016 with water being pumped directly to the storage tank for use as dust control on the pile. <br /><br />At left, an aerial view of the Moab site. </div>",
+      "media":"Images/2016_04_Moab_S41_GW_cleanup.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"WIPP",
+      "topic":"GI",
+      "startDate":"04/2014",
+      "headline":"<div class='clsHeadline'>DOE Issued Waste Isolation Pilot Plant (WIPP) Radiological Release Phase I Investigation Report</div>",
+      "text":"<div class='clsText'>In April of 2014, EM released the Accident Investigation Board (AIB) Phase I Report related to the February 14, 2014, radiological event at WIPP near Carlsbad, New Mexico. <br /><br />The Phase 1 report focused on the immediate response to the radiological event and on how the radiological material was released into the atmosphere.To read the full report, <a href='http://energy.gov/sites/prod/files/2014/04/f15/Final%20WIPP%20Rad%20Release%20Phase%201%2004%2022%202014_0.pdf' target='blank'>click here</a>. <br /><br />At left, the “AIB Phase I Report”.</div>",
+      "media":"Images/2014_04_WIPP_S42_AIB_PhaseI_Report.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"WIPP",
+      "topic":"GI",
+      "startDate":"03/2014",
+      "headline":"<div class='clsHeadline'>DOE Issued Waste Isolation Pilot Plant (WIPP) Underground Salt Haul Truck Fire Accident Investigation Report</div>",
+      "text":"<div class='clsText'>In March of 2014, EM released Accident Investigation Report of the February 5, 2014, Underground Salt Haul Truck Fire at the Waste Isolation Pilot Plant, Carlsbad NM. To read the full report, <a href='http://www.wipp.energy.gov/Special/AIB%20Report.pdf' target='blank'>click here</a>.<br /><br />At left, the Accident Investigation Report of the February 5, 2014, Underground Salt Haul Truck Fire. </div>",
+      "media":"Images/2014_03_WIPP_S43_AIB_Salt_Truck_Fire.jpg",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"",
       "topic":"",
       "startDate":"",
-      "headline":"<div class='clsHeadline'> </div>",
-      "text":"<div class='clsText'> </div>",
+      "headline":"<div class='clsHeadline'></div>",
+      "text":"<div class='clsText'><br /><br /></div>",
+      "media":"",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"",
+      "topic":"",
+      "startDate":"",
+      "headline":"<div class='clsHeadline'></div>",
+      "text":"<div class='clsText'><br /><br /></div>",
+      "media":"",
+      "credit":"",
+      "caption":""
+    },
+	{
+	  "site":"",
+      "topic":"",
+      "startDate":"",
+      "headline":"<div class='clsHeadline'></div>",
+      "text":"<div class='clsText'><br /><br /></div>",
       "media":"",
       "credit":"",
       "caption":""
     }
   ]  
-}
+  }
