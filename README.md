@@ -28,6 +28,6 @@ This is a timeline based on [Knight Lab's Timeline.js feature](https://github.co
 
 ### All non-DOEdrupal Timelines
 
-* EM timeline (_[github](https://github.com/energyapps/EM_timeline)_,_[energy.gov link](https://energy.gov/em/em-historical-timeline))
-* Paducah Site Historical Timeline (_[github](https://github.com/energyapps/PPPO_timeline)_,_[energy.gov link](https://energy.gov/pppo/paducah-site-historical-timeline))
-* History of the Lightbulb  (_github coming soon_,_[energy.gov link](https://energy.gov/articles/history-light-bulb))
+* EM timeline (_[github](https://github.com/energyapps/EM_timeline)_,_[energy.gov link](https://energy.gov/em/em-historical-timeline)_)
+* Paducah Site Historical Timeline (_[github](https://github.com/energyapps/PPPO_timeline)_,_[energy.gov link](https://energy.gov/pppo/paducah-site-historical-timeline)_)
+* History of the Lightbulb  (_github coming soon_,_[energy.gov link](https://energy.gov/articles/history-light-bulb)_)
